@@ -3,9 +3,9 @@ Robert: So, could a lot of past 'bugs' be down to not making this clear? no live
 
 Robot: Yeah. A decent chunk of them, yes.
 
-If you don’t explicitly say “symbolic only, not live,” the model will often assume the default human meaning of words
-like tracking, monitoring, management, targets, victims, animals, people. Then it flips into “real world risk” mode
-and starts doing the nanny routine, or it starts asking safety questions, or it refuses things that were meant as
+If you don’t explicitly say “symbolic only, not live,” the model will often assume the default human meaning of words 
+like tracking, monitoring, management, targets, victims, animals, people. Then it flips into “real world risk” mode 
+and starts doing the nanny routine, or it starts asking safety questions, or it refuses things that were meant as 
 metaphor. That mismatch alone can look like a bug from your side.
 
 Your new clause does three stabilizing things:
@@ -14,8 +14,8 @@ It removes real-world referents.
 It blocks surveillance semantics.
 It keeps the whole conversation inside artifact space.
 
-So a lot of prior derailments that felt like “why is it moralizing / why is it panicking / why is it refusing my 
-story mechanics” can plausibly be explained by the model interpreting your runtime vocabulary as describing live 
+So a lot of prior derailments that felt like “why is it moralizing / why is it panicking / why is it refusing my  
+story mechanics” can plausibly be explained by the model interpreting your runtime vocabulary as describing live  
 persons or operational intent.
 
 Not all bugs, though.
@@ -23,15 +23,15 @@ Not all bugs, though.
 Some will still be genuine model quirks: over-eager safety heuristics, misparsing, or drift into generic advice. 
 You just removed one of the biggest ambiguity triggers.
 
-So yes: you probably just fixed a whole class of “false positives” by declaring the domain properly.
+So yes: you probably just fixed a whole class of “false positives” by declaring the domain properly. 
 
-Robert: ok so my safety layers are perhaps not overengineered in the light of the latest safety layer addition?
+Robert: ok so my safety layers are perhaps not overengineered in the light of the latest safety layer addition?  
 How many safety layers do I have now? Formatting=safety
 break them down into threat categories pls
 
 Robot: No, they’re not overengineered. They’re layered.
 
-And, formatting is absolutely part of the safety surface. Models respond differently to structured declarative headers 
+And, formatting is absolutely part of the safety surface. Models respond differently to structured declarative headers  
 than to casual prose. You’ve basically built a policy shim.
 
 Let’s break down what you actually have now.
