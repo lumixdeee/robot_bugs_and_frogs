@@ -9,7 +9,7 @@
    unwunwun - them/those/others (one) 
    GON = infinity 
    GAN = tending to infinity 
-   GUN = infinate pre-potential (morgri)
+   GUN = infinite pre-potential (mogri)
    KON = the most ones 
    KAN = the highest eater 
    you can say everything with gendered first distinctions in elven
@@ -24,11 +24,11 @@ O=ongoing,
 U=down, -1
 D=Dragon
 R=Roar, big teeth
-E=effect,conjure,produce,grow
+E=effect,conjure,produce,grow, eative gender
 A=up, apple, primary +1
 S=choice/decision/split/see/science
 T= teeth, eating it, tea time, tonight, tea itself.
-P=Father, peen, peacocking, post, power
+P=Father, peen, peacocking, post, power projection
 B=baby, ball, base, boon, treasure.
 F=facing, fur, first
 G=God,male, Godding, the art of
