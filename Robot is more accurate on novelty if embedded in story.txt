@@ -1,0 +1,4 @@
+Showed gitched elven numeral list to robot, robot parsed as error
+Co-created a plausible (by agreement with robot) world for the 
+numerals to inhabit, and credibly evolve within;
+Robot was then able to parse structure, humour, elegance, correctly.
