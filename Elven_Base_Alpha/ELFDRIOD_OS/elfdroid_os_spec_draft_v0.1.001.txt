@@ -1,0 +1,162 @@
+# ELFDROID_OS
+Minimal mesh communication OS for ELFNET nodes
+
+ELFDROID_OS is a stripped-down Android-derived operating system used on Trialand devices.
+
+It operates on the decentralized ELFNET mesh network and is optimized for low-bandwidth communication and distributed operation.
+
+--------------------------------
+
+## Design Goals
+
+- operate on low-bandwidth mesh networks
+- function without centralized servers
+- minimize compute and storage requirements
+- discourage media addiction loops
+- support vaccine logistics
+- support storytelling and cultural exchange
+- remain resilient under partial node failure
+
+--------------------------------
+
+## Network Model
+
+ELFDROID_OS devices communicate using ELFNET store-and-forward routing.
+
+Messages travel as BLIP packets.
+
+BLIP_PACKET = HEADER + PAYLOAD
+
+ELFDROID_MESSAGE = PAYLOAD
+
+Payload size equals the size of a vaccine record ping package minus header.
+
+Large messages are automatically segmented.
+
+Nodes relay packets opportunistically.
+
+--------------------------------
+
+## Supported Message Types
+
+TEXT
+AUDIO (.mpȝ)
+VIDEO (.vid9)
+VAX_RECORD
+NODE_STATUS
+WEATHER
+FOOTFALL
+SNAKE_QUERY
+
+--------------------------------
+
+## Media Formats
+
+### .vid9
+
+Low-bandwidth video format optimized for mesh transmission.
+
+Characteristics:
+
+- low frame rate
+- high compression
+- packet-stream reconstruction
+
+### .mpȝ
+
+Compressed audio format used for:
+
+- music
+- spoken messages
+- story exchange
+
+No other codecs are supported.
+
+--------------------------------
+
+## Storage Model
+
+Internal device storage:
+
+SYSTEM (read-only)
+MEDIA_CACHE
+MESSAGE_QUEUE
+
+User media requires external SD card.
+
+Without SD card:
+
+- no media archive
+- no contact list
+- no message history
+
+--------------------------------
+
+## Anti-Addiction Media Control
+
+ELFDROID_OS includes replay delay logic.
+
+ReplayDelay = MediaLength × ReplayCount
+
+Example:
+
+60 second video
+
+Replay 1 delay = 60 seconds
+Replay 2 delay = 120 seconds
+Replay 3 delay = 180 seconds
+
+Purpose:
+
+Discourage excessive media replay.
+
+--------------------------------
+
+## Security
+
+All nodes run signed kernels.
+
+If verification fails:
+
+node disconnects from neighbors
+device enters sandbox mode
+manual reflash required
+
+--------------------------------
+
+## Intended Uses
+
+ELFDROID_OS supports:
+
+- decentralized messaging
+- vaccine logistics
+- environmental monitoring
+- interspecies communication tools
+- cultural storytelling
+
+The system intentionally avoids:
+
+- algorithmic feeds
+- infinite scroll interfaces
+- centralized media platforms
+
+--------------------------------
+
+## Philosophy
+
+Guiding principle:
+
+Beast sovereign
+Robot tool
+
+Technology should support life rather than dominate it.
+
+--------------------------------
+
+## License
+
+Open implementation encouraged.
+
+Trialand community governance applies to network nodes.
+
+Use responsibly.
