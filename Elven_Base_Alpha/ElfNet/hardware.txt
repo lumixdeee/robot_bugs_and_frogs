@@ -1,0 +1,125 @@
+# ELFNET Node Hardware Specification
+Reference design for Trialand communication nodes
+
+Version: 0.1  
+Status: Draft
+
+--------------------------------
+1. Overview
+--------------------------------
+
+ELFNET nodes provide local communication relay and shared infrastructure.
+
+Typical node functions:
+
+mesh relay
+data collection
+community communication hub
+
+--------------------------------
+2. Core Components
+--------------------------------
+
+Each node typically includes:
+
+radio transceiver
+low-power compute module
+local storage
+power generation system
+antenna mast
+
+--------------------------------
+3. Power Sources
+--------------------------------
+
+Nodes may combine several sources:
+
+solar panels
+micro wind turbines
+micro hydro systems
+animal-powered generators
+battery banks
+
+Goal: continuous operation with minimal maintenance.
+
+--------------------------------
+4. Compute Module
+--------------------------------
+
+Compute requirements are intentionally modest.
+
+Typical configuration:
+
+low-power ARM CPU
+minimal RAM
+solid state storage
+signed kernel firmware
+
+--------------------------------
+5. Network Hardware
+--------------------------------
+
+Directional antennas connect nodes across avenues.
+
+Redundant radio links increase reliability.
+
+Nodes automatically form mesh links with neighbors.
+
+--------------------------------
+6. Environmental Sensors
+--------------------------------
+
+Optional sensors include:
+
+weather monitors
+footfall counters
+environmental microphones
+
+Sensor data contributes to distributed situational awareness.
+
+--------------------------------
+7. Physical Design
+--------------------------------
+
+Nodes are designed for:
+
+long service life
+field repair
+component replacement
+
+Materials emphasize durability over aesthetics.
+
+--------------------------------
+8. Maintenance Model
+--------------------------------
+
+Maintenance is decentralized.
+
+Local communities may repair or replace components.
+
+Kernel verification prevents unauthorized modifications from propagating across the network.
+
+--------------------------------
+9. Expansion Capability
+--------------------------------
+
+Nodes may host additional modules:
+
+AI translation interfaces
+medical storage units
+community sound systems
+food preservation equipment
+
+Nodes evolve as community needs change.
+
+--------------------------------
+10. Philosophy
+--------------------------------
+
+Infrastructure should be:
+
+repairable
+replaceable
+non-dominating
+
+Technology should support human and ecological systems rather than control them.
