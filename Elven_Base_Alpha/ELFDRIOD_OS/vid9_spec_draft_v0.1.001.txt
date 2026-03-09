@@ -1,0 +1,110 @@
+# .vid9 Media Format Specification
+Low-bandwidth video codec for ELFNET transmission
+
+Version: 0.1  
+Status: Draft
+
+--------------------------------
+1. Purpose
+--------------------------------
+
+The .vid9 format is designed for extremely low bandwidth environments.
+
+It prioritizes:
+
+- small file size
+- resilience to packet loss
+- efficient segmentation across ELFNET packets
+
+--------------------------------
+2. Design Principles
+--------------------------------
+
+- low frame rate
+- strong compression
+- progressive playback
+- packet friendly encoding
+
+--------------------------------
+3. File Structure
+--------------------------------
+
+VID9_FILE = HEADER + FRAME_STREAM
+
+HEADER fields:
+
+FormatVersion
+FrameCount
+FrameRate
+Resolution
+CodecFlags
+
+--------------------------------
+4. Frame Encoding
+--------------------------------
+
+Frames use delta compression.
+
+Keyframe inserted periodically.
+
+Frame types:
+
+KEYFRAME
+DELTAFRAME
+
+Deltaframes reference the previous decoded frame.
+
+--------------------------------
+5. Packetization
+--------------------------------
+
+VID9 files are segmented into ELFNET packets.
+
+Each packet includes:
+
+VideoID
+FrameNumber
+SegmentIndex
+SegmentTotal
+
+Segments can arrive out of order.
+
+--------------------------------
+6. Playback Model
+--------------------------------
+
+Playback begins once:
+
+HEADER received
+first KEYFRAME received
+
+Additional frames stream progressively.
+
+--------------------------------
+7. Error Handling
+--------------------------------
+
+Missing DELTAFRAME segments may be skipped.
+
+Missing KEYFRAME forces decoder reset to next keyframe.
+
+--------------------------------
+8. Intended Content
+--------------------------------
+
+Storytelling
+Documentation
+Music performance
+Instructional material
+
+High motion video is not recommended.
+
+--------------------------------
+9. Cultural Constraint
+--------------------------------
+
+ELFDROID_OS introduces replay delay for VID9 playback:
+
+ReplayDelay = VideoLength × ReplayCount
+
+This discourages excessive passive viewing.
