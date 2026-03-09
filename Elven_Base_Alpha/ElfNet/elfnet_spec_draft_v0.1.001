@@ -1,0 +1,133 @@
+# ELFNET Protocol Specification
+Lightweight mesh messaging protocol for ELFDROID_OS
+
+Version: 0.1  
+Status: Draft
+
+--------------------------------
+1. Overview
+--------------------------------
+
+ELFNET is a store-and-forward mesh communication protocol used by ELFDROID_OS devices and fixed nodes.
+
+Design priorities:
+
+- extremely small packets
+- tolerant of intermittent connectivity
+- no central routing tables
+- eventual delivery rather than guaranteed pathing
+- low compute overhead
+
+Nodes forward messages opportunistically when links become available.
+
+--------------------------------
+2. Packet Structure
+--------------------------------
+
+All communication uses BLIP packets.
+
+BLIP_PACKET = HEADER + PAYLOAD
+
+HEADER fields:
+
+Version
+PacketType
+PacketID
+OriginNodeID
+HopCount
+TTL
+Checksum
+
+PAYLOAD contains message data.
+
+Payload size equals the size of a vaccine record ping package minus header.
+
+--------------------------------
+3. Packet Types
+--------------------------------
+
+TEXT
+AUDIO
+VIDEO
+VAX_RECORD
+NODE_STATUS
+WEATHER
+FOOTFALL
+SNAKE_QUERY
+ACK
+FRAGMENT
+
+--------------------------------
+4. Message Fragmentation
+--------------------------------
+
+Messages larger than a single payload are segmented.
+
+Each fragment includes:
+
+MessageID
+FragmentIndex
+FragmentTotal
+
+Receiving nodes reconstruct messages when all fragments arrive.
+
+Fragments may arrive out of order.
+
+--------------------------------
+5. Routing Model
+--------------------------------
+
+ELFNET uses gossip relay.
+
+Nodes forward packets based on:
+
+TTL
+duplicate detection
+local congestion
+
+Packets expire when TTL reaches zero.
+
+--------------------------------
+6. Node Behavior
+--------------------------------
+
+Nodes perform four continuous tasks:
+
+Receive packets  
+Cache packets  
+Forward packets  
+Expire packets
+
+Duplicate packets are discarded.
+
+--------------------------------
+7. Fault Tolerance
+--------------------------------
+
+Network remains functional under partial failure.
+
+Nodes may temporarily store packets for delayed delivery.
+
+Mobility of devices improves propagation.
+
+--------------------------------
+8. Security
+--------------------------------
+
+Packet integrity verified using checksums.
+
+Kernel-level device authentication prevents malicious nodes.
+
+Nodes failing authentication disconnect from neighbors.
+
+--------------------------------
+9. Philosophy
+--------------------------------
+
+ELFNET is designed to mimic natural information flow:
+
+slow spreading
+redundant paths
+no central authority
+
+Information moves through the network the way stories move through communities.
