@@ -1,14 +1,15 @@
 # ELFNET Protocol Specification
 Lightweight mesh messaging protocol for ELFDROID_OS
 
-Version: 0.1  
-Status: Draft
+Version: 0.1.001
+Status: Draft (Broadcast Extension)
 
 --------------------------------
 1. Overview
 --------------------------------
 
-ELFNET is a store-and-forward mesh communication protocol used by ELFDROID_OS devices and fixed nodes.
+ELFNET is a store-and-forward mesh communication protocol used by
+ELFDROID_OS devices, fixed nodes, and approved AI interfaces.
 
 Design priorities:
 
@@ -17,8 +18,13 @@ Design priorities:
 - no central routing tables
 - eventual delivery rather than guaranteed pathing
 - low compute overhead
+- minimal background traffic
+- emergency broadcast capability
 
 Nodes forward messages opportunistically when links become available.
+
+The protocol models natural information spread through communities,
+but allows rapid propagation for critical alerts.
 
 --------------------------------
 2. Packet Structure
@@ -36,6 +42,7 @@ PacketID
 OriginNodeID
 HopCount
 TTL
+Priority
 Checksum
 
 PAYLOAD contains message data.
@@ -54,8 +61,10 @@ NODE_STATUS
 WEATHER
 FOOTFALL
 SNAKE_QUERY
+SNAKE_REPLY
 ACK
 FRAGMENT
+BROADCAST_ALERT
 
 --------------------------------
 4. Message Fragmentation
@@ -84,8 +93,11 @@ Nodes forward packets based on:
 TTL
 duplicate detection
 local congestion
+priority level
 
 Packets expire when TTL reaches zero.
+
+Routing remains decentralized. No global routing table exists.
 
 --------------------------------
 6. Node Behavior
@@ -93,41 +105,105 @@ Packets expire when TTL reaches zero.
 
 Nodes perform four continuous tasks:
 
-Receive packets  
-Cache packets  
-Forward packets  
+Receive packets
+Cache packets
+Forward packets
 Expire packets
 
 Duplicate packets are discarded.
 
---------------------------------
-7. Fault Tolerance
---------------------------------
-
-Network remains functional under partial failure.
-
-Nodes may temporarily store packets for delayed delivery.
+Devices may delay forwarding if local bandwidth is limited.
 
 Mobility of devices improves propagation.
 
 --------------------------------
-8. Security
+7. Broadcast Alert Extension
+--------------------------------
+
+Broadcast alerts are used only for high-impact events such as:
+
+wildfire
+flood
+major storm
+earthquake
+volcanic activity
+large-scale infrastructure failure
+foreign invasion or major security threat
+
+Broadcast flow:
+
+ELFDROID device -> SNAKE_QUERY (broadcast request)
+
+Snake performs MA verification.
+
+If approved:
+
+Snake generates BROADCAST_ALERT packet.
+
+Distribution targets:
+
+- all ELFNET nodes
+- all ELFDROID handset owners
+- ElephantAI interface nodes
+
+Broadcast alerts use:
+
+Priority = MAX
+TTL = extended
+Forwarding = immediate
+
+Nodes must forward broadcast alerts before other traffic.
+
+Expected island-wide propagation time: < 30 minutes.
+
+--------------------------------
+8. ElephantAI Integration
+--------------------------------
+
+ElephantAI nodes receive BROADCAST_ALERT packets.
+
+ElephantAI may:
+
+- generate audible warnings
+- physically relay alerts across elephant networks
+- report environmental observations back to ELFNET
+
+ElephantAI does not originate broadcast alerts.
+
+--------------------------------
+9. Security
 --------------------------------
 
 Packet integrity verified using checksums.
 
 Kernel-level device authentication prevents malicious nodes.
 
+Broadcast alerts require MA approval via Snake mediation.
+
 Nodes failing authentication disconnect from neighbors.
 
 --------------------------------
-9. Philosophy
+10. Fault Tolerance
+--------------------------------
+
+Network remains functional under partial failure.
+
+Nodes may temporarily store packets for delayed delivery.
+
+If broadcast alerts encounter partitions,
+local nodes continue relay until TTL expiration.
+
+--------------------------------
+11. Philosophy
 --------------------------------
 
 ELFNET is designed to mimic natural information flow:
 
-slow spreading
+slow spreading by default
 redundant paths
-no central authority
+human propagation supported
 
-Information moves through the network the way stories move through communities.
+Broadcast alerts exist only for rare critical events.
+
+Technology assists communication,
+but human networks remain primary.
