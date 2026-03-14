@@ -1,13 +1,18 @@
 # ELFDROID_OS
 Minimal mesh communication OS for ELFNET nodes
 
-ELFDROID_OS is a stripped-down Android-derived operating system used on Trialand devices.
+Version: 0.1.001
+Status: Draft (Broadcast Extension)
 
-It operates on the decentralized ELFNET mesh network and is optimized for low-bandwidth communication and distributed operation.
+ELFDROID_OS is a stripped-down Android-derived operating system used on
+Trialand devices.
+
+It operates on the decentralized ELFNET mesh network and is optimized
+for low-bandwidth communication and distributed operation.
 
 --------------------------------
-
 ## Design Goals
+--------------------------------
 
 - operate on low-bandwidth mesh networks
 - function without centralized servers
@@ -16,10 +21,11 @@ It operates on the decentralized ELFNET mesh network and is optimized for low-ba
 - support vaccine logistics
 - support storytelling and cultural exchange
 - remain resilient under partial node failure
+- support emergency broadcast alerts
 
 --------------------------------
-
 ## Network Model
+--------------------------------
 
 ELFDROID_OS devices communicate using ELFNET store-and-forward routing.
 
@@ -35,9 +41,12 @@ Large messages are automatically segmented.
 
 Nodes relay packets opportunistically.
 
---------------------------------
+Emergency alerts may be delivered through the
+BROADCAST_ALERT packet type.
 
+--------------------------------
 ## Supported Message Types
+--------------------------------
 
 TEXT
 AUDIO (.mpȝ)
@@ -47,10 +56,12 @@ NODE_STATUS
 WEATHER
 FOOTFALL
 SNAKE_QUERY
+SNAKE_REPLY
+BROADCAST_ALERT
 
 --------------------------------
-
 ## Media Formats
+--------------------------------
 
 ### .vid9
 
@@ -62,6 +73,12 @@ Characteristics:
 - high compression
 - packet-stream reconstruction
 
+Typical use:
+
+- short recordings
+- field observations
+- cultural performance clips
+
 ### .mpȝ
 
 Compressed audio format used for:
@@ -69,18 +86,20 @@ Compressed audio format used for:
 - music
 - spoken messages
 - story exchange
+- emergency audio alerts
 
 No other codecs are supported.
 
 --------------------------------
-
 ## Storage Model
+--------------------------------
 
 Internal device storage:
 
 SYSTEM (read-only)
 MEDIA_CACHE
 MESSAGE_QUEUE
+ALERT_CACHE
 
 User media requires external SD card.
 
@@ -89,10 +108,31 @@ Without SD card:
 - no media archive
 - no contact list
 - no message history
+- alerts remain visible until acknowledged
 
 --------------------------------
+## Broadcast Alert Handling
+--------------------------------
 
+When a BROADCAST_ALERT packet is received:
+
+1. device interrupts normal queue processing
+2. alert is cached in ALERT_CACHE
+3. user receives audible and visual notification
+4. device forwards alert immediately to neighbors
+
+Alerts are read-only and cannot be edited by handset users.
+
+Alert messages may include:
+
+- event description
+- region identifier
+- timestamp
+- response guidance
+
+--------------------------------
 ## Anti-Addiction Media Control
+--------------------------------
 
 ELFDROID_OS includes replay delay logic.
 
@@ -102,35 +142,56 @@ Example:
 
 60 second video
 
-Replay 1 delay = 60 seconds
-Replay 2 delay = 120 seconds
-Replay 3 delay = 180 seconds
+Replay 1 delay = 60 seconds  
+Replay 2 delay = 120 seconds  
+Replay 3 delay = 180 seconds  
 
 Purpose:
 
 Discourage excessive media replay.
 
---------------------------------
+System philosophy favors creation and sharing
+over passive consumption.
 
+--------------------------------
 ## Security
+--------------------------------
 
 All nodes run signed kernels.
 
 If verification fails:
 
-node disconnects from neighbors
-device enters sandbox mode
-manual reflash required
+node disconnects from neighbors  
+device enters sandbox mode  
+manual reflash required  
+
+Broadcast alerts require verification through
+Snake mediation and MA approval.
 
 --------------------------------
+## ElephantAI Interface
+--------------------------------
 
+ElephantAI nodes may connect to ELFNET.
+
+Capabilities:
+
+- receive broadcast alerts
+- generate environmental reports
+- relay alerts acoustically across elephant groups
+
+ElephantAI nodes cannot originate broadcast alerts.
+
+--------------------------------
 ## Intended Uses
+--------------------------------
 
 ELFDROID_OS supports:
 
 - decentralized messaging
 - vaccine logistics
 - environmental monitoring
+- disaster warning propagation
 - interspecies communication tools
 - cultural storytelling
 
@@ -139,21 +200,22 @@ The system intentionally avoids:
 - algorithmic feeds
 - infinite scroll interfaces
 - centralized media platforms
+- addictive notification patterns
 
 --------------------------------
-
 ## Philosophy
+--------------------------------
 
 Guiding principle:
 
-Beast sovereign
-Robot tool
+Beast sovereign  
+Robot tool  
 
 Technology should support life rather than dominate it.
 
 --------------------------------
-
 ## License
+--------------------------------
 
 Open implementation encouraged.
 
