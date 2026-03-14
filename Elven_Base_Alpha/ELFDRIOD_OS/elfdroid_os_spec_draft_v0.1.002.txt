@@ -1,7 +1,7 @@
 # ELFDROID_OS
 Minimal mesh communication OS for ELFNET nodes
 
-Version: 0.1.001
+Version: 0.1.002
 Status: Draft (Broadcast Extension)
 
 ELFDROID_OS is a stripped-down Android-derived operating system used on
