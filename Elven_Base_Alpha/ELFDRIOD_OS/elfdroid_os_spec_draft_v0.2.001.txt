@@ -1,8 +1,8 @@
 # ELFDROID_OS
 Minimal mesh communication OS for ELFNET nodes
 
-Version: 0.1.002
-Status: Draft (Broadcast Extension)
+Version: 0.2.001
+Status: Draft (Broadcast + Governance + 4FA)
 
 ELFDROID_OS is a stripped-down Android-derived operating system used on
 Trialand devices.
@@ -22,6 +22,7 @@ for low-bandwidth communication and distributed operation.
 - support storytelling and cultural exchange
 - remain resilient under partial node failure
 - support emergency broadcast alerts
+- support distributed governance participation
 
 --------------------------------
 ## Network Model
@@ -58,6 +59,8 @@ FOOTFALL
 SNAKE_QUERY
 SNAKE_REPLY
 BROADCAST_ALERT
+GROUP_MESSAGE
+ADMIN_MESSAGE
 
 --------------------------------
 ## Media Formats
@@ -100,6 +103,7 @@ SYSTEM (read-only)
 MEDIA_CACHE
 MESSAGE_QUEUE
 ALERT_CACHE
+GROUP_CACHE
 
 User media requires external SD card.
 
@@ -131,6 +135,68 @@ Alert messages may include:
 - response guidance
 
 --------------------------------
+## Group Messaging
+--------------------------------
+
+ELFDROID_OS supports lightweight group messaging.
+
+Group messages are implemented using normal mesh propagation.
+
+Group types:
+
+USER_GROUP
+ADMIN_GROUP
+MODERATOR_GROUP
+
+Users may create custom groups locally.
+
+Groups are defined by:
+
+GroupID
+MemberNodeIDs
+
+--------------------------------
+### Admin / Moderator Messaging
+
+Devices include a one-touch function:
+
+"Message All Admins / Mods"
+
+This sends a GROUP_MESSAGE to the ADMIN_GROUP.
+
+Typical uses:
+
+- infrastructure issues
+- node outages
+- emergency coordination
+- governance participation
+
+Admin groups are defined by Snakenet governance lists.
+
+--------------------------------
+## Authentication (4FA)
+--------------------------------
+
+Administrative access and governance actions require four-factor authentication.
+
+Factors include:
+
+1. Personal PELF-derived password
+2. Device fingerprint sensor
+3. Camera verification of tattoo marker
+4. Voice verification
+
+### PELF-Based Authentication
+
+Each elf maintains a private self-name (PELF).
+
+Only the individual knows their PELF.
+
+A lossy transform of the PELF produces the device password.
+
+The original PELF is never transmitted or stored.
+
+--------------------------------
 ## Anti-Addiction Media Control
 --------------------------------
 
@@ -142,9 +208,9 @@ Example:
 
 60 second video
 
-Replay 1 delay = 60 seconds  
-Replay 2 delay = 120 seconds  
-Replay 3 delay = 180 seconds  
+Replay 1 delay = 60 seconds
+Replay 2 delay = 120 seconds
+Replay 3 delay = 180 seconds
 
 Purpose:
 
@@ -161,9 +227,11 @@ All nodes run signed kernels.
 
 If verification fails:
 
-node disconnects from neighbors  
-device enters sandbox mode  
-manual reflash required  
+node disconnects from neighbors
+device enters sandbox mode
+manual reflash required
+
+Administrative actions require successful 4FA verification.
 
 Broadcast alerts require verification through
 Snake mediation and MA approval.
@@ -189,6 +257,7 @@ ElephantAI nodes cannot originate broadcast alerts.
 ELFDROID_OS supports:
 
 - decentralized messaging
+- governance coordination
 - vaccine logistics
 - environmental monitoring
 - disaster warning propagation
@@ -208,8 +277,8 @@ The system intentionally avoids:
 
 Guiding principle:
 
-Beast sovereign  
-Robot tool  
+Beast sovereign
+Robot tool
 
 Technology should support life rather than dominate it.
 
