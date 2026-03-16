@@ -1,0 +1,26 @@
+#UN        = one
+
+#DUN       = two
+
+#TUN       = three
+
+#FURK      = four
+             highest 'named' number in ORK language c. -0.95MYa
+
+#HELAPUNK  = “five hunters needed to take one elephant”
+             name for elephant = name for '5'
+             later simplified in ORK to:
+
+#PUNK      = five
+             descendant forms: HELA → five in early elf / adi
+
+#ZIK       = "one more!"
+             used as an incremental call to summon additional hunters
+
+#OAK       = 1st warning
+
+#UNK       = 2nd warning
+
+#ORK       = 3rd and final warning
+             followed by repeated #ZIK calls to summon enough ORK
+             to dispense justice with minimal personal risk
