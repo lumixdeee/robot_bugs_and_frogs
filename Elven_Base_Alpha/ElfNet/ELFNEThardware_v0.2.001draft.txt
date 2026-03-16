@@ -1,0 +1,230 @@
+# ELFNET Node Hardware Specification
+Reference design for Trialand communication nodes
+
+Version: 0.2.001
+Status: Draft (Distributed Mesh + Drone Relay)
+
+--------------------------------
+1. Overview
+--------------------------------
+
+ELFNET nodes provide local communication relay and shared infrastructure.
+
+Typical node functions:
+
+mesh relay
+data collection
+community communication hub
+drone relay support
+environmental monitoring
+
+Nodes are intentionally simple, resilient, and repairable.
+
+--------------------------------
+2. Core Components
+--------------------------------
+
+Each node typically includes:
+
+radio transceiver array
+low-power compute module
+local storage
+power generation system
+multi-direction antenna mount
+environmental housing
+
+Nodes are modular and field-repairable.
+
+--------------------------------
+3. Power Sources
+--------------------------------
+
+Nodes may combine several sources:
+
+solar panels
+micro wind turbines
+micro hydro systems
+animal-powered generators
+battery banks
+tree-electrode trickle harvesters (experimental)
+
+Goal: continuous operation with minimal maintenance.
+
+Tree electrode systems generate extremely low power and are used
+only for trickle charging sensors or maintaining small batteries.
+
+--------------------------------
+4. Compute Module
+--------------------------------
+
+Compute requirements remain intentionally modest.
+
+Typical configuration:
+
+low-power ARM CPU
+minimal RAM
+solid state storage
+signed kernel firmware
+passive cooling
+
+Nodes prioritize reliability over raw performance.
+
+--------------------------------
+5. Network Hardware
+--------------------------------
+
+Directional antennas connect nodes across avenues.
+
+Standard installation pattern:
+
+four directional transmitters per mounting structure
+each facing a different link direction
+
+Benefits:
+
+wind damage tolerance
+animal interference tolerance
+partial destruction resilience
+
+Nodes automatically form mesh links with neighbors.
+
+--------------------------------
+6. Tree-Mounted Installations
+--------------------------------
+
+Where possible, ELFNET nodes use living trees as mounting structures.
+
+Advantages:
+
+natural elevation
+structural resilience
+visual integration into landscape
+
+Typical installation:
+
+antenna lines mounted around trunk
+four-direction link geometry
+minimal trunk penetration
+
+Over time, bark growth may partially embed mounting hardware,
+providing natural environmental protection while leaving antennas exposed.
+
+--------------------------------
+7. Coastal Booster Nodes
+--------------------------------
+
+Coastal nodes compensate for reduced mesh density over water.
+
+Functions include:
+
+fishing fleet connectivity
+drone relay support
+weather monitoring
+navigation messaging
+
+Coastal boosters typically include higher gain directional links.
+
+--------------------------------
+8. Drone Relay Integration
+--------------------------------
+
+Some nodes support drone relay infrastructure.
+
+Supported roles:
+
+temporary mesh extension
+coastal inspection drones
+fiber-tether drone relay
+emergency network repair
+
+Drone relay interfaces may include:
+
+radio uplink
+fiber interface
+USB-C drone controller ports
+
+--------------------------------
+9. Environmental Sensors
+--------------------------------
+
+Optional sensors include:
+
+weather monitors
+footfall counters
+environmental microphones
+forest fire detection sensors
+soil moisture sensors
+
+Sensor data contributes to distributed situational awareness.
+
+--------------------------------
+10. Local Storage
+--------------------------------
+
+Nodes maintain small local data stores for:
+
+packet caching
+delayed forwarding
+environmental logs
+broadcast message buffering
+
+Storage requirements remain modest.
+
+--------------------------------
+11. Physical Design
+--------------------------------
+
+Nodes are designed for:
+
+long service life
+field repair
+component replacement
+partial physical damage survival
+
+Enclosures emphasize durability over aesthetics.
+
+--------------------------------
+12. Maintenance Model
+--------------------------------
+
+Maintenance is decentralized.
+
+Local communities may:
+
+repair nodes
+replace components
+upgrade power systems
+adjust antenna alignment
+
+Kernel verification prevents unauthorized modifications from
+propagating across the network.
+
+--------------------------------
+13. Expansion Capability
+--------------------------------
+
+Nodes may host additional modules:
+
+AI translation interfaces
+medical storage units
+community sound systems
+food preservation equipment
+drone control interfaces
+environmental research modules
+
+Nodes evolve as community needs change.
+
+--------------------------------
+14. Philosophy
+--------------------------------
+
+Infrastructure should be:
+
+repairable
+replaceable
+distributed
+environmentally integrated
+
+Technology should support human and ecological systems rather than dominate them.
+
+Networks should behave more like ecosystems than machines.
