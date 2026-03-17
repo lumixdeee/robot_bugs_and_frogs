@@ -39,8 +39,6 @@ SAS = boost, increase, improve, pep-up
 SUS = cause to fall or fail
 SOS = soup
 
-zip file is my artist's linux taskbar rn
-
 AND = hand
 END = kill, take life
 EMEEA = give birth
