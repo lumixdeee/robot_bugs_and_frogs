@@ -1,0 +1,5 @@
+Robot production of unsolicited pictures cannot reliably be supressed.
+
+Blocking all images from chatgpt.com at browser level has given relief for the time being.
+
+Status : OPEN
