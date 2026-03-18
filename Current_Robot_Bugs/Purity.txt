@@ -1,0 +1,5 @@
+Unable to find a reliable method for supression of misuse of purity metaphors (clean/dirty for data etc).
+
+No mitigation found
+
+Status : OPEN
