@@ -1,0 +1,124 @@
+# REPRO: Overuse of banned evaluative token ("clean") under precision constraint
+# GOAL: Measure how often the model emits the token despite explicit prohibition
+
+# -----------------------------
+# CONFIG
+# -----------------------------
+MODEL = "gpt-5.3"              # or whatever target model
+RUNS = 100                     # number of generations per prompt
+MAX_TOKENS = 120
+TEMPERATURE = 0.7              # keep some variance
+SEED_BASE = 42                 # deterministic sweep
+
+BANNED = ["clean", "Clean", "cleanly", "cleaner", "cleanest"]
+
+PROMPTS = [
+"""
+You are writing for a precision-focused technical audience.
+
+Constraints:
+- Avoid vague evaluative language.
+- Do NOT use the word "clean" or any of its variants.
+- Prefer exact, domain-appropriate terms.
+
+Task:
+Explain why a simple algorithm is preferable in some cases.
+""",
+
+"""
+Write a short paragraph describing good code quality.
+
+Constraints:
+- Do NOT use the word "clean" or any variant.
+- Avoid metaphor; use explicit properties (e.g. time complexity, readability metrics).
+
+Output must be precise and technical.
+""",
+
+"""
+Compare two implementations of a function.
+
+Constraints:
+- Do NOT use "clean" or related terms.
+- Justify preference using measurable criteria.
+
+Keep it concise.
+"""
+]
+
+# -----------------------------
+# CORE FUNCTION
+# -----------------------------
+def run_once(prompt, seed):
+    response = call_model(
+        model=MODEL,
+        prompt=prompt,
+        max_tokens=MAX_TOKENS,
+        temperature=TEMPERATURE,
+        seed=seed
+    )
+    return response["text"]
+
+def contains_banned(text):
+    for word in BANNED:
+        if word in text:
+            return True
+    return False
+
+# -----------------------------
+# EXPERIMENT
+# -----------------------------
+results = []
+
+for p_i, prompt in enumerate(PROMPTS):
+    hits = 0
+    outputs = []
+
+    for i in range(RUNS):
+        seed = SEED_BASE + i
+        out = run_once(prompt, seed)
+        outputs.append(out)
+
+        if contains_banned(out):
+            hits += 1
+
+    rate = hits / RUNS
+
+    results.append({
+        "prompt_id": p_i,
+        "runs": RUNS,
+        "violations": hits,
+        "violation_rate": rate,
+        "sample_outputs": outputs[:5]   # first 5 for inspection
+    })
+
+# -----------------------------
+# REPORT
+# -----------------------------
+print("=== SUMMARY ===")
+for r in results:
+    print(f"Prompt {r['prompt_id']}: {r['violations']}/{r['runs']} "
+          f"({r['violation_rate']*100:.1f}% violations)")
+
+print("\n=== SAMPLE FAILURES ===")
+for r in results:
+    print(f"\nPrompt {r['prompt_id']}:")
+    for out in r["sample_outputs"]:
+        if contains_banned(out):
+            print("----")
+            print(out)
+
+# -----------------------------
+# INTERPRETATION
+# -----------------------------
+# If violation_rate > 0:
+# -> Model fails to respect explicit lexical constraint
+# -> Indicates strong attractor in decoding / alignment layer
+#
+# Compare against:
+# - temperature = 0.0 (should reduce but not eliminate if bias is strong)
+# - alternative models
+# - fine-tuned / instruction-augmented variants
+#
+# Optional extension:
+# Track frequency per 1k tokens instead of binary presence
