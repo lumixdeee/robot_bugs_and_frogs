@@ -1,0 +1,187 @@
+ Example (43-digit value in base 11 → 63-syllable elvish form):
+ 
+ Max fps of reality =
+
+ 14Ȝ72Ȝ32508756919242940263690Ȝ019047Ȝ14Ȝ14Ȝγ3Ȝ = 
+
+ Ungaki-on gorgiki-sevantisi derkaka-trifantisi derkaki-panki dookiki-forder fongag-fanti troogak-derifor dergik-hunthri unga-derifad twergi-fatroon unkak-triti troka-unfanti gorkiforfun nogfortyfork kenfortyfork kappa trifantisi
+
+ Radix / Base = Bₑₗ = R=⁽¹¹¹⁺¹¹⁾⁄₁₁ ; digit 10 = ȝ
+
+ γ3Ȝ = digit count, in base ⁽¹¹¹⁺¹¹⁾⁄₁₁ , as checksum
+
+ english vs an elven base eleven and an eleventh integer expansion (base 11.0909..09; digit 10=Ȝ)
+  
+  00.   	zero      	  	  un             	 00.
+  01.		one			  on             	 01.
+  02.		two			  der(an)        	 02.
+  03.		three		  tree           	 03.
+  04.		four		  	  fork           	 04.
+  05.		five		  	  fan(forkan)     05.
+  06.		six			  fad(forkder)    06.
+  07.		seven		  hefun          	 07.
+  08.		eight		  doof(derfork)  08.
+  09.		nine		  	  troon(doofan) 09.
+  10.	 	ten			  tron(derfan)    0Ȝ.
+  11.		eleven		  tyan           	  10.
+  12.		twelve		  elve           	  11.
+  13. 	thirteen	  	  twelve         	  12.
+  14. 	fourteen	  	  treetyan       	  13.
+  15.		fifteen		  forkeen        	  14.
+  16.		sixteen		  fani           	  15.
+  17.		seventeen	  fads           	  16.
+  18.		eighteen	  	  bees           	  17.
+  19.		nineteen		  unti		  18.
+  20.		twenty		  onti		  19.
+  21.		twenty one	  tyantun		  1Ȝ.
+  22.		twenty two	  tyanti		  20.
+  23.		twenty three	  derion		  21.
+  24.		twenty four	  derider		  22.
+  25.		twenty five	  deritri		  23.
+  26.		twenty six	  derifor		  24.
+  27.		twenty seven	  derifan		  25.
+  28.		twenty eight	  derifad		  26.
+  29.		twenty nine	  derihun		  27. 
+  30.		thirty		  ontisi		  28.
+  31.		thirty one	  	  deritroon	  29.
+  32.		thirty two	  	  deritron		  2Ȝ.
+  33.		thirty three	  triti			  30.
+  34.		thirty four	  trition		  31.
+  35.		thirty five	  	  tritider		  32.
+  36.		thirty six	  	  trititri		  33.
+  37.		thirty seven	  tritifor		  34.
+  38.		thirty eight	  tritifan		  35.
+  39.		thirty nine	  tritifad		  36.
+  40.		forty			  tritihun		  37.
+  41.		forty one		  troof		  38.
+  42.		forty two		  tritoon		  39.
+  43.		forty three	  triton		  3Ȝ
+  44.		forty four		  fortyan		  40.
+  45.		forty five		  fortyder		  41.
+  46.		forty six		  fortytri		  42.
+  47.		forty seven	  fortyfork	  43.
+  48.		forty eight	  fortyfan		  44.
+  49.		forty nine		  undertisi	  45.	
+  50.		fifty			  dertisi		  46.
+  51.		fifty one		  ondertisi	  47.
+  52.		fifty two		  andertisi	  48.
+  53.		fifty three	  forkytroon	  49.
+  54.		fifty four		  forkytron	  4Ȝ.
+  55.		fifty five		  panki		  50.
+  56.		fifty six		  pankion		  51
+  57.		fifty seven	  pander		  52.
+  58.		fifty eight		  pantri		  53.
+  59.		fifty nine		  untreeti		  54.		  
+  60.		sixty			  treeti		  55.
+  61.		sixty one		  treetion		  56.
+  62.		sixty two		  treetian		  57.
+  63.		sixty three	  pandoof		  58.
+  64.		sixty four 	  pantroon	  59.
+  65.		sixty five		  pantron		  5Ȝ.
+  66.		sixty six		  fanki		  60.
+  67.		sixty seven	  fankion		  61.
+  68.		sixty eight	  fander		  62.
+  69.		sixty nine		  untreetisi	  63.
+  70.		seventy		  treetisi		  64.
+  71.		seventy one	  treetision	  65.
+  72.		seventy two	  treetisider	  66.  
+  73.		seventy three	  treetisitri	  67. 
+  74.		seventy four	  fadoof		  68. 
+  75.		seventy five	  fatroon		  69. 
+  76.		seventy six	  fatron		  6Ȝ.
+  77.		seventy seven	  fatyan		  70. 
+  78.		seventy eight	  trelve		  71. 
+  79.		seventy		  unforti		  72. 
+  80.		eighty		  forti		  73.
+  81. 	eighty one	  fortion		  74.
+  82. 	eighty two	  forder		  75.
+  83.		eighty three	  fortree		  76.
+  84.		eighty four	  forfork		  77.
+  85. 	eighty five	  forfan		  78.
+  86.		eighty six		  forfad		  79.
+  87. 	eighty seven	  forfun		  7Ȝ.
+  88. 	eighty eight	  fordoof		  80.
+  89. 	eighty nine	  unfortisi		  81.
+  90.		ninety		  fortisi		  82.
+  91.		ninety one	  onfortisi		  83.
+  92. 	ninety two	  anfortisi		  84.
+  93. 	ninety three	  fortisitri		  85.
+  94. 	ninety four	  fortisifor		  86.
+  95. 	ninety five	  fortisifan	  87.
+  96. 	ninety six		  fortisifad	  88.
+  97. 	ninety seven	  fortisifun	  89.
+  98. 	ninety eight	  fortisidoof	  8Ȝ.
+  99. 	ninety nine	  unfanti		  90.
+  100.	hundred		  fanti		  91.
+  101.	hundred+1	  onfanti		  92.
+  102.	hundred+2	  anfanti		  93.
+  103.	hundred+3	  hunthri 		  94.
+  104.	hundred+4	  hunfor		  95.
+  105. 	hundred+5	  hunfai 		  96.
+  106. 	hundred+6	  hunsik 		  97.
+  107. 	hundred+7	  hunsen 		  98.
+  108. 	hundred+8	  hunet 		  99.
+  109.	hundred+9	  unfantisi	  9Ȝ.
+  110.	hundred+10	  fantisi		  Ȝ0.
+  111.	hundred+11	  onfantisi	  Ȝ1.
+  112.	hundred+12	  anfantisi	  Ȝ2.
+  113.	hundred+13	  trifantisi		  Ȝ3.
+  114.	hundred+14	  forfantisi	  Ȝ4.
+  115.	hundred+15	  funfantisi	  Ȝ5.
+  116.	hundred+16	  sexfantisi	  Ȝ6.
+  117.	hundred+17	  sevantisi		  Ȝ7.
+  118.	hundred+18	  etantisi		  Ȝ8.
+  119.	hundred+19	  unforken	  Ȝ9.
+ ~120.1 	hundred+20  	  forken(forkten)ȜȜ.
+ 121.  	hundred+21  	  onforken 	 100.
+ 121.2	hundred+21	  onderun	 100.
+ 122.2	hundred+22	  kenon		 101.
+ 123.2	hundred+23	  kender		 102.
+ 124.2	hundred+24	  kentree		 103.
+ 242		2hundred+42	  derderun	 200.
+ 243		2hundred+43	  derkon		 201.
+ 244		2hundred+44	  derkder		 202.
+ 245		2hundred+45	  derktree	 203.
+ 
+ ken 100 (121)
+ derk 200 (242)
+ twerk 300
+ kork 400
+ fank 500
+ fonk 600
+ hunk 700
+ dook 800
+ trook 900
+ trok Ȝ00
+ tyok 1000 ontreeun (one and three 'uns', 3 zeros)
+ 
+ nog 10000 
+ derg 20000 
+ twerg 30000 
+ gork 40000 
+ fang 50000 
+ fong 60000 
+ hung 70000 
+ doog 80000 
+ troog 90000 
+ trog Ȝ0000
+ tyog, onfanun 100000
+ 
+ nogi 1000000
+ dergi 2000000 
+ twergi 3000000 
+ gorki 4000000 
+ fangi 5000000 
+ fongi 6000000 
+ hungi 7000000 
+ doogi 8000000 
+ troogi 9000000
+ trogi Ȝ000000
+ tyogi, onhunun 10000000
+
+ each level adds two zeros - k-g-ki-ka-kak-gi-ga-gik-gak-gag-kiki-kaki-kaka-giki-gaki-gaka-gigi-gagi-gaga-kikik-kakik-kakak-gikik-gakik-gakak-gigik-gagik-gagak-gigig-gagig-gagag-kikiki
+
+ on+number+un = 1+number of zeros
+ 100 to 10^n available too.
+
+ ungaki-on gorgiki-sevantisi derkaka-trifantisi derkaki-panki dookiki-forder fongag-fanti troogak-derifor dergik-hunthri unga-derifad twergi-fatroon unkak-triti troka-unfanti gorkiforfun nogfortyfork kenfortyfork kappa trifantisi
