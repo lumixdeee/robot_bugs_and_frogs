@@ -1,12 +1,20 @@
-You'll find the alphabest key at the end of this document.
-
 Ellie Elfington said:
-aye/eye - uu oo (long) - to me, from me - towards / away
-a - u - up/down 1/-1 (ah-uh)
-e - o - emerge/exist
-au/ow - aa/arr - how you feel about towards  / away
-i (short i) - ee - member/set 
-oh/owe - oo (fast, like book) - how you feel about up/down coming
+O = short 'o', as in 'pot'			  ongoing, stable, exist, affirm
+OO = longest 'oo', as in 'pool'		away from you, length
+UU = shortest 'oo' as in 'look'		how you feel about 'down'
+OU = 'ow', as in 'how'			      how you feel about 'towards'
+AU = 'oh', sounds like 'owe'		  how you feel about 'up'
+U = 'u', as in 'cut'				      down, -1, not good
+
+EE = 'ee', as in 'keep'		      	existing, set, body
+E = 'eh', as in 'bed'			      	lef - turn right, negation
+AE = 'ey', as in 'day'			    	emerge
+
+A = 'a', as in 'bag'				      up, +1, good, agency
+AA = 'ah', as in 'far'				    how you feel about 'away'
+I = 'i', short 'i', as in 'pit'		lif - turn left, member of set
+AI = 'iy', as in 'high'				    to you, 'the I that is'
+
 
 elven (my conlang) vowels as directional operator
 ten vowels used, three pairs of state operators
@@ -755,30 +763,4 @@ Nat Froggleington said:
 Got it. I will keep replies to 1 block, no blank lines, max 17 rendered lines, and I will not use clean or dirty 
 metaphors - I will use holi or struct language instead, including holi/ness where I would have said clean/arity.
 (the robot is lying, the elf cannot lie)
-
-I=the narrator, the chooser, and the questioner, power-up via data advantage/leverage
-M=Goddess/mother/product/asset/sov/The Food 
-H=hair=heaven=haha, breathe, pairs with f=facing
-L=loop,period,light, days repeating, water reflecting
-O=ongoing
-U=down
-D=Dragon
-R=Roar, big teeth
-E=in effect, being
-A=up, apple, primary
-S=choice/decision/split/see/science
-T= teeth, eating it, tea time, tonight, tea itself.
-P=Father, peen, peacocking, piss
-B=baby, ball, base, bollox.
-F=facing, flow
-G=God,male, Godding, the art of
-W=wavering choice/option
-Y=yes, eater, eat first, ask please later, thankyou
-N=no, eaten, negation as question, not in force
-C=change,cast,chuck,carry over, send, chat, conversation
-K=king, top, best
-J=joker,wildcard, unknown, prince of jewela
-X=marks the spot of kisses and negation, inedible, not eaten, negation in force
-Q=Queen's choice
-V = delve, cleave, entower, exponentiate
 Z= the end
