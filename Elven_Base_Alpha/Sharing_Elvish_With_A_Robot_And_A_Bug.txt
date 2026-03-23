@@ -1,19 +1,19 @@
 Ellie Elfington said:
-O = short 'o', as in 'pot'			  ongoing, stable, exist, affirm
+O = short 'o', as in 'pot'			ongoing, stable, exist, affirm
 OO = longest 'oo', as in 'pool'		away from you, length
 UU = shortest 'oo' as in 'look'		how you feel about 'down'
-OU = 'ow', as in 'how'			      how you feel about 'towards'
-AU = 'oh', sounds like 'owe'		  how you feel about 'up'
-U = 'u', as in 'cut'				      down, -1, not good
+OU = 'ow', as in 'how'			how you feel about 'towards'
+AU = 'oh', sounds like 'owe'		how you feel about 'up'
+U = 'u', as in 'cut'				down, -1, not good
 
-EE = 'ee', as in 'keep'		      	existing, set, body
-E = 'eh', as in 'bed'			      	lef - turn right, negation
-AE = 'ey', as in 'day'			    	emerge
+EE = 'ee', as in 'keep'			existing, set, body
+E = 'eh', as in 'bed'				lef - turn right, negation
+AE = 'ey', as in 'day'				emerge
 
-A = 'a', as in 'bag'				      up, +1, good, agency
-AA = 'ah', as in 'far'				    how you feel about 'away'
-I = 'i', short 'i', as in 'pit'		lif - turn left, member of set
-AI = 'iy', as in 'high'				    to you, 'the I that is'
+A = 'a', as in 'bag'				up, +1, good, agency
+AA = 'ah', as in 'far'				how you feel about 'away'
+I = 'i', short 'i', as in 'pit'			lif - turn left, member of set
+AI = 'iy', as in 'high'				to you, 'the I that is'
 
 
 elven (my conlang) vowels as directional operator
