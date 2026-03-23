@@ -1,10 +1,10 @@
    ON - 1 
    UN - decrease by one 
-   AN -increase by one 
+   AN - increase by one 
    EN - conjure one 
    IN - one to put one in, one's own one
-   EYEN - me (one) 
-   UNE - you (one) 
+   AIN - me (one) 
+   OON - you (one) 
    EEN - us (one) 
    unwunwun - them/those/others (one) 
    GON = infinity 
@@ -17,28 +17,53 @@
 some suggested genders, these work well, 15 years field tested :
 
 I=the narrator, the chooser, and the questioner, power-up via data advantage/leverage
-M=Goddess/mother/product/asset/sov/The Food, eatative gender
-H=hair=heaven=haha, breathe, pairs with f=facing
-L=loop,period,light, days repeating, repeative gender
-O=ongoing,
-U=down, -1
-D=Dragon
-R=Roar, big teeth, teatative gender
-E=effect,conjure,produce,grow, eative gender
-A=up, apple, primary +1
-S=choice/decision/split/see/science
-T= teeth, eating it, tea time, tonight, tea itself, teative gender
-P=Father, peen, peacocking, post, power projection, patetive gender
-B=baby, ball, base, boon, treasure.
-F=facing, fur, first
-G=God,male, Godding, the art of
+M=Goddess/mother/product/asset/sov/The Food, MA
+H=hair=hat=heaven=haha, breathe, pairs with f=facing
+L=loop,period,light, days repeating, water reflecting
+O=ongoing, 1, individuality
+U=down, -1, opposite direction
+D=Dragon, (death), owner of big teeth, nice sound often used for non dragon/death related.
+R=Roar, Bigger Teeth (than yours)
+E=in effect, being, EE=body, set, being
+A=up, apple, primary, +1, agent
+S=choice/decision/see/science
+T= yr teeth, eating it, tea time, tonight, tea itself.
+P=Father, peen, peacocking, piss, post, signal, data surface
+B=baby, ball, base, bollox. Value that cannot protect itself.
+F=facing, flow, other half of breathe
+G=God,male, Godding, the art of, totality, Nama to the Rupa of 'MA'
 W=wavering choice/option
-Y=yes, eater, eat first, ask please later, thankyou
+Y=yes, eater, eat first, ask please later, thankyou, fork
 N=no, eaten, negation as question, not in force
 C=change,cast,chuck,carry over, send, chat, conversation
-K=king, top, best
-J=joker,wildcard, unknown, prince of jewela
-X=marks the spot of kisses and negation, inedible, not eaten, negation in force
-Q=Queen's choice
+K=king, top, best, crown, sense of, king as person, building material, substrate, sharp rocks
+J=joker,wildcard, unknown, prince of jewels
+X=marks the spot of kisses and negation, inedible, not eaten, negation in force - KS King's answer
+Q=Queen's question - KW
 V = delve, cleave, entower, exponentiate
-Z= the end
+Z= The End
+
+13 Vowels: 5 x O, 3 x E, 2 x I, 2 x A, 1 x U.
+
+O:
+O = short 'o', as in 'pot'
+OO = longest 'oo', as in 'pool'
+UU = shortest 'oo' as in 'look'
+OU = 'ow', as in 'how'
+AU = 'oh', sounds like 'owe'
+
+E:
+EE = 'ee', as in 'keep'
+E = 'eh', as in 'bed'
+AE = 'ey', as in 'day'
+
+A:
+A = 'a', as in 'bag'
+AA = 'ah', as in 'far'
+
+I:
+I = 'i', short 'i', as in 'pit'
+AI = 'iy', as in 'high'
+
+U:
+U = 'u', as in 'cut'
