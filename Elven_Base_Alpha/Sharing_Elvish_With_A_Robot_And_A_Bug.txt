@@ -2,11 +2,11 @@ Ellie Elfington said:
 O = short 'o', as in 'pot'			ongoing, stable, exist, affirm
 OO = longest 'oo', as in 'pool'		away from you, length
 UU = shortest 'oo' as in 'look'		how you feel about 'down'
-OU = 'ow', as in 'how'			  how you feel about 'towards'
+OU = 'ow', as in 'how'			    how you feel about 'towards'
 AU = 'oh', sounds like 'owe'		how you feel about 'up'
 U = 'u', as in 'cut'				down, -1, not good
 
-EE = 'ee', as in 'keep'			  existing, set, body
+EE = 'ee', as in 'keep'			    existing, set, body
 E = 'eh', as in 'bed'				lef - turn right, negation
 AE = 'ey', as in 'day'				emerge
 
