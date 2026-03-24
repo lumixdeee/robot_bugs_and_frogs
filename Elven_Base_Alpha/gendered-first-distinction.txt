@@ -43,27 +43,26 @@ Q=Queen's question - KW
 V = delve, cleave, entower, exponentiate
 Z= The End
 
-13 Vowels: 5 x O, 3 x E, 2 x I, 2 x A, 1 x U.
+14 Vowels: 5 x O, 3 x E, 2 x I, 2 x A, 2 x U.
 
-O:
-O = short 'o', as in 'pot'
-OO = longest 'oo', as in 'pool'
-UU = shortest 'oo' as in 'look'
-OU = 'ow', as in 'how'
-AU = 'oh', sounds like 'owe'
+O = short 'o', as in 'pot'			ongoing, stable, exist, affirm, ok
+OO = longest 'oo', as in 'pool'		away from you, length
+UU = shortest 'oo' as in 'look'		how you feel about 'down'
+OU = 'ow', as in 'how'			how you feel about 'towards'
+AU = 'oh', sounds like 'owe'		how you feel about 'up'
+U = 'u', as in 'cut'				down, -1, not good
 
-E:
-EE = 'ee', as in 'keep'
-E = 'eh', as in 'bed'
-AE = 'ey', as in 'day'
+EE = 'ee', as in 'keep'			existing, set, body, towards you
+E = 'eh', as in 'bed'				lef - turn right, negation
+AE = 'ey', as in 'day'				emerge
 
-A:
-A = 'a', as in 'bag'
-AA = 'ah', as in 'far'
+A = 'a', as in 'bag'				up, +1, good, agency
+AA = 'ah', as in 'far'				how you feel about 'away', yes
+I = 'i', short 'i', as in 'pit'			lif - turn left, member of set
+AI = 'iy', as in 'high'				'the I that is', to you from above
 
-I:
-I = 'i', short 'i', as in 'pit'
-AI = 'iy', as in 'high'
+UE = 'err', as in 'purr'			to you from low/below or behind
+*UR can also be used as 'err' morpheme
 
-U:
-U = 'u', as in 'cut'
+YAE - yes
+NAE - no
