@@ -1,4 +1,5 @@
 Ellie Elfington said:
+
 O = short 'o', as in 'pot'			ongoing, stable, exist, affirm
 OO = longest 'oo', as in 'pool'		away from you, length
 UU = shortest 'oo' as in 'look'		how you feel about 'down'
@@ -15,6 +16,10 @@ AA = 'ah', as in 'far'				how you feel about 'away'
 I = 'i', short 'i', as in 'pit'		lif - turn left, member of set
 AI = 'iy', as in 'high'				to you, 'the I that is'
 
+UE = 'err', as in 'purr'			to you from low/below or behind
+
+YAE - yes
+NAE - no
 
 elven (my conlang) vowels as directional operator
 ten vowels used, three pairs of state operators
