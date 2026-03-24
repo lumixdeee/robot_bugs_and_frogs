@@ -48,17 +48,17 @@ Z= The End
 O = short 'o', as in 'pot'			ongoing, stable, exist, affirm, ok
 OO = longest 'oo', as in 'pool'		away from you, length
 UU = shortest 'oo' as in 'look'		how you feel about 'down'
-OU = 'ow', as in 'how'			how you feel about 'towards'
+OU = 'ow', as in 'how'			   how you feel about 'towards'
 AU = 'oh', sounds like 'owe'		how you feel about 'up'
 U = 'u', as in 'cut'				down, -1, not good
 
-EE = 'ee', as in 'keep'			existing, set, body, towards you
+EE = 'ee', as in 'keep'			   existing, set, body, towards you
 E = 'eh', as in 'bed'				lef - turn right, negation
 AE = 'ey', as in 'day'				emerge
 
 A = 'a', as in 'bag'				up, +1, good, agency
 AA = 'ah', as in 'far'				how you feel about 'away', yes
-I = 'i', short 'i', as in 'pit'			lif - turn left, member of set
+I = 'i', short 'i', as in 'pit'		lif - turn left, member of set
 AI = 'iy', as in 'high'				'the I that is', to you from above
 
 UE = 'err', as in 'purr'			to you from low/below or behind
