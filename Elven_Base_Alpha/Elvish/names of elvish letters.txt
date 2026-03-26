@@ -1,0 +1,45 @@
+names of elvish letters.txt
+
+OMO		O = short 'o', as in 'pot'		ongoing, stable, exist, affirm, ok
+MOON		OO = longest 'oo', as in 'pool'		away from you, length
+OOK		UU = shortest 'oo' as in 'look'		how you feel about 'down'
+MOU	    	OU = 'ow', as in 'how'			how you feel about 'towards'
+AUM	  	AU = 'oh', sounds like 'owe'		how you feel about 'up'
+IOO		U = 'u', as in 'cut'			down, -1, not good
+	
+MEE		EE = 'ee', as in 'keep'			existing, set, body, towards you
+EE		E = 'eh', as in 'bed'			lef - turn right, negation
+AE		AE = 'ey', as in 'day'			emerge
+ASH		EA = 'air' as in 'hair'			ether, substrate
+	
+AM		A = 'a', as in 'bag'			up, +1, good, agency
+AAM		AA = 'ah', as in 'far'			how you feel about 'away', yes
+INK		I = 'i', short 'i', as in 'pit'		lif - turn left, member of set
+AIM		AI = 'iy', as in 'high'			'the I that is', to you from above
+	
+MUE		UE = 'err', as in 'purr'		to you from low/below or behind
+	
+	
+EM		M=Goddess/mother/product/asset/sov/The Food, MA
+HAE		H=hair=hat=heaven=haha, breathe, pairs with f=facing
+EL		L=loop,period,light, days repeating, water reflecting
+DEE		D=Dragon, (death), owner of big teeth, nice sound often used for non dragon/death related.
+AAR		R=Roar, Bigger Teeth (than yours)
+ES		S=choice/decision/see/science
+ETI		T= yr teeth, eating it, tea time, tonight, tea itself.
+THON		TH = 'th' sound, otherwise as 'T', ignore the 'H' for parsing, also good for 'think' related and soft topics	
+PAE		P=Father, peen, peacocking, pee-pee, post, signal, data surface
+BAMB		B=baby, ball, base, bollox. Value that cannot protect itself.
+EF		F=facing, flow, other half of breathe
+GAE		G=God,male, Godding, the art of, totality, Nama to the Rupa of 'MA'
+DIOO		W=wavering choice/option
+YIP		Y=yes, eater, eat first, ask please later, thankyou, fork
+EN		N=no, eaten, negation as question, not in force
+CHAI		CH=change,cast,chuck,carry over, send, chat, conversation
+KAE		K=king, top, best, crown, sense of, king as person, building material, substrate, sharp rocks
+JAE		J=joker,wildcard, unknown, prince of jewels
+AX		X=marks the spot of kisses and negation, inedible, not eaten, negation in force - 'KS' at end of word, else 'Z' sound
+KIOO		Q=Queen's question - KW
+EEV		V = delve, cleave, entower, exponentiate
+XED		Z= The End
+
