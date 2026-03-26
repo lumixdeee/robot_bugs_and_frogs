@@ -10,6 +10,7 @@ U = 'u', as in 'cut'				down, -1, not good
 EE = 'ee', as in 'keep'			    existing, set, body
 E = 'eh', as in 'bed'				lef - turn right, negation
 AE = 'ey', as in 'day'				emerge
+EA = 'air' as in 'hair'				ether, substrate
 
 A = 'a', as in 'bag'				up, +1, good, agency
 AA = 'ah', as in 'far'				how you feel about 'away'
