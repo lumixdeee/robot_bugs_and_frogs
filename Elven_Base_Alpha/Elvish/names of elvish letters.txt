@@ -1,11 +1,11 @@
 names of elvish letters.txt
 
-OMO		O = short 'o', as in 'pot'		ongoing, stable, exist, affirm, ok
-MOON		OO = longest 'oo', as in 'pool'		away from you, length
+OMO		O = short 'o', as in 'pot'			ongoing, stable, exist, affirm, ok
+MOON	OO = longest 'oo', as in 'pool'		away from you, length
 OOK		UU = shortest 'oo' as in 'look'		how you feel about 'down'
-MOU	    	OU = 'ow', as in 'how'			how you feel about 'towards'
+MOU	    OU = 'ow', as in 'how'				how you feel about 'towards'
 AUM	  	AU = 'oh', sounds like 'owe'		how you feel about 'up'
-IOO		U = 'u', as in 'cut'			down, -1, not good
+IOO		U = 'u', as in 'cut'				down, -1, not good
 	
 MEE		EE = 'ee', as in 'keep'			existing, set, body, towards you
 EE		E = 'eh', as in 'bed'			lef - turn right, negation, emerge
