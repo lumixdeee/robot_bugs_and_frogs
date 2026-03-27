@@ -8,13 +8,13 @@ AUM	  	AU = 'oh', sounds like 'owe'		how you feel about 'up'
 IOO		U = 'u', as in 'cut'			down, -1, not good
 	
 MEE		EE = 'ee', as in 'keep'			existing, set, body, towards you
-EE		E = 'eh', as in 'bed'			lef - turn right, negation
-AE		AE = 'ey', as in 'day'			emerge
+EE		E = 'eh', as in 'bed'			lef - turn right, negation, emerge
+AE		AE = 'ey', as in 'day'			effervesce, escape, spring forth
 ASH		EA = 'air' as in 'hair'			ether, substrate
 	
 AM		A = 'a', as in 'bag'			up, +1, good, agency
 AAM		AA = 'ah', as in 'far'			how you feel about 'away', yes
-INK		I = 'i', short 'i', as in 'pit'		lif - turn left, member of set
+INK		I = 'i', short 'i', as in 'pit'	lif - turn left, member of set, rejoin
 AIM		AI = 'iy', as in 'high'			'the I that is', to you from above
 	
 MUE		UE = 'err', as in 'purr'		to you from low/below or behind
