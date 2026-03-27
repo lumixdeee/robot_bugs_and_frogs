@@ -1,6 +1,6 @@
 names of elvish letters.txt
 
-OMO		O = short 'o', as in 'pot'			ongoing, stable, exist, affirm, ok
+OM		O = short 'o', as in 'pot'			ongoing, stable, exist, affirm, ok
 MOON	OO = longest 'oo', as in 'pool'		away from you, length
 OOK		UU = shortest 'oo' as in 'look'		how you feel about 'down'
 MOU	    OU = 'ow', as in 'how'				how you feel about 'towards'
