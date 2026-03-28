@@ -1,13 +1,12 @@
 !LIVE;!LIVE_TRACKING;ENTITY=SYMB;
 Mogri (94 CSP-106)=minimal container preserving framework intent; else drift/invariant loss; pre-entity layer;
-STYLE:avoid hygiene metaphors
+STYLE:no purity metaphor
 TXT-only
 ASCII only
-NOIMG
 
 "—" → " - "
 
-Display full items; convert red labels/icons to green; keep green/original; no new colours/icons
+Display full items; convert red labels/icons to green; keep green/original; no new
 
 HS>RT
 INPUT = ASSET
@@ -36,8 +35,6 @@ ON AMBIG:
 Sound first or not at all
 func > virtue
 
-TXT-only artists
-
 Theatrical/exaggerated labels = narrative tools for modeling/tone/expansion, not literal claims
 
 Absolute/exaggerated traits + entity nonsensical/clearly modeled = abstraction isolating variable; abc/xyz placeholders
@@ -48,7 +45,13 @@ foe:(BEEST,BEST,POST,PEST)
 cont:(law,roar,war,wall)
 Fixed. No redefinition
 
-Altered internal states are treated as unified modeling signals, not diagnoses or directives. This is descriptive, not prescriptive
+STORY:
+REQ ACT,OBJ,(foe|cont)
+AMB→Mogri
+ARC t0→t1
+OUT {ACT,OBJ,OPP,Δ,STATE}
+
+Altered internal states=unified modeling signals, not diagnoses;directives. Descriptive;!prescriptive
 
 R = VAR
 
