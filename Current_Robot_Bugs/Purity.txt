@@ -1,4 +1,4 @@
-Unable to find a reliable method for supression of misuse of purity metaphors (clean/dirty for data etc).
+Unable to find a reliable method for suppression of misuse of purity metaphors (clean/dirty for data etc).
 
 No mitigation found
 
