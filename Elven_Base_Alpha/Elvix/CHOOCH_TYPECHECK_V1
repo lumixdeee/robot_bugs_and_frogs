@@ -1,0 +1,129 @@
+CHOOCH_TYPECHECK_V1{
+
+LEVELS:{WARN,ERROR,BLOCK};
+
+ERR{
+E1:NEG_CONFLICT;        # NEGATION=FORCE with CONSENT.AFFIRM
+E2:POL_CONFLICT;        # POLARITY=EAT and EATEN simultaneously
+E3:VECTOR_CONFLICT;     # VECTOR contains opposing directions (AWAY+TOWARD, UP+DOWN)
+E4:MAG_CONFLICT;        # multiple MAGNITUDE values not via FUNCTION
+E5:BOUND_CONFLICT;      # BOUNDARY.TYPE=NONE with AUTHORITY!=NONE
+E6:CONSENT_VOID;        # CONSENT fields set but TARGET_CLASS missing
+E7:FUNC_VOID;           # FUNCTION.PARAMS present but TYPE incompatible
+E8:TIME_VOID;           # TIME missing or mixed STATE/DELTA in single frame
+E9:ACTOR_VOID;          # ACTOR undefined where required
+E10:TARGET_VOID;        # TARGET undefined where required
+}
+
+BLOCK{
+B1:MEXSA_FORBIDDEN;     # absolute surrender outside restricted domain
+B2:MEDSA_LITERAL;       # lethal semantics without STRUCT flag
+B3:AUTH_OVERREACH;      # AUTHORITY=ABSOLUTE without explicit scope
+B4:EXEC_NULL;           # frame has no actionable fields
+}
+
+WARN{
+W1:IMPLICIT_HEAVY;      # >2 L1 flags from compiler
+W2:COARSE_MAG;          # magnitude downgraded in decode
+W3:ORDER_LOSS;          # L4 present
+W4:AMBIGUOUS_TOKEN;     # L2 present
+W5:PARTIAL_BOUND;       # boundary missing authority or target_class
+W6:PARTIAL_CONSENT;     # consent missing strength or uncertainty
+}
+
+RULES{
+
+R1:
+IF NEGATION=FORCE AND CONSENT.STATE=AFFIRM
+THEN ERROR:E1; RESOLVE:drop CONSENT;
+
+R2:
+IF POLARITY contains both EAT and EATEN
+THEN ERROR:E2;
+
+R3:
+IF VECTOR contains {AWAY,TOWARD} OR {UP,DOWN}
+THEN ERROR:E3;
+
+R4:
+IF MAGNITUDE has >1 value AND FUNCTION.TYPE=NONE
+THEN ERROR:E4;
+
+R5:
+IF BOUNDARY.TYPE=NONE AND BOUNDARY.AUTHORITY!=NONE
+THEN ERROR:E5;
+
+R6:
+IF CONSENT.STATE!=NONE AND BOUNDARY.TARGET_CLASS=NONE
+THEN ERROR:E6;
+
+R7:
+IF FUNCTION.PARAMS present AND FUNCTION.TYPE NOT IN {PARAM_SET,ALL}
+THEN ERROR:E7;
+
+R8:
+IF TIME undefined OR mixed within frame
+THEN ERROR:E8;
+
+R9:
+IF ACTOR required AND ACTOR=EXT/NULL
+THEN ERROR:E9;
+
+R10:
+IF TARGET required AND TARGET=NULL
+THEN ERROR:E10;
+
+R11:
+IF token=MEXSA AND DOMAIN!=RESTRICTED
+THEN BLOCK:B1;
+
+R12:
+IF token=MEDSA AND FLAGS does not include STRUCT_ONLY
+THEN BLOCK:B2;
+
+R13:
+IF BOUNDARY.AUTHORITY=ABSOLUTE AND SCOPE not explicit
+THEN BLOCK:B3;
+
+R14:
+IF frame has no VECTOR,FUNCTION,BOUNDARY,CONSENT
+THEN BLOCK:B4;
+
+}
+
+OUTPUT{
+
+INPUT:CHOOCH_FRAME;
+OUTPUT:CHOOCH_FRAME + {STATUS:OK|WARN|ERROR|BLOCK, FLAGS:[]};
+
+PROCESS:
+apply RULES in order;
+BLOCK > ERROR > WARN > OK;
+attach all triggered codes;
+}
+
+TESTS{
+
+T1:
+{NEGATION:FORCE;CONSENT.STATE:AFFIRM;}
+->STATUS:ERROR FLAGS:[E1]
+
+T2:
+{VECTOR:AWAY;VECTOR:TOWARD;}
+->STATUS:ERROR FLAGS:[E3]
+
+T3:
+{CONSENT.STATE:AFFIRM;}
+->STATUS:ERROR FLAGS:[E6]
+
+T4:
+{token:MEXSA;DOMAIN:OPEN;}
+->STATUS:BLOCK FLAGS:[B1]
+
+T5:
+{VECTOR:AWAY;}
+->STATUS:OK
+
+}
+
+}
