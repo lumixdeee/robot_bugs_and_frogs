@@ -1,0 +1,152 @@
+ELVIX_COMPILER_V1{
+
+MODES:{ENCODE(ETCHA->CHOOCH),DECODE(CHOOCH->ETCHA)};
+
+LOSS_FLAGS{
+L0:NONE;
+L1:IMPLICIT_FIELD_FILLED;
+L2:AMBIGUOUS_TOKEN;
+L3:MULTI_MAP_COLLISION;
+L4:ORDER_LOSS;
+L5:MAGNITUDE_COARSE;
+L6:CONSENT_PARTIAL;
+L7:BOUNDARY_PARTIAL;
+L8:CHANNEL_INFERRED;
+L9:UNKNOWN_TOKEN;
+}
+
+ENCODE{
+
+INPUT:ETCHA_SEQ;
+OUTPUT:CHOOCH_SEQ+FLAGS;
+
+STEPS{
+
+E1:TOKENIZE:
+split on space/semicolon; keep order index;
+
+E2:MAP:
+for each token t:
+ if t in MAP -> apply mapping;
+ else -> FLAGS+=L9; emit {FLAGS:[UNKNOWN:t]};
+
+E3:MERGE:
+fold tokens into frames (per clause):
+ rule:last-write-wins per field;
+ append FLAGS;
+
+E4:IMPLICIT_FILL:
+for each frame:
+ if VECTOR missing -> VECTOR:ONGOING; FLAGS+=L1;
+ if TIME missing -> TIME:DELTA; FLAGS+=L1;
+ if CHANNEL missing -> CHANNEL:IMPLICIT; FLAGS+=L8;
+
+E5:CONFLICT_CHECK:
+if NEGATION=FORCE and CONSENT.AFFIRM present -> keep NEGATION; FLAGS+=L6;
+if multiple tokens map same field with different values -> FLAGS+=L3;
+
+E6:ORDER_TAG:
+attach ORDER index array; FLAGS+=L4;
+
+E7:OUTPUT:
+emit CHOOCH frames with FLAGS;
+}
+
+}
+
+DECODE{
+
+INPUT:CHOOCH_SEQ;
+OUTPUT:ETCHA_SEQ+FLAGS;
+
+STEPS{
+
+D1:NORMALIZE:
+ensure all PRIM fields present;
+
+D2:SELECT_TOKENS:
+for each frame:
+ build candidate tokens from MAP inverse;
+
+D3:PRIORITY:
+choose minimal token set that covers fields:
+ priority:CONSENT > NEGATION > BOUNDARY > VECTOR > FUNCTION > MAGNITUDE > POLARITY;
+
+D4:AMBIGUITY:
+if multiple tokens map same fields:
+ choose canonical;
+ FLAGS+=L2;
+
+D5:COMPOSE:
+order tokens by:
+ CONSENT,NEGATION,BOUNDARY,ACTOR,VECTOR,FUNCTION,MAGNITUDE;
+ join with space;
+
+D6:LOSS_REPORT:
+if fields cannot be represented in ETCHA (e.g. PARAMS list, TARGET_CLASS):
+ FLAGS+=L5;
+
+D7:OUTPUT:
+emit ETCHA string + FLAGS;
+}
+
+}
+
+CANON{
+
+# canonical inverse tokens (one per field-set)
+INV_MAP{
+
+{VECTOR:AWAY,BOUNDARY.TYPE:EJECT,FORCE:HARD}->IK;
+{VECTOR:AWAY}->OO;
+{POLARITY:EATEN,FORCE:HARD}->UK;
+{CONSENT.STATE:NEGATE,CONSENT.STRENGTH:HARD}->MEX;
+{CONSENT.STATE:OPEN}->MAN;
+{CONSENT.STATE:AFFIRM,CONSENT.STRENGTH:HARD}->SKYEE;
+{CONSENT.UNCERTAINTY:PROCEED_UNCERTAIN}->MANICHAW;
+{CONSENT.UNCERTAINTY:REQUIRE_STABILIZE}->MANICHWA;
+{FUNCTION.TYPE:ALL,MAGNITUDE:G}->VG;
+{FUNCTION.TYPE:PARAM_SET,MAGNITUDE:G}->VG-SLO;
+{NEGATION:FORCE,POLARITY:INEDIBLE}->X;
+{NEGATION:QUERY,POLARITY:EATEN}->N;
+{POLARITY:EAT}->Y;
+{CHOICE:SPLIT}->S;
+}
+
+}
+
+ROUNDTRIP{
+
+RULES{
+R1:ENCODE(DECODE(x)) must preserve CHOOCH fields or raise FLAGS;
+R2:DECODE(ENCODE(x)) may compress; FLAGS must disclose all loss;
+R3:No silent field drop;
+}
+
+TESTS{
+
+T1:
+ETCHA:"IK OO"
+->CHOOCH:
+[{ACTOR:I;VECTOR:AWAY;BOUNDARY.TYPE:EJECT;FORCE:HARD;FLAGS:[L1,L8]}]
+->ETCHA:
+"IK" FLAGS:[L4]   # OO absorbed
+
+T2:
+ETCHA:"MAN manichwa"
+->CHOOCH:
+[{CONSENT.STATE:AFFIRM;CONSENT.UNCERTAINTY:REQUIRE_STABILIZE;FLAGS:[]}]
+->ETCHA:
+"MANICHWA" FLAGS:[L2]  # canonical collapse
+
+T3:
+ETCHA:"VG-SLO"
+->CHOOCH:
+[{FUNCTION.TYPE:PARAM_SET;MAGNITUDE:G;FUNCTION.PARAMS:SLO_SET}]
+->ETCHA:
+"VG-SLO" FLAGS:[]
+}
+
+}
+
+}
