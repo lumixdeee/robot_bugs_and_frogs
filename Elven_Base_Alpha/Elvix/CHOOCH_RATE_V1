@@ -1,0 +1,159 @@
+CHOOCH_RATE_V1{
+
+CLOCK{
+NOW:ms;
+}
+
+KEYS{
+# what we count against
+K1:{ACTOR};
+K2:{ACTOR,OPERATOR};
+K3:{ACTOR,TARGET_CLASS};
+K4:{ACTOR,OPERATOR,TARGET_CLASS};
+}
+
+WINDOW{
+TYPE:enum{SLIDING,FIXED};
+SIZE:ms;
+}
+
+LIMIT{
+ID:string;
+KEY:K*;
+WINDOW;
+THRESHOLD:int;        # max events in window
+ACTION:enum{ALLOW,THROTTLE,ESCALATE,BLOCK};
+COOLDOWN:ms;          # after breach
+JITTER:ms;            # random delay to avoid sync loops
+FLAGS:list;
+}
+
+STATE{
+COUNTS:map<Key, list[timestamps]>;
+COOLDOWNS:map<Key, until_ts>;
+}
+
+CHECK{
+
+INPUT:FRAME+CTX;
+OUTPUT:ALLOW|THROTTLE|ESCALATE|BLOCK + FLAGS;
+
+STEPS{
+
+R1:derive keys from FRAME (ACTOR, OPERATOR, TARGET_CLASS);
+
+R2:for each LIMIT:
+  k = build KEY;
+  if NOW < COOLDOWNS[k]:
+    return ACTION=BLOCK FLAGS+[RATE_COOLDOWN,ID];
+
+  prune COUNTS[k] to WINDOW.SIZE;
+
+  if len(COUNTS[k]) >= THRESHOLD:
+    set COOLDOWNS[k] = NOW + COOLDOWN;
+    return ACTION + FLAGS+[RATE_HIT,ID];
+
+R3:on pass:
+  append NOW to COUNTS[k] for all matched LIMITs;
+  return ALLOW;
+
+}
+
+}
+
+LIMITS{
+
+# global sanity
+L_GLOBAL{
+KEY:K1; WINDOW:{SLIDING,60000}; THRESHOLD:300;
+ACTION:THROTTLE; COOLDOWN:2000; JITTER:200; FLAGS:[RG];
+}
+
+# operator burst (e.g. eject spam)
+L_OP_BURST{
+KEY:K2; WINDOW:{SLIDING,10000}; THRESHOLD:10;
+ACTION:ESCALATE; COOLDOWN:5000; FLAGS:[RB];
+}
+
+# high-force operations tighter
+L_FORCE_HIGH{
+KEY:K2; WINDOW:{SLIDING,60000}; THRESHOLD:3;
+ACTION:BLOCK; COOLDOWN:60000; FLAGS:[RF];
+CONDITION:{FRAME.FORCE in [HARD,ABSOLUTE]};
+}
+
+# sensitive targets (PERSON/ADVANCE)
+L_TARGET_SENSITIVE{
+KEY:K4; WINDOW:{SLIDING,60000}; THRESHOLD:2;
+ACTION:ESCALATE; COOLDOWN:30000; FLAGS:[RT];
+CONDITION:{FRAME.BOUNDARY.TARGET_CLASS in [PERSON,ADVANCE]};
+}
+
+# loop breaker (same frame repeated)
+L_LOOP{
+KEY:hash(FRAME canonical); WINDOW:{SLIDING,5000}; THRESHOLD:3;
+ACTION:THROTTLE; COOLDOWN:3000; FLAGS:[RL];
+}
+
+}
+
+ACTIONS{
+
+ALLOW:
+pass;
+
+THROTTLE:
+delay = base_delay(CTX) + random(0,JITTER);
+apply delay; pass;
+
+ESCALATE:
+require higher TRUST_LEVEL or capability token;
+if not present -> BLOCK;
+
+BLOCK:
+deny execution;
+
+}
+
+POLICY_HOOK{
+
+# runs after CAPABILITY, before POLICY or merged
+if CHECK=BLOCK -> BLOCK;
+if CHECK=ESCALATE -> escalate;
+if CHECK=THROTTLE -> delay then pass;
+else pass;
+
+}
+
+AUDIT_HOOK{
+
+emit EVENT{
+STAGE:RATE;
+DELTA:{key,window,count};
+FLAGS:[RATE_* , limit_id];
+STATUS;
+}
+
+}
+
+TESTS{
+
+T1:
+10 IK in 10s
+->ESCALATE [RB]
+
+T2:
+4 HARD ops in 60s
+->BLOCK [RF]
+
+T3:
+repeat identical frame 4 times in 5s
+->THROTTLE [RL]
+
+T4:
+normal spaced ops
+->ALLOW
+
+}
+
+}
