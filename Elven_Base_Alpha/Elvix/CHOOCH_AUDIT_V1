@@ -1,0 +1,125 @@
+CHOOCH_AUDIT_V1{
+
+EVENT{
+ID:uuid;
+TS:unix;
+STAGE:enum{INGEST,ENCODE,TYPECHECK,EXEC,DECODE};
+INPUT:any;
+OUTPUT:any;
+DELTA:any;
+FLAGS:list;
+STATUS:enum{OK,WARN,ERROR,BLOCK};
+HASH:{
+IN:sha256;
+OUT:sha256;
+};
+META:{
+ACTOR;
+CONTEXT;
+SOURCE;   # user|system|robot
+};
+}
+
+LOG{
+MODE:append_only;
+ORDER:monotonic;
+IMMUTABLE:true;
+}
+
+DELTA_RULES{
+D1:field_change -> {FIELD,FROM,TO};
+D2:field_add -> {FIELD,TO};
+D3:field_drop -> {FIELD,FROM};
+D4:flag_add -> {FLAG};
+D5:conflict_resolve -> {RULE,RESULT};
+}
+
+PIPELINE{
+
+P1:INGEST
+raw ETCHA
+-> EVENT{STAGE:INGEST;INPUT:raw;OUTPUT:token_seq;DELTA:D2(tokens)}
+
+P2:ENCODE
+ETCHA -> CHOOCH
+-> EVENT{STAGE:ENCODE;INPUT:tokens;OUTPUT:frames;DELTA:field_add/map;FLAGS:loss_flags}
+
+P3:TYPECHECK
+CHOOCH -> validated CHOOCH
+-> EVENT{STAGE:TYPECHECK;INPUT:frames;OUTPUT:frames’;DELTA:conflict_resolve;FLAGS:type_flags;STATUS}
+
+P4:EXEC
+validated CHOOCH -> state delta
+-> EVENT{STAGE:EXEC;INPUT:frames’;OUTPUT:state’;DELTA:state_change}
+
+P5:DECODE
+CHOOCH -> ETCHA
+-> EVENT{STAGE:DECODE;INPUT:frames’;OUTPUT:etcha’;DELTA:field_drop/compress;FLAGS:loss_flags}
+
+}
+
+TRACE{
+
+QUERY{
+BY_ID(uuid);
+BY_STAGE(stage);
+BY_FLAG(flag);
+BY_FIELD(field);
+BY_TIME(range);
+}
+
+REPLAY{
+given EVENT_ID:
+reconstruct INPUT -> OUTPUT chain;
+verify HASH integrity;
+}
+
+DIFF{
+EVENT_A vs EVENT_B:
+compare OUTPUT;
+emit DELTA list;
+}
+
+INTEGRITY{
+I1:HASH.IN must equal previous HASH.OUT;
+I2:tamper -> STATUS:ERROR;
+}
+
+}
+
+COMPACT{
+
+# minimal serialized form for blob
+LINE:
+TS|STAGE|STATUS|HASH.OUT|FLAGS|DELTA_SUMMARY
+
+example:
+170921|ENCODE|OK|a9f3...|[L1]|+VECTOR=AWAY,+BOUND=EJECT
+
+}
+
+TESTS{
+
+T1:
+ETCHA:"IK"
+->INGEST tokens:[IK]
+->ENCODE frames:{ACTOR:I;VECTOR:AWAY;BOUND:EJECT;FORCE:HARD}
+->TYPECHECK OK
+->EXEC state_delta
+->DECODE "IK"
+
+T2:
+ETCHA:"MAN manichwa"
+->ENCODE merge CONSENT
+->TYPECHECK OK
+->DECODE "MANICHWA" FLAGS:[L2]
+
+T3:
+ETCHA:"X Y"
+->TYPECHECK ERROR:E1
+->EXEC skipped
+->LOG shows conflict_resolve
+
+}
+
+}
