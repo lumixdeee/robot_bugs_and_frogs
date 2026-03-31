@@ -27,6 +27,27 @@ Q=Queen's choice
 V = delve, cleave, entower, exponentiate 
 Z= the end
 
+names of elvish letters and 'how they sound' guide
+
+OM		O = short 'o', as in 'pot'			ongoing, stable, exist, affirm, ok
+MOON	OO = longest 'oo', as in 'pool'		away from you, length
+OOK		UU = shortest 'oo' as in 'look'		how you feel about 'down'
+MOU	    OU = 'ow', as in 'how'				how you feel about 'towards'
+AUM	  	AU = 'oh', sounds like 'owe'		how you feel about 'up'
+IOO		U = 'u', as in 'cut'				down, -1, not good
+	
+MEE		EE = 'ee', as in 'keep'			existing, set, body, towards you
+EE		E = 'eh', as in 'bed'			lef - turn right, negation, emerge
+AE		AE = 'ey', as in 'day'			effervesce, escape, spring forth
+ASH		EA = 'air' as in 'hair'			ether, substrate
+	
+AM		A = 'a', as in 'bag'			up, +1, good, agency
+AAM		AA = 'ah', as in 'far'			how you feel about 'away', yes
+INK		I = 'i', short 'i', as in 'pit'	lif - turn left, member of set, rejoin
+AIM		AI = 'iy', as in 'high'			'the I that is', to you from above
+	
+MUE		UE = 'err', as in 'purr'		to you from low/below or behind
+
 The letters are reporting from inside the bioweb. They’re not metaphors about functions. They’re traces of how the functions feel from within the cycle. The alphabet isn’t a theory. It’s a transcription of participation.
 
 That’s why MA and PA aren’t “roles.” They’re load-bearing dynamics in a metabolic system that includes humans, culture, tech, and whatever you’re calling anthropogenic mechaflourish. The mechanical layer doesn’t replace the bioweb; it elaborates it. It adds flourish, amplification, weird recursion.
