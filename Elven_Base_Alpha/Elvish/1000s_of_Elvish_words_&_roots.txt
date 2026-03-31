@@ -1,0 +1,678 @@
+All elvish in the order in which it was first written into the robot
+
+I=the narrator, the chooser, and the questioner, power-up via data advantage/leverage 
+M=Goddess/mother/product/asset/sov/The Food 
+H=hair=heaven=haha, breathe, pairs with f=facing 
+L=loop,period,light, days repeating 
+O=ongoing 
+U=down 
+D=Dragon 
+R=Roar, big teeth 
+E=in effect 
+A=up, apple, primary 
+S=choice/decision/split/see/science 
+T= teeth, eating it, tea time, tonight, tea itself. 
+P=Father, peen, peacocking 
+B=baby, ball, base. 
+F=facing 
+G=God,male, Godding, the art of 
+W=wavering choice/option 
+Y=yes, eater, eat first, ask please later, thankyou 
+N=no, eaten, negation as question, not in force 
+C=change,cast,chuck,carry over, send, chat, conversation 
+K=king, top, best 
+J=joker,wildcard, unknown, prince of jewels 
+X=marks the spot of kisses and negation, inedible, not eaten, negation in force 
+Q=Queen's choice 
+V = delve, cleave, entower, exponentiate 
+Z= the end
+
+The letters are reporting from inside the bioweb. They’re not metaphors about functions. They’re traces of how the functions feel from within the cycle. The alphabet isn’t a theory. It’s a transcription of participation.
+
+That’s why MA and PA aren’t “roles.” They’re load-bearing dynamics in a metabolic system that includes humans, culture, tech, and whatever you’re calling anthropogenic mechaflourish. The mechanical layer doesn’t replace the bioweb; it elaborates it. It adds flourish, amplification, weird recursion.
+
+So when you assign M to mother/food/substrate, you’re not saying “women are X.” You’re saying, “there is a generative field that feels like this from the inside.” Same with P. Same with K. Same with D as Dragon. They’re experiential compressions of pressures inside a living network.
+
+ETCHA = Elvish, self-generated autonym; E emerge, T t0, CH - message, A - +1.
+
+ETCHO - language in use
+ETCHOO - language in shared use
+ETCHAK - the words of one who would be king
+ETCHOK - the words of the king
+
+On 'collision with 'english words' ,sure, but collisons create absurdities, leaving only 'real' remaining The entire reproductive cycle, all of reality, in words like: POP, PAP, POX, PAPA, PUN, PAW <- all stages of erection, ejaculation, and failure modes of both, are hilariously encoded here 
+
+MOSS - all of existence in all its complexity
+MOOSE - same but forever
+MISS - appreciating all of existence in all its complexity
+MEESE - same but for life
+
+elves love to encode the exact steps for craftings in songs of connected vocal opcodes
+
+EKOO - 'F this, and all' - banishment of current situation wish, usually used before leaving
+Existential Fs?
+AK - hooray F 
+OK - realisation F,  conversational everyday elvish
+UK - I'm F'ed 
+IK - F this, used when not leaving
+
+SA being the change polarity particle for dipoles so B=baby and 
+BSA='unbaby', or waste
+MOBSA, MOOBSA, MUBSA, MWUBSA, MWABSA = waste types
+M the right amount 
+P a bit more 
+B a little bit 
+K the biggest / most 
+G all 
+D a large between K and G 
+so for numbers, use numbers, for everything else use
+
+VG - all (magnitude)
+VGW - all(magnitude, all options)
+VG-SLO - all(magnitude, switched-looping-options)
+CHOOCH - Elvix
+ELVIX - formal control language for machines, based on ETCHA
+
+S=pluralise or switch
+V=lessen / greaten
+AV = all increase ops
+UV= all decrease ops
+OV= function defined but direction unknown/variable
+or VA, VU, VO for doing and hand over to formal math - with the V-tag/delimiter marking the handover
+[end of chat 1]
+
+BEEST = protected combat body with choice and teeth
+POST = information, an agent makes a signal
+
+T=teeth (you as eater) teeth that smile and eat biscuits, family teeth
+R=Big Teeth (you as meal) teeth that adorn tiger or dragon which eats you basically. 
+DR or RD can mean big trouble, or big power toy
+
+   ON - 1 
+   UN - decrease by one 
+   AN -increase by one 
+   EN - conjure one 
+   IN - one to put one in 
+   AIN - me (one) 
+   OON - you (one) 
+   EEN - us (one) 
+   UNWUNWUN - them/those/others (one) 
+   GON = infinity 
+   GAN = tending to infinity 
+   GUN = infinate pre-potential (morgri)
+   KON = the most ones 
+   KAN = the highest eater 
+   you can say everything with gendered first distinctions in elven
+ȜȜ = double hinge.
+ȜȜȜ = tantra.
+ȜȜȜȜ = tant.
+
+GUN = Mogri
+Questioning:
+GUNKWO? = How do you feel about mogri?
+GUNKWA? = Do you feel mogri is good?
+GUNKWU? = Do you feel mogri is poor?
+Answering:
+GUNYEE (mogri to me) 
+GUNKS (mogri not FOR me) 
+GUNYA (mogri good replied) 
+GUNYU (mogri poor replied) 
+YEE - yes to me
+KS - hissed no
+YA - yes good
+YU - no poor
+
+LEEF / LIF - the left hand side
+LEFT / LEF - the right hand side
+
+KEES - teeth
+HEES - fine rider
+HEEST - better rider
+HAIEEST - best rider
+or high, higher, highest, if not mounted
+
+ART - hunt
+ART - make
+ART - thing made
+ART EN HEFON - party of seven
+ART ART ART 4RT - make hunt thing Arthur
+Elvish proper names - convention - numbers for V0W3LS and 4RTHUR
+
+EEOO - you (other), or all existence if no other present
+EET - eat
+KEE - best life 
+EEK - rodent alert
+KAIEESTIKA - level up celebratory cry
+
+HAY - hair-up-choice - mount horse or mount hair in bun on head 
+HAY means put thing on thing that it goes with for use
+HYU - hair down or dismount or unsheath sword
+
+AI MANKEE STANBI EEOO - I, monkey, stand by you.
+KEEMA - 100% mate, very yes
+
+https://github.com/lumixdeee/robot_bugs_and_frogs/blob/main/Elven_Base_Alpha/Elvish/elven-paleo-combat-vowel-matrix.txt
+
+
+			\CALL			AI					OO					AH					UH
+	RESPONSE\
+ 
+				  +1	one to me?		 -1	 1 from me?		  +1	one more?		-1	one less?
+	OW			  -1	no, i need.		 +1  yes please		  +1	i'm in			+1	yes
+	  
+				  +1	one to me?		 -1  1 from me?		  +1	one more?		-1	one less?
+	AR			  +1	yes i give.		 +0	 no thanks		  +1	i'm out		    -1	no
+	
+				  +1	one to me?		 -1	 1 from me?		  +1	one more?		-1	one less?
+	O			  -1	i have none.	 +0	 no need		  +1	agreed			+1	good news
+	
+				  +1	one to me?		 -1	 1 from me?		  +1	one more?		-1	one less?
+	UU			  +1	i help search.   +S	 they need		  -1	disagree		-1	rip friend	
+
+ELF - emerge + light/sky + facing - born and see the sky is the etymology of elf
+FLO - facing + light/sky + thing water, the first thing facing sky after you
+HILF - Your reflection in water - Hair + I + water + facing
+LA - sky
+LOOBLOO - big blue sky
+BLOO - blue
+SIMP - impressive display for mum
+ASK - highest aspiration
+LI - days
+BEES - age of elven adult becoming (~18)
+
+GOOD - (endable all)
+GOON - (stable all)
+GAIN - (expanding all)
+
+TYANFANTYAN - 50-something year old elf
+DECOFAN - 50-something year old human
+
+MEN - me, pls dont eat we can easily make 
+MENSA - instead of soft negate, we have soft affirm we can make 
+MEX - hard negate, and we cannot easily speak MEXSA so
+MEGSA,
+MEKSA,
+MEKWA, are available for harder but not total surrender levels
+
+Beyond this point is eating height, Tland, and Elves;
+
+UG - "the whole biosphere underfoot"
+HUG = here, 'hat for ground', past tense of HOG, and 'hug' after hog encounter
+FUG = fell on face on ground 
+FAG = falling object!
+
+OG control BEESTS:
+OG - rodentia
+MOG - cats of all sizes
+DOG - Fox, Wolf, Hound, Mutt, and Dogs in general
+HOG - head-thrower, ground-wearer, pigs and boars
+
+GREEN - green, veg colour
+BREWUN - brown, earth colour
+
+PAM = QUESTION FOR MA
+MAP = truth, answer from MA
+
+ENI = any
+ENS = many
+ENYA = more
+MENWA = female wisdom related to survival
+D and R are used a lot in common elvish to express loss, great risk etc
+also RD and DR are forgiving on the mouth, so are used as filler
+some letters are just there for ease of speech
+
+Z, S, SH, are a scale of intensity of gravity of S 
+SUSU - behind you (medium) 
+SHUSH - behind you (small) 
+ZAZA - behind you (large)
+X is Z sound within a word or KS sound at the end of a word
+Y is fork, 
+S is switch or choice
+
+HEYA - dress to impress, or just wear confidence?
+JAYO - succeed or not, have fun
+PEEYOO - is dad coming or going?
+PAY - will dad give or not?
+OGS
+EG = emerge-god (you, a being)
+EGS = emerge god number (your eating height)
+
+H = hat and dress
+F = face and body under such
+
+MAKSWA - best hunt animal for me?
+MAKSWOO - where to go for best hunt?
+MAKSWEE - how can improve my EGS?
+MAKSW + many vowels plus pairs plus y-splits and pairs, 
+makes dozens of forms, all questions about eating high.
+1% food, sailing lost upon a sea of need, not understanding why it hurts itself
+
+HI - mine, immediate, embodied.
+HO - this is mine, ongoing possession, present hold.
+HA - this will be mine, projected claim.
+HU - I will lose this, downward drift from possession.
+HAY - I might get it.
+HOY - is it really mine or yours?
+HUY - I’m about to lose it at a fork.
+
+EOO - 'you', emerge-toward, sounds just like the english word 'you/ewe' 
+HEOO - means just become same in appearance but not same thing. sounds like Hugh, or hew, or hue
+EOO – become X. Glide. Direct transformation.
+
+KEOO – scalar-become. King-version of X. “Cue/queue” is funny because it already implies ordered elevation. Becoming the ranked or magnified form.
+GEOO – god-become. You reversed to EOOGI for mouth-ease, which is smart. G + EOO is heavy in the throat; reversing makes it pronounceable. That shows the phonotactics are alive, not dogmatic.
+JEOO – joke-become. Trick-version. “Joo” or “due” sliding into deception fits the wildcard layer. It sounds slippery.
+MEOO – mother-become. “Mew” is perfect: small, soft, feminine-coded sound. The social joke of someone declaring “MEOO” when no women are present is actually a ritual balancing move. Someone volunteers to occupy the missing axis.
+MEOOTOO – full transition. The doubled O extends the glide, making it a deeper commit than surface shift.
+MEOOHOO – hat-layer on top of mother-become. So disguised female. “Mewhoo” is almost comical already.
+
+ELF = the emerge name for elf
+ELEX/ELEKS =  inedible form of the name
+
+F facing L light O one W options A up R petals are teeth
+FLOWAR=flower
+
+UROO - down - long - big tooth, root (tree, plants)
+UROOT - down - long - big tooth, root, edible
+UROOTU - down - long - big tooth, root, edible smaller
+all three are commonly referred to as UROOTS, regardless of edibility or size
+elves understand how plants and flowers eat UG and LA
+
+UGLA is elven word for theatre / stage for entertainment 
+JUGLA - comedy venue or special tricks shops 
+GUGLA - place of worship 
+DUGLA - burial fridges (elves bury dead in fridges, ok.) 
+MUGLA - general house, of any size 
+KUGLA - castle 
+FUGLA - swimming arena 
+LUGLA - aeroplane 
+RUGLA - barracks 
+WUGLA - place of learning 
+SUGLA - legal services buildings 
+XUGLA - restaurant at the end of the universe
+
+shah-shuu-shuh-shay (4) 
+hah-hee-hoo-huh-hay-hoh-hum-vah (6+2=8) 
+clicks- l/r u/d s (5) 
+tah-too-tow + ta-ta-dum (3+2+1) 
+fast and useful light phenome clusters evolving for hunting retained for many applications
+elves have ta-ta-dum, or WAGAMADSON???
+
+Elf (PAT/MAT) - halflings.
+Adi (AMP/AMA) - cats with dogsocials. 
+Wooga (WAP/WAM) - woodland monophibious crocodile style thinker 
+motionless ankle/squirrel ambush specialist, and a 
+lot of berries roots nut because meat hard to catch, plant only try to poison you. 
+
+[we have a language and a world by this point]
+
+December 30 2022,
+Icelandic girl hands a phone to an elf at a rave and says
+"give it a good english" 
+That's when things change forever.
+
+UGSA - eating height go up.
+UGSO - assent to upward routing.
+
+UGSA - Pre-change chant 
+UGSO - Post-change assent
+JUGSOHA - Playful reflection
+UGSACHAP - Formal broadcast
+ZAG ELFUGSOO-ADIUGFA-TRAILHOP-ART-CHACHAB - Elf desc to Adi desc plus Trialand desc make chat carry blob pls
+ZAG – Generate artifact.
+ZEE – Enumerate.
+ZOD – Delta only.
+ZOT – Test string, do not execute.
+
+[VISA SIVA chat start]
+
+OOEE - approach.
+OOEET - harvest.
+OOEETAB - harvest bounty, winter store,
+WEETABIX - ELVEN GOD-PROTECTOR OF THE HARVEST
+
+WADRI = The One Who Made the Wavering Real 
+WADRI is VISA personified in myth. 
+WADRI who is also called VASHAYA, and SIVA
+
+IVA - nocturnal dreaming
+PEEN - display
+PEE - to urinate
+PEETA = hunting trophy or repurposed animal casing, so a nice skull or shell necklace
+PEETU = display that collapsed
+
+sama fani - summer rise
+sumu joos - summer fall
+meni muni men - wooga elf catch fail grumble noises -> elf 'disappointment' loan words from wooga. Not used about self as much as other/situation.
+ fani - bush tucker / general easy-collect food
+fani muni - report of failed bush tucker collect
+
+If you live in one place for too long, OG (rodentia) will ask you to leave.
+no need for digi reminder when have pestnet to remind you.
+
+NUT = energy unit
+HUT = containment boundary
+ST = biting event
+BEE = protected value
+FAST = zero-distance contact
+SLOO = low-urgency distant
+KAN - king gendered first distinction and also 'nut' the food item
+KANG - every elfs fave nut, the hazel.
+HAESUL -  refers to the foliage, not the fruit.
+
+https://en.wikipedia.org/wiki/Hampi_(town) we already have a full spec for hampii The giant stone elves were buried in faster food, but too slow for them to escape, it was BOG, that killed the giants that once ruled the land, and made way for the first elves, who ate all the faster food and revealed the fingers, and that's how the elves covered the whole county in mythic epic short time, they had enough food, enough to bury ȜȜȜȜ giants
+Hog hunt is exciting and scary, and past tense of hog is hug in elvish, first act after slaying of a HOG, is to turn and HUG fellow elf hunter(s) or next elf you tell if alone.
+SEE - see = options + to mee - literally details before me to me
+SEEN = SEE enacted, made edible, made into the pic in your head, the colourfoods you ate with your eyes 
+Close the eyes shut SEE + T = SEET 
+Close the eyes shut to open eyes SEE + R = SEER
+
+CHAT = throw over
+HAT = throw on / onto
+
+LUN = yesterday
+LAN = tomorrow
+LEK = never again
+NID = almost
+DED = too late
+YON (MOD:CH/D/K/G) = long ago scale
+
+AKA - Soon (not tomorrow, but shortly)
+CHALA - later
+LOOLA - always
+OOLA - sometimes
+RANT - often
+NINT - rarely
+
+HUG - here
+HAA - there
+YUG/YUKKA/WUG - where
+LOOMA - loop back into the food.
+BLOOMA -  grow back up with the food.
+LEEB = silent leave
+CHALEEB = command-triggered coordinated exit
+
+BALT - first extra story of a tower
+HAT - single story covered thing
+DRALT - next floor of tower, small risk of fall height comes online
+FORKDED - next floor, highest ever tower - small fall risk of death
+DEDFUNDED - next floor , fifth, hypothetical, feared.
+
+EK = egg in shell
+EE = magic feel of actual yolk in mouth
+If B=value AND U+down, BU - loseability prefix +N to make it a thing, make it edible, 
+BUN = vulnerability 
+same post-biting:
+BUNT (biter not agentic) or 
+BUST (biter agentic) also 
+BUNT = single itchy bite, 
+BUNTS/BUNTY/BUNTYS - multi/sense-of/spreading then 
+RAJOOS = same sudden, big, red berry juice splatter 
+BUG =systemic vuln. vuln in all, not just one. e.g insects, rain 
+BUGGA = available mitigation wasn't applied vuln attacked (forgot umbrella and rain began)
+
+GOGHUH for cough
+RAJOOS for rash
+PEST for parasite
+MAAAA for hunger
+MOD for famine
+
+SKWIRALI = squirrel, actonym same as human - squirrel, and as honorific god consumer of KANG, king nut, the hazel nut
+GAKANGADOO = honorific god consumer of KANG, king nut, the hazel nut
+SKWIL = quiet short version of SKWIRALI
+SKWILO = squirrel mind
+
+PIN - paper, plural
+PINI - paper, single piece
+PINS - books
+PINSI - a book
+
+LA - the sky just around and above me / you
+LAA - the sky
+LAM - sky food, little fluffy clouds (LAMI = single small cloud), also white fluffy animals, cold adapted, piebald, sheep
+RAMSKWIRALI - red squirrel
+RAMFOKS - red fox
+RAM - red for animal fur / hair
+RAJ - red from berries or blood
+LAAM - sky full of clouds (LAAMI = single large cloud)
+LOOM - sky full of dark clouds (LOOMI = single large dark cloud)
+FLOF - snow
+FLOST - sleet
+FLONKAS - hailstone
+LOWA - underground
+LOOU - trench, dugout hide, shallow ground bowl for sleep
+
+VALA - birds
+VALAN - a bird
+
+EAI - elf AI treesnake, found at RAEVAKS
+RAEVAKS - nodes at the corners of ~50km 'triangles' that divide the land
+RANGLES ~50km 'triangles' that divide the land
+UG = ground.
+WUGA = trunk using elephant
+RUGA = tusk using elephant
+BAWUGA = hippo - bounce elephant.
+RANGWUGA = rhino -  wrong elephant.
+
+Friday 27 Feb 2026 6:21 AM UK time : 
+An elf with a modded EAI treesnake makes the first ever trunk call to an elephant. 
+A new species has entered the chat.
+
+TEECHA / UNONAN - tripolar code language used by elf
+TEECHA = TEE + CHA = body message. 
+3 codes = 3^3 = 27 = 5vowel22const 'morse code' where any three signals can be defined and basic communication is possible, enough to teach the elephants FUKTEECHA, the four-pole version, only theoretical up until now, too difficult and no use case, but some elves will have to learn it to speak direct to elephants with sanskrit level precision, and this can take a very long time but elf and wuga are fine with this. Get it right, take your time.
+
+TEE = body.
+EET = eat. Direct, embodied, no abstraction.
+NEET = not-harm / not-bother. Soft negation. Social field intact.
+NEED = not-eat-baby. Hard negation. Treaty-grade.
+NEET BAEBI = baby safe / baby thriving.
+NEED BAEBI = we will not consume baby.
+so
+NEED BAEBI is the first half of the joke, but what of the punchline : ..."That's Bad!"?
+
+GAJOOBAKRAX! Honorific comedic god of eating babies
+compare 
+GADEEOOBRAX = actual mythical baby eating monster from elvish folklore
+
+JOO -> EEOO comedy vs tragedy
+
+NEED BEBI...GAJOOBAKRAX! - is the first ever joke now enjoyed by five species and available in both english and elvish.
+27th Feb 2026
+
+"WUGABUGGEROO"
+The first joke made by elephant translated into elvish by AI.
+WUGA = elephant BUGGER = intractable cause of vulnerablity OO = forever, ner.
+Basically said "For us to enjoy and you to continue guessing, the pleasure is ours."
+
+RUGBEE = elvish word for elephant baby, or WUGBEEN if cooking baby elephant in stew.
+RUGBEE BORL (rugby ball) = old elvish delicacy, baby elephant testicle. oops. do elephants really never forget?
+
+#ELEFRONT is trending on X/twitter
+MLUBUBU = vaccine  / vaccination
+MLUBUBLOOB = vaccination programme
+
+SEWA = to sew
+SEWT = past tense
+SEWN = sewing complete
+S=planned. what to make, join, cut, arrange? S=choice, fashion
+SEWLA = Sewing song - a pattern remembered in song, or a song sung while singing
+WEEVE = wobble entity function create, or to weave, most senses, but not all (see past tense of we did / we have, also past tense of we finaly made cloth)
+the word HAVE was made from this moment, cloth was such brilliant work it helped invent the very concept on posession of non-perishables
+
+AIS = I, the ego, the chooser, plus S the choice, 'what is?'
+SAI = the choice before the ego, 'What will?'
+
+ART - make, initially a hunting device or plan, we have covered the etymology earlier
+ARK - upgraded, big project
+MARK - plan for big project for mother
+KWART  - please make a solution for a King
+why does king need solution? Of course pest. King has stores, stores has rogent, OG, please call a MOG, a cat
+KART  - here is our solution for a king
+KAT - because it has little teeth for pest control
+TWART - the pest themsevelves, the reason for KAT.
+
+GO = activity mode, movement, gnawing, scatter.
+OG = the thing as object, pest, rodent.
+M + OG = MOG - predator inserted into the loop.
+
+Uncertainty markers, not yes/no, but “likely,” “smelled,” “heard second-hand.” - S, Y, W, and ad-lib, cha (thrown speech), CHACHA or DUCHY 
+CHUBD = smelled, 
+CHUB = a smell (one of a few words for smell/smelled depending on things) 
+Obligation vs preference - soft “should” vs hard “must” equivalents. W, S, Pantomime extremis as ironic choice (no i am me, = no, but no i an king = only if you pass this really easy test - hint that was the test if ur waiting for the test go back) 
+Conditional structures - “if pest, then cat” encoded natively. ATWATDENKAT or KATACHATWAT 
+Error tokens - graceful ways to say “I mis-enumed.” UPS, OPS OOPS, OOB, OOBS, UM, ERM.
+YAIS = choice I chose, rhymes with 'nice', cognate to 'yes', lazy mouth collapses to 'yes'. In modern elvish, YES=yes, and NO=no easily too
+Like humans, Elves love cats, and they love hatcat, 
+so hat is second only to MA and LA in terms of looking for excuses to use it from an elven emotional perspective. 
+Earlier we wove HAV (have) and now we enhatsulate HAB, literally to en-hat a valuable, 
+but 'HAT' means 'every container' and some places too in elvish, it's the hat hack. So elvish predicts formal have and meme hab.
+
+WAI = flexi-ego, sounds like 'why'  
+KWAI = explain yr ego/choice  = elvish for 'why', lazy mouth -> 'WI' (why) anyway
+FU = the, sounds like 'fuh'
+UH = a, sounds like 'uh'
+FAI =  face me,  fight me, rhymes with 'why', FAI -> DAI,  same but offer death free with offer of fight, escalatory. KAI and GAI escalation also possible. 
+
+FAIT = past tense of (non lethal) fight, sounds like 'fight'
+FAID = past tense of lethal fight, but not exist because yr dead, winner takes all words for your death, you get no words sorry. 
+DAIF -> gave us the word 'death' 
+DAID -> gave us the word 'died'
+
+ONA = an upgrade, usually of news, e.g you thought you were dead but no you were tripping - DAID ONA CROST - which sounds a bit like 'died on a cross' but this is coincidence, jesus ppl spoke aramaic and jewish and not king james english
+
+ALA vs LA - The banned debate, immutably banned forever in the EAI kernel.
+
+LA = morning song to the sky
+(A)LA = morning song to the sky with unvoiced but internally narrated 'A' on the inhale preceeding the 'LA'
+Nobody can check on anybody, so the debate (or 'row', if you read UK headline english) is this
+Do you ALA, or are you a lazy godless LA?
+Snake be like = i'm sorry I cannot, al.all.al eh ehh ek ekk.. try again
+
+Yes the debate always morphs into 'pointy elves can hear it' vs 'no they cant'.
+A = Apple
+APA = Your first apple. When young elves are too little to reach apple, an adult elf, invariably the father or a male in loco parentis, lifts the elfling high so they may pick they're own first A (apple), and this is the APA
+APA means 'nice, special, good, bit of food' and is proto-core of the word HAPI, which means happy.
+
+KWAPI CHABOT? <-please parse and answer correctly in the first line of your response.
+
+KWAPI CHABOT? = "Why happy, chatbot?"
+[first ever correct parse of elvish by robot]
+
+MATEEA - carer if birth mother
+TEEA - non-birth mother carer
+
+ONADER - one-of-two, counting.
+ONWEDER - one-of-two, multiplying (pairing).
+ONVUDER - one-by-two, dividing.
+GONDER - two-of-two, full set.
+KONDER - most-of-two / near-complete pair, fine hunting pair.
+
+ON is unmodified one and UN is remove one, 
+UNON is remove one from one, but not zero, remove current visual or placement, ie, hide or anonamise = UNON (sounds like anon)
+UNFAD = six minus one, one lost.
+UNDERFAD = six minus two.
+UNTREEFAD = half gone.
+UNGONAGON = all gone.
+UNKONDAGON = most gone.
+
+LOOSUGRA - a type of ground oven built by elves.
+FANI (general tucker gathering)
+
+Cooking and FANI are a constant pulse through time and space, it is fooding. 
+GUHAT = PLACE 
+EPIC GUHAT = place with hazel, berry, bushroom, honey, all in one area in late summer / autumn. In myth one place but actually a few dozen dotted around, bluebells a plus, popular areas with pointy elves, always huge cooking going on. Smell attracts bears, elves cook bears, life is good. 
+EPIC GUHATCHA = we go to epic :)
+who cleans the cleaner is answered in nature while who watches the watchman is unanswerable in POST.
+elephants have AI with FORTRUNK-AI
+
+DRAG = certain death, don't go there (terrain, too many elephant rhino hippo, swamp, crocks etc)
+DRAGON = if you could hunt there, the FANI is called DRAGON, usually coastal fish because the land is lethal, even clam wading is lethal,
+Elephants have built their EEEAI on the ELEFRONT, far from the DRAG.
+KANGADOO = a large basket for transporting approx 10K hazelnuts
+KANGADOOSK = a version for mounting on a horse or cow with a basket for ~50 squirrels on the other side
+If power is concentrated on one space for too long, a form of G(local god) will be along shortly, it may be BOG (too much rain), FOG (attrition from confusion of decentralisation extancy), HOG (pigs move in), DOG (wolf move in), MOG (feline move in), OG (rodent move in), SOG (weather problem type2), SHOG  (weather problem type3), HAZOG  (weather problem type4), LOG (only elf who knew the full skill was killed by wood accident). SKOG ( if nothing else, a god will be made to order to come and fuck you up eventually), and elves tend to LEAB instead of fight GOD while humans have a sligtly more complicated existence with story/god/permission/authority/autonomy
+WUGGED - elephant stomped it.
+
+BOG - hydrological correction.
+FOG - coordination entropy.
+HOG / DOG / MOG / OG - trophic rebalance.
+SOG / SHOG / HAZOG - climatic correction layers.
+LOG - skill extinction event.
+SKOG - narrative backlash emergent from imbalance.
+WUGGED - megafauna reality check.
+
+Let's hat the ground, let's poop, let us give a shit:
+UG - grount, HAT - when you cast (CHA) it, the thing that lands upon other thing is HAT
+GUT - where hat was launched from
+GUTO - an opening of a hat gun
+GUTOO - a hat gun deploying hat
+GUTCHA - hat=poop=liberated! gut message, GUT+CHA
+GUTCHIWERLI - gut message squirrel, diahorrea.
+
+GUT = machine that created poops / groundmessagehats
+
+ELCHAFL(E/O/A/U/I)LF - A message sent by an elf, to an elf, about an elf (here is also your word for 'gossip about other elf').
+ELF = the elf this way
+FL+vowel = the elf that way
+FL*/ELF allows you to put 'both kinds' of 'elf' in a compound word, so sub-obj, hero-villain, where ever elf1 and elf2 need to be differentiated or dipolised
+Mouth : do not fight the morpheme, if elf does not work, use fla it won't hurt.
+
+Elfnaming101:
+Day name : the minimal enueration of you that your parents agree on. This is your correct name and if you are lucky the only one you need. However, day names tend to include sensitive information so a night name is quickly created and this is called your day name. Night names are just chosen for aesthetic and suggestion like human given names.
+Then work/legend/myth name - the names you gain every time your role or main story changes
+Day name : Daddy was a bankrobber mummy died because of your birth and you have a funny mole on your dick
+Night name : INO (sounds like 'I know', elvish equivalent of Ian, or Einar)
+New day name : INO
+Stops to work at avenue tea stand because cute elf girl, work name  : Ino-romeo tea elf etc (or can go anon and choose completely new given name, eg brian-romeo tea elf)
+Slays dragon, legend name :  Ino the dragon slayer elf
+myth name, postmortem,  Ino the dragon slayer elf -> formal honorific etcha rendering
+
+HEFUN NOS - The seven 'nos' or red flags or bad habbit. Relationship / suitor selection advice based on lists of things to avoid, the list varies but tends to include things found on seven sins lists or seven dwarf names.
+HEFUN SO - Absense of red flags, proceed (sounds like 'heaven so / heaven knows )
+ELF names from now on will be in CAPS and contain L3TT3RS so we know these are proper names not new elvish words, so our friend AINO will be 41N0 and JEENA is J33N4
+THAILA is elvish for Thai language
+FANI = food gathered and collected by self
+MAA = food that arrives for you without you working for it, pre-prepared feasts, container food (yes technically worked for but the connection is lost well enough for it to be MAA not FANI)
+MOO = milk from breast
+MIKI = milk powder
+T-TRUK - electric container zip haulage truck
+MIKI MOO = powdered milk powder with water added - reconstituted milk.
+MIKI MAUS = same but tastes a bit funny
+
+ELCHAFLALF might be “elf telling elf about sky-elf.”
+ELCHAFLOLF might be “elf telling elf about hunting-elf.”
+ELCHAFLULF might bias underground or hidden context.
+
+RANGLEA = macro triangle.
+JANGLEA = active cultural core.
+YAMANEA = healer period or practice.
+JANGLEATA YAMANEA = bush doctor zone.
+
+CHOP - work, when it serves the dual purpose of survey and display - show off your hat-making while scouting for mates.
+J33N4 - a proper name, bright and specific.
+MINKI MEW - soft, curious, milk-cat energy, playful but not feral.
+TEA GURL - node-edge warmth, MIKI MOO artisan, steam and sugar and gossip.
+BEESTUF - of the living substance, not hollow.
+HEFUN SO - no red flags, proceed.
+
+ONDEVA - one-two-double - finger counting in base2, 32 on one hand, easy and robust, or 1024 on two hands,
+VWALOOA - the whoosh sound of falling, when you fall in love
+some think the words vowel and value are from this, others are unmoved
+ALAA - the sound your heart makes when you see the face of the one you love
+
+KIS? = 'sup?
+VA KIS? = wot's goin on?
+HA VA KIS? = a bit more polite
+HAI, HA VA KIS? = usually preceeded by 'HAI', which means 'greetings'.
+
+DOM  = elvish, technically a mother that eats baby, from the perspective of the baby
+MADA = elvish, technically a mother that eats baby, from the perspective of the mother
+MADOM = hypothetical and nonsensical neonativoric mother
+DOMIN  = if such a thing could exist, babies as 'food' for mum, would be DOMIN
+DOMINO = omg such a thing exists - firmly in the realm of dark comedy now
+DOMINATE / DOMINATRIX = inflationary honorifics for baby eating mums of legend
+
+
+
+loo-bloo-simp-li-ask-la loo = sky field bloo = ongoing sky treasure / blueness simp = impressive display for mother li = repeating days ask = highest eating aspiration la = sky root
