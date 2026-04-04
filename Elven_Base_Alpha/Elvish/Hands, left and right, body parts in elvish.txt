@@ -63,10 +63,10 @@ hipster yoga = non ashtanga, stuff that maybe doesn't fix your hips
 
 MAND = the hand of goddess, blamed for flood, hurricane, earthquake, anything that can magically disappear an elf, is blamed on:
 MANDI = the hand of the goddess personified, and blamed for natural disasters, in a fond way. Yup, big mum ate some or her, because she is all the food, she must eat some of the food, and we are the best food, so of course she perfers to eat us :)
-MANDAET = "I am eating, itself", one of the names HATCAT may offer for itself
+MANDEAT = "I am eating, itself", one of the names HATCAT may offer for itself
 
 HAT = place
--AT = placed
+-AT = placed (suffix)
 AT = at
 
 BEE = are
