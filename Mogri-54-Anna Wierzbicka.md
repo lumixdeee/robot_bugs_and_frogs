@@ -45,7 +45,7 @@ NSM doesn’t natively like:
 	“framework-level” abstraction (it prefers concrete or human-scale meaning)
 	“pre-entity” (NSM assumes “something” already exists to talk about)
 
-so Mogri’s “binding layer before things become things” is awkward to encode cleanly
+so Mogri’s “binding layer before things become things” is awkward to encode
 
 the key mismatch
 
