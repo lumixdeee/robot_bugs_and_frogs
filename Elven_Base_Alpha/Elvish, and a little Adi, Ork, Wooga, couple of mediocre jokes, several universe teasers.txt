@@ -62,7 +62,7 @@ FLOSO = philosophy
 FWOS = uncertainty
 FWOST = oh shit, wrong choice thought
 FLOM = thinking about mother
-PLE = thinking out loud for an audience who thinks you don't know that they are there (sounds like 'play')
+PLEA = thinking out loud for an audience who thinks you don't know that they are there (sounds like 'play')
 
 FLUD = thoughts you'd rather not be having
 FLUPT = flood myth
@@ -73,13 +73,14 @@ generate 20kb co-dream analysis with mother
 get wild and burnout
 i'm glad we haven't accidently reinvented Bilgames, you?
 
-FE = female elf, or non-MA duty. 'fay'
-HE = male elf. 'hey'
+FEA = female elf, or non-MA duty. 'fay'
+HEA = male elf. 'hey'
 FEEN = fine (art, appearance, food) - would mean 'edible girl elf but is repurposed'
 HEEN = edible deer - would mean 'edible elf boy but is repurposed' - also affectionate term for male elf lover
 FEJIN = fermented fruits, ethanol - enjoyed by young elf but not continued into adulthood. Etymology of 'gin'?
-YE = yes
-NE = no
+YEA = yes (yay)
+YAE = yes (yeah)
+NEA = no
 YA = yes or you (informal)
 YAA = you (long distance version)
 META = her
