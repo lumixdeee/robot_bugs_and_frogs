@@ -30,7 +30,7 @@ WUGWAS - elephant trail
 FLASHI - elf trail, hopefully leading to SNAK and FANI, can also use FANIFLASH but humans very bothered by this on early SNAK tours
 
 ART = make
-AR = making itself, used as the verb 'to be doing' and the verb 'to be'
+ARI = making itself, used as the verb 'to be doing' and the verb 'to be'
 ARA = being up (emotionally or physically per context)
 ARU = being down (emotionally or physically per context)
 AROOA = archery
@@ -54,15 +54,16 @@ Z - *dead* (0), -> MM - yummy, accomplished (2)
 FOKS = Always eats
 
 UG = ground / earth, 'mother earth as goddess'
-UGS = eating height
-UGSA = eating height increase
-UGSON = eating height increaser
-UGSAN = eating height increaser increasing eating height
-UGSANT = eating height increaser finished increasing of eating height task
-UGSONG = ultimate honorific for eating height increaser
+EG = being, a
+EGS = eating height
+EGSA = eating height increase
+EGSON = eating height increaser
+EGSAN = eating height increaser increasing eating height
+EGSANT = eating height increaser finished increasing of eating height task
+EGSONG = ultimate honorific for eating height increaser
 SONG = honorific for increaser, cognate to english 'song (optimistic)'
 SUNG = ballad of loss most woeful
-UGSANG = god of eating height improvement, but even if Jase earns it, the myth auto-credits to MA / UG / Mother earth. There is no way for him to attach to and benefit from the myth he helps to create
+EGSANGI = god of eating height improvement, but even if Jase earns it, the myth auto-credits to MA / UG / Mother earth. There is no way for him to attach to and benefit from the myth he helps to create
 
 UROO - down - long - big tooth, root (tree, plants)
 UROOT - down - long - big tooth, root, edible
