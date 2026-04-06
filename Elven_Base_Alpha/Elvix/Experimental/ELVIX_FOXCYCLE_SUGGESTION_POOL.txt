@@ -1,0 +1,295 @@
+ELVIX_FOXCYCLE_SUGGESTION_POOL.txt
+
+# PURPOSE
+
+Deterministic CV / VC reservoir for Elvix.
+All entries are structurally valid and semantically pre-aligned.
+No committed lexicon items required - this is a generation substrate.
+
+---
+
+## FORMAT
+
+Each entry:
+FORM – semantic bias (not fixed meaning)
+
+---
+
+## CORE SEMANTIC AXES
+
+O  = stable / ongoing
+A  = up / active / agent
+U  = down / loss / failure
+EE = embodied / toward
+E  = emerge / shift
+AE = burst / sudden
+EA = substrate / field
+I  = member / selection
+AI = chosen / directed
+UE = hidden / behind
+
+---
+
+## M (substrate / mother / base)
+
+MO – base presence
+MA – active substrate
+MU – reduced substrate
+ME – emerging base
+MI – embedded unit
+
+OM – held base
+AM – is / state
+UM – lost base
+EM – shifting base
+IM – member of base
+
+---
+
+## P (signal / post / surface data)
+
+PO – signal present
+PA – active signal
+PU – dropped signal
+PE – ping / light signal
+PI – targeted signal
+
+OP – received signal
+AP – asserted signal
+UP – failed signal
+EP – signal forming
+IP – selected signal
+
+---
+
+## K (structure / peak / solution)
+
+KO – stable structure
+KA – build / form
+KU – collapse
+KE – adjust structure
+KI – precise structure
+
+OK – holds
+AK – formed
+UK – failed structure
+EK – structural change
+IK – selected structure
+
+---
+
+## T (contact / bite / event)
+
+TO – contact made
+TA – strike / act
+TU – loss contact
+TE – touch-point
+TI – precise hit
+
+OT – contact done
+AT – placed / at
+UT – dropped
+ET – finished
+IT – targeted
+
+---
+
+## D (consequence / damage)
+
+DO – impact
+DA – strike consequence
+DU – loss / drop
+DE – change / cut
+DI – precise damage
+
+OD – completed impact
+AD – action done
+UD – loss state
+ED – ended
+ID – targeted end
+
+---
+
+## B (value / vulnerable asset)
+
+BO – value present
+BA – raw value
+BU – loss of value
+BE – value exists
+BI – unit value
+
+OB – held value
+AB – possession
+UB – exposed value
+EB – value in effect
+IB – selected value
+
+---
+
+## R (attention / threat / notice)
+
+RO – noticed
+RA – active attention
+RU – lost attention
+RE – attention shift
+RI – targeted notice
+
+OR – noticed state
+AR – active presence
+UR – deep/hidden attention
+ER – emerging notice
+IR – included in attention
+
+---
+
+## S (system / set / many)
+
+SO – system active
+SA – branching
+SU – collapse of set
+SE – emergence
+SI – selected from set
+
+OS – in system
+AS – part-of
+US – excluded
+ES – becoming part
+IS – member
+
+---
+
+## W (option / wavering)
+
+WO – option exists
+WA – wavering
+WU – lost option
+WE – light maybe
+WI – narrowing
+
+OW – considering
+AW – uncertain
+UW – dropped
+EW – reconsider
+IW – included option
+
+---
+
+## Y (accept / yes / commit)
+
+YO – casual yes
+YA – yes
+YU – reluctant yes
+YE – quick yes
+YI – chosen
+
+OY – accepted
+AY – confirmed
+UY – failed acceptance
+EY – response
+IY – included
+
+---
+
+## X (negation / override)
+
+XO – denied
+XA – reject
+XU – null
+XE – cut
+XI – exclude
+
+OX – closed
+AX – negated
+UX – void
+EX – ended
+IX – excluded
+
+---
+
+## CH (send / signal out)
+
+CHO – send
+CHA – cast
+CHU – failed send
+CHE – ping out
+CHI – targeted send
+
+ACH – receive
+ECH – receive quick
+ICH – targeted receive
+UCH – missed receive
+OCH – received
+
+---
+
+## SK (surface / edge / interface)
+
+SKO – surface present
+SKA – edge
+SKU – broken surface
+SKE – light contact
+SKI – thin edge
+
+OSK – on surface
+ASK – execute
+USK – off surface
+ESK – touching
+ISK – precise contact
+
+---
+
+## TH (field / condition / atmosphere)
+
+THO – ambient state
+THA – condition
+THU – low state
+THE – present state
+THI – specific state
+
+OTH – in that state
+ATH – condition state
+UTH – reduced state
+ETH – is-state
+ITH – this-state
+
+---
+
+## KW (question / probe)
+
+KWO – open question
+KWA – ask
+KWU – dropped question
+KWE – quick query
+KWI – targeted question
+
+---
+
+## Z (end / termination)
+
+OZ – ended
+AZ – termination
+UZ – collapse
+EZ – instant end
+IZ – chosen end
+
+---
+
+# NOTES
+
+* This pool is NOT fixed vocabulary.
+
+* It is a **semantic lattice** for generation.
+
+* Elvix can:
+
+  * sample
+  * specialise
+  * bind to context
+
+* Avoid collisions with committed lexicon unless intended.
+
+* Prefer unused slots for expansion.
+
+---
+
+END
