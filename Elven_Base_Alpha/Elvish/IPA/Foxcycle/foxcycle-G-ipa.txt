@@ -1,0 +1,41 @@
+foxcycle-G-ipa.txt
+
+GO  /gɒ/
+GOO /guː/
+GUU /gʊ/
+GOU /gaʊ/
+GAU /goʊ/
+GU  /gʌ/
+GEE /giː/
+GE  /gɛ/
+GAE /geɪ/
+GEA /gɛə/
+GA  /gæ/
+GAA /gɑː/
+GI  /gɪ/
+GAI /gaɪ/
+GUE /gɜː/
+GUR /gɜːɹ/
+GOR /gɒɹ/
+GAW /gɔː/
+GEW /gjuː/
+
+OG  /ɒg/
+OOG /uːg/
+UUG /ʊg/
+OUG /aʊg/
+AUG /oʊg/
+UG  /ʌg/
+EEG /iːg/
+EG  /ɛg/
+AEG /eɪg/
+EAG /ɛəg/
+AG  /æg/
+AAG /ɑːg/
+IG  /ɪg/
+AIG /aɪg/
+UEG /ɜːg/
+URG /ɜːɹg/
+ORG /ɒɹg/
+AWG /ɔːg/
+EWG /gjuːg/
