@@ -1,0 +1,39 @@
+Foxcycle-L-ipa.txt
+
+LO  /lɒ/
+LOO /luː/
+LUU /lʊ/
+LOU /laʊ/
+LAU /loʊ/
+LU  /lʌ/
+LEE /liː/
+LE  /lɛ/
+LAE /leɪ/
+LEA /lɛə/
+LA  /læ/
+LAA /lɑː/
+LI  /lɪ/
+LAI /laɪ/
+LUE /lɜː/
+LUR /lɜːɹ/
+LOR /lɒɹ/
+LAW /lɔː/
+LEW /ljuː/
+
+OL  /ɒl/
+OOL /uːl/
+UUL /ʊl/
+OUL /aʊl/
+AUL /oʊl/
+UL  /ʌl/
+EEL /iːl/
+EL  /ɛl/
+AEL /eɪl/
+EAL /ɛəl/
+AL  /æl/
+AAL /ɑːl/
+IL  /ɪl/
+AIL /aɪl/
+UEL /lɜːl/
+URL /lɜːɹl/
+ORL /lɒɹl/
