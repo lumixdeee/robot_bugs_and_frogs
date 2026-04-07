@@ -1,0 +1,41 @@
+Foxcycle-TH-ipa.txt
+
+THO  /θɒ/
+THOO /θuː/
+THUU /θʊ/
+THOU /θaʊ/
+THAU /θoʊ/
+THU  /θʌ/
+THEE /θiː/
+THE  /θɛ/
+THAE /θeɪ/
+THEA /θɛə/
+THA  /θæ/
+THAA /θɑː/
+THI  /θɪ/
+THAI /θaɪ/
+THUE /θɜː/
+THUR /θɜːɹ/
+THOR /θɒɹ/
+THAW /θɔː/
+THEW /θjuː/
+
+OTH  /ɒθ/
+OOTH /uːθ/
+UUTH /ʊθ/
+OUTH /aʊθ/
+AUTH /oʊθ/
+UTH  /ʌθ/
+EETH /iːθ/
+ETH  /ɛθ/
+AETH /eɪθ/
+EATH /ɛəθ/
+ATH  /æθ/
+AATH /ɑːθ/
+ITH  /ɪθ/
+AITH /aɪθ/
+UETH /ɜːθ/
+URTH /ɜːɹθ/
+ORTH /ɒɹθ/
+AWTH /ɔːθ/
+EWTH /juːθ/
