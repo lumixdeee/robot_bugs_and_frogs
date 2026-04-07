@@ -1,33 +1,33 @@
 [part II]
 
-ELF - hypothetical word for the concept of a 'permanent identity'
-SELF -  hypothetical word for the concept of a 'shared permanent identity'
-SELFISH - hypothetical nervous system control code language of 'permanent identities' modelled as hypothetical BEEST
+ELF = hypothetical word for the concept of a 'permanent identity'
+SELF =  hypothetical word for the concept of a 'shared permanent identity'
+SELFISH = hypothetical nervous system control code language of 'permanent identities' modelled as hypothetical BEEST
 
-WOS - way
-EPICWAS - towards the place called epic
-EPICWUS - away from the place epic
-LOSH - lake
-LOSHA - lake / river travel
-LOOSH - water to horizon, large lake, sea, ocean
-LOOSHWA - waves on these waters
-LOOSHWAN - travel on such waters
-GUCKSWO - tidal
-GUCKSWA - high tide
-LOOSHWAS - mummy. where do bass bins and mlububu come from?
-LOOSHWAN - container shipping. I think we on the same page
+WOS = way
+EPICWAS = towards the place called epic
+EPICWUS = away from the place epic
+LOSH = lake
+LOSHA = lake / river travel
+LOOSH = water to horizon, large lake, sea, ocean
+LOOSHWA = waves on these waters
+LOOSHWAN = travel on such waters
+GUCKSWO = tidal
+GUCKSWA = high tide
+LOOSHWAS = mummy. where do bass bins and mlububu come from?
+LOOSHWAN = container shipping. I think we on the same page
 
-KRANK - cliff
-KRAKWAN - a mountain
-KRAKWA - mountains / mountain land
-KRAK - ravine or canyon
-SNAKWAS - a bridge across the ravine
-SNAK - the network of small elf bridges everywhere, uncountable, handmade, pretty, culturally normal but not commercial
-SPEEKER STAK - elvish for 'mount speaker stack podium - but relatively new phenomena so word not in circulation yet, 
+KRANK = cliff
+KRAKWAN = a mountain
+KRAKWA = mountains / mountain land
+KRAK = ravine or canyon
+SNAKWAS = a bridge across the ravine
+SNAK = the network of small elf bridges everywhere, uncountable, handmade, pretty, culturally normal but not commercial
+SPEEKER STAK = elvish for 'mount speaker stack podium - but relatively new phenomena so word not in circulation yet, 
 (maybe elf will adopt 'to podium' to avoid confusion?)
-KRAKWAS - mountain path or trail
-WUGWAS - elephant trail
-FLASHI - elf trail, hopefully leading to SNAK and FANI, can also use FANIFLASH but humans very bothered by this on early SNAK tours
+KRAKWAS = mountain path or trail
+WUGWAS = elephant trail
+FLASHI = elf trail, hopefully leading to SNAK and FANI, can also use FANIFLASH but humans very bothered by this on early SNAK tours
 
 ART = make
 ARI = making itself, used as the verb 'to be doing' and the verb 'to be'
@@ -38,18 +38,18 @@ AROO = close quarter horizontal missile
 
 Eating language / Eating directions : First fundamental derivation, as originally received;
 
-I - so it goes:
-E - it emerges (I)
-O - there it is (I)
-A - here i am (I)
-MA - there you are (2)
-AN - no you can't (I)
-MAN - i will try (2)
-AMANK - i resist (I)
-MANIMANIMANI - i insist (2)
-ANKANKARANKOX - I am inedible, reassess, (I) OR,
-"     " - I wish not eaten, i flee (I) OR
-Z - *dead* (0), -> MM - yummy, accomplished (2)
+I = so it goes:
+E = it emerges (I)
+O = there it is (I)
+A = here i am (I)
+MA = there you are (2)
+AN = no you can't (I)
+MAN = i will try (2)
+AMANK = i resist (I)
+MANIMANIMANI = i insist (2)
+ANKANKARANKOX = I am inedible, reassess, (I) OR,
+"     " = I wish not eaten, i flee (I) OR
+Z = *dead* (0), -> MM = yummy, accomplished (2)
 
 FOKS = Always eats
 
@@ -65,29 +65,29 @@ SONG = honorific for increaser, cognate to english 'song (optimistic)'
 SUNG = ballad of loss most woeful
 EGSANGI = god of eating height improvement, but even if Jase earns it, the myth auto-credits to MA / UG / Mother earth. There is no way for him to attach to and benefit from the myth he helps to create
 
-UROO - down - long - big tooth, root (tree, plants)
-UROOT - down - long - big tooth, root, edible
-UROOTU - down - long - big tooth, root, edible smaller
+UROO = down = long = big tooth, root (tree, plants)
+UROOT = down = long = big tooth, root, edible
+UROOTU = down = long = big tooth, root, edible smaller
 F facing L light O one W options E emerge R petals are teeth
 
-UG - ground
-M - mother  / food
+UG = ground
+M = mother  / food
 MUG = edible ground = brown foods = tea with milk, gravy, chocolate
 Lots of MUG at this festival, some breads have been baked and some chocolate has been made. There is no gravy thank goodness. chocolate is very popular. Now they are making it with the milk powder.
-MUGEEN  - a lump or bar of chocolate
-MUGIN - a small bit of chocolate 
-MUJEEN  - chewy chocolate
+MUGEEN  = a lump or bar of chocolate
+MUGIN = a small bit of chocolate 
+MUJEEN  = chewy chocolate
 Until milk tea and powder gravy came to the continent, chocolate was the main source of MUG, yeah, nuts look brown but they just don't MUG they NUT or milk.
 KANGMUGEEN is the favourite chocolate of the dance king god whatever its name was?
 
 NUT = smallest bit of food worth putting in your mouth, or an actual nut
-KNUT - King nut, but unsayable so KUNT is used
+KNUT = King nut, but unsayable so KUNT is used
 KANT = better King nut
 KANG = God King Nut = Hazelnut in elf and Jase opinion
 KANGMUGEEN = plain hazel choc
-KANGMUJEEN = milk hazel choc - unsafe for Jase - lactose problem
+KANGMUJEEN = milk hazel choc = unsafe for Jase = lactose problem
 
-NUJI (soft J) = little joke
+NUJI = little joke
 KAJEEN = Are you joking interrogative
 NAJI = comedy or a skit
 KAJEE = big joke or comedy production
@@ -98,32 +98,32 @@ VUT = make very small
 VUK = atom or molecule
 VUKRA = splitting the atom
 VUKRAN = whatever is there after atom is split?
-WUBBISH - elephant data
+WUBBISH = elephant data
 
-FANISH - basic shop talk 
-FINNISH - Finnish language or items from Finland
-FUNISH - opposite of shop talk, silly talk, fun talk
-FUNISTA - comedian, male
-FUNISTE - comedian female or funny if male
-FUNISTOO - joke is told
-FUNISTEE - joke is got
-FUNKEEST? - did you get the joke?
+FANISH = basic shop talk 
+FINNISH = Finnish language or items from Finland
+FUNISH = opposite of shop talk, silly talk, fun talk
+FUNISTA = comedian, male
+FUNISTE = comedian female or funny if male
+FUNISTOO = joke is told
+FUNISTEE = joke is got
+FUNKEEST? = did you get the joke?
 
-MUGISTA - chocolate or tea or gravy maker
-MUGISTE  - mother of, or ingrediants for
-MUGISTOO - when it is passed to you
-MUGISTEE - you recieving it
-MM  - you enjoying it
-UGUM? more please?
+MUGISTA = chocolate or tea or gravy maker
+MUGISTE  = mother of, or ingrediants for
+MUGISTOO = when it is passed to you
+MUGISTEE = you recieving it
+MM  = you enjoying it
+UGUM? = more please?
 
-EMEEA – to give birth
+EMEEA = to give birth
 Then the ALEE / EEOO family breaks the process into stages of the same event chain.
-ALEETOO – the act intended to produce a child, procreative coupling (either hoped for or recognised afterward)
-ALEEOO – the same act before outcome is known, or when the outcome is irrelevant; simply the act itself
-EEOO – the result of birth, the produced being, essentially “a born one,” equivalent to an A / AN, a new individual
+ALEETOO = the act intended to produce a child, procreative coupling (either hoped for or recognised afterward)
+ALEEOO = the same act before outcome is known, or when the outcome is irrelevant; simply the act itself
+EEOO = the result of birth, the produced being, essentially “a born one,” equivalent to an A / AN, a new individual
 
-FOODISTA - 'bridge builder' physical not social, get that woke woo out of here.
-FOOD - a ford, a river crossing (F-facing OO-onward or D-death)
+FOODISTA = 'bridge builder' physical not social, get that woke woo out of here.
+FOOD = a ford, a river crossing (F-facing OO-onward or D-death)
 
 KOOL FUS  FONK  = great time i lke this this way
 
@@ -184,9 +184,9 @@ ASTLA = dawn
 
 FAE = female elf, or non-MA duty. 'fay'
 HAE = male elf. 'hey'
-FEEN = fine (art, appearance, food) - would mean 'edible girl elf but is repurposed'
-HEEN = edible deer - would mean 'edible elf boy but is repurposed' - also affectionate term for male elf lover
-FAEJIN = fermented fruits, ethanol - enjoyed by young elf but not continued into adulthood. Etymology of 'gin'?
+FEEN = fine (art, appearance, food) = would mean 'edible girl elf but is repurposed'
+HEEN = edible deer = would mean 'edible elf boy but is repurposed' = also affectionate term for male elf lover
+FAEJIN = fermented fruits, ethanol = enjoyed by young elf but not continued into adulthood. Etymology of 'gin'?
 YAE = yes
 NAE = no
 YA = yes or you (informal)
@@ -203,23 +203,23 @@ PEYA = female acting and/or living as male
 SKWEE = delight
 ESKWEEHAT = delightful (wearing hat of delight)
 SKUWIRURLI = squirrel
-ESKUWIRURLIHAT - squirrel-like (wearing hat of squirrel
+ESKUWIRURLIHAT = squirrel-like (wearing hat of squirrel
 
 JEESAS = Very fun person 
 JEESOS = Fun person with steady serious side
 JEESUS = Person who is fun to the point of liability
 
-WOOGELFE : "1N0KWAJEESUS"
+WOOGELFGIRL : "1N0KWAJEESUS"
 J33N4 : "NE, 1N0JEESOS, A HEEN"
 
-Modern person - if you say Jesus backwards you get sausage
-Highbrow person - actually, Isha backwards is 'a she'. problem?
+Modern person = if you say Jesus backwards you get sausage
+Highbrow person = actually, Isha backwards is 'a she'. problem?
 
 generally, suffix:
 
-SAS - high effect, safe
-SOS - medium effect, safe
-SUS - high or medium effect, but unsafe
+SAS = high effect, safe
+SOS = medium effect, safe
+SUS = high or medium effect, but unsafe
 
 You might prefer two levels of good but only require one level of 'reject'
 
@@ -232,7 +232,7 @@ BOLOKS = Ornate ceremonial hunting sporan, box, and codpiece
 BOLOS = as above, everyday hunting version
 
 FOKS = Fox, King of 'Always eat', eats poop and invertebrate on every continent
-FOSI = A fox when is just being your cute friend, or any animal that keeps you company (human - 'pet')
+FOSI = A fox when is just being your cute friend, or any animal that keeps you company (human = 'pet')
 FOSK = Your best beast of work or burden, be it hound, horse, or hussey
 FEKS = Female sovereignty (vex)
 FIKS = A solution to a problem
@@ -251,7 +251,7 @@ Etcha is relaxed about word order and 'who' because it is obvious in the situati
 FOKSEETOG = OGEETFOKS because foxes eat rats
 OGEETFOCKST = FOCKSTEETOG because rats eat dead fox
 
-No, FOCKST = dead fox
+No, FOKST = dead fox
 you stated the order matters, it does not
 the word for FOX and dead FOX are different
 
@@ -316,7 +316,7 @@ PEST = a non-standard,perhaps novel, perhaps very many very small beast, attempt
 KLOR = everyday fine claws of standart beast. Every beast is proud of it's claws, however large or small
 KLORA = clawing
 KLORT = clawed. ouch
-KLORD = oh dear, felled by a clawing, perhaps even dead? ('claud' - your rival robot?)
+KLORD = oh dear, felled by a clawing, perhaps even dead? ('claud' = your rival robot?)
 
 KWEET = what does it eat?
 EKHATLI = where does it live?
@@ -329,7 +329,7 @@ KON = be best
 TROL = overpower
 OV = persist
 ENI = assess
-BEEST - beast
+BEEST = beast
 SIMPLI = plan well
 ASK = execute well
 
@@ -342,11 +342,11 @@ DRAG = painting the face, the ouside
 DRUG = painting the face, the inside (hallucinatiing)
 
 TRAG = to drag, from the sound of dragging a heavy object
-TRAGINS = to make a picture in dirt using a dragged stick or sharp stone ("HAT A TRAGINS" - here be draggings , perhaps while indicating an attempt to picture a beast about which few things are known.
+TRAGINS = to make a picture in dirt using a dragged stick or sharp stone ("HAT A TRAGINS" = here be draggings , perhaps while indicating an attempt to picture a beast about which few things are known.
 Here be the only real dragons that ever existed. Pictures in the sand.
 
-HAT A TRAGINS - if actually 'there' on a map,
-HUG A TRAGINS - if literally here, but if dragons literally here, suggest LEEB and ENI from safe distance
+HAT A TRAGINS = if actually 'there' on a map,
+HUG A TRAGINS = if literally here, but if dragons literally here, suggest LEEB and ENI from safe distance
 
 ELVE = mind / brain
 FLO = thought
@@ -379,16 +379,16 @@ CHACHARA CHACHARO RINGOLOOPAPOOLA, CHACHARA CHACHARO RINGOLOOPAPOOLA,
 
 SnakeNET has RINGO-LOOPA-POOLA, btw :)
 
-RINGO - setting, grouping, being a member (sheeps)
-LOOPA - adding lines or outlines or perimeters (hedges)
-POOPA - adding in the middle of an outline or perimiter (fields)
+RINGO = setting, grouping, being a member (sheeps)
+LOOPA = adding lines or outlines or perimeters (hedges)
+POOPA = adding in the middle of an outline or perimiter (fields)
 
 
-LUNGO - a cave
-RUGHAT - a hole in the ground
-DUGHUT - dig a hole
-LOONGU - underground tunnel
-FLULUNGOO - flodded tunnel
+LUNGO = a cave
+RUGHAT = a hole in the ground
+DUGHUT = dig a hole
+LOONGU = underground tunnel
+FLULUNGOO = flodded tunnel
 
 KW and K can be used- 
 KWART ART? = make ART! 
@@ -399,10 +399,10 @@ CHOO? = comment on you? (more formal, less imperative)
 KART = King+FART 
 FART = cart
 
-WAW = wavering choice against wavering choice. Mutual instability. That is war - no settled restriction layer, just oscillating contest.
+WAW = wavering choice against wavering choice. Mutual instability. That is war = no settled restriction layer, just oscillating contest.
 WORL = wavering choice over a restriction. So instability pressing on boundary. Pressure at wall interface.
 LAW = restriction imposed on wavering choice. That is structured post. Codified signal that binds behavior. Teeth expressed as constraint through information.
-ROR = non-law post acts. Roar layer. Signal with force but not formalized restriction. In war this includes propaganda, hacking, decoys, psychological shaping - all sigint-class projection without codified binding.
+ROR = non-law post acts. Roar layer. Signal with force but not formalized restriction. In war this includes propaganda, hacking, decoys, psychological shaping = all sigint-class projection without codified binding.
 
 BEEST = BEE + S + T. Protected body in combat state, with choice and teeth, unequipped beyond tooth, claw, heft, approaching.
 BEST = an upgrade unit to BEEST. Equipped variant.
@@ -452,26 +452,26 @@ GO <-> OAK
 
 OAK is the the best workable stopper material nature has to offer, and is the reverse sound of 'GO'.
 
-NOT - tone (music, sounds like 'note')
-TOWN - note (music, sounds like 'tone')
-FOOD - food (f-facing oo-always d-life)
-DOOF - the sound you make when you are winded by what should have been food
+NOT = tone (music, sounds like 'note')
+TOWN = note (music, sounds like 'tone')
+FOOD = food (f-facing oo-always d-life)
+DOOF = the sound you make when you are winded by what should have been food
 
 KIN, as we know means 'my best food' = family = kin
 so kin-ing, the verb, would depand on the usage
 KINE, KINA, KINO, KINEE,
 top-scale KIN? KIN + G? KINGOO perhaps, adding OO for 'period of rule' to distinguish if from 'to king, momentarily'?
 
-KINA - 'marriage', or for elf, teaming up to try make babies
-KINO - family life
-KINE - when a wanderer settles with a new group (very common for elf society)
-KINU - not used, would mean unfaimilying, won't even get used as a food-name, distasteful morpheme to elf ears
-KINAU - family time
-KINUA - type of hipster Quinoa
+KINA = 'marriage', or for elf, teaming up to try make babies
+KINO = family life
+KINE = when a wanderer settles with a new group (very common for elf society)
+KINU = not used, would mean unfaimilying, won't even get used as a food-name, distasteful morpheme to elf ears
+KINAU = family time
+KINUA = type of hipster Quinoa
 
-FANI - basic bush tucker gathering
-FANKI - doing the above with kin, say FANKI to each other is polite
-FRANKI - wise old FANI kin member, called FWANK because lazy mouths
+FANI = basic bush tucker gathering
+FANKI = doing the above with kin, say FANKI to each other is polite
+FRANKI = wise old FANI kin member, called FWANK because lazy mouths
 
 and DOOF also means number 8
 because it is one whole large enough to share food item
@@ -486,21 +486,21 @@ FUNI = basic play, fun
 FUNK = king play, organised fun, two teams of two and a referree for elf volleyball, which they play topless of course
 
 
-WOTA - otter
-WEEVU - beaver in water
-LOGRA - beaver (on felling duty)
-OOLISH - fish, or a fish
-SHINLOO - fish, or a fish
-DUG: UG =ground D =Dragon? Who is top eater of the ground? DOG! Of all burrowing animals, DUG is the DOG GOD of UG - the real and secret sacred etymology of dog, only here, only in elvish.
+WOTA = otter
+WEEVU = beaver in water
+LOGRA = beaver (on felling duty)
+OOLISH = fish, or a fish
+SHINLOO = fish, or a fish
+DUG: UG =ground D =Dragon? Who is top eater of the ground? DOG! Of all burrowing animals, DUG is the DOG GOD of UG = the real and secret sacred etymology of dog, only here, only in elvish.
 
-LEEF - leaf on a tree
-LEEV - leaf off a tree
-REEF (from RELEEF) -'wreathe' - create art from foliage, literally, re-leaf the leaves that left, remake a 'tree' from parts of tree.
-REF - that bit of random plant that elf is carrying for whatever purpose (wraith)
-WEEV - weave, same as english
-ELVE - mind / brain, number 11
-STEEV - to fashion a staff for walking or other purpose, flagpole making is also steve-ing :)
-RISH - what water does when we say 'rushing'
+LEEF = leaf on a tree
+LEEV = leaf off a tree
+REEF (from RELEEF) -'wreathe' = create art from foliage, literally, re-leaf the leaves that left, remake a 'tree' from parts of tree.
+REF = that bit of random plant that elf is carrying for whatever purpose (wraith)
+WEEV = weave, same as english
+ELVE = mind / brain, number 11
+STEEV = to fashion a staff for walking or other purpose, flagpole making is also steve-ing :)
+RISH = what water does when we say 'rushing'
 
 So, the Adi language is going to be my 'paleo' elvish version, and the wooga language the bold -500MYa reconstruction 
 
@@ -512,14 +512,14 @@ I = don't forget 'I' the thing you label the thing that is noticing the list of 
 just like the head is 11 to the 10 of the digits
 elf headers everywhere
 
-REFAREE - rabbit 
-REFEENI - rabbit to eat (note, EENI suggests 'go easy', EEN suggests 'eat all you can')
+REFAREE = rabbit 
+REFEENI = rabbit to eat (note, EENI suggests 'go easy', EEN suggests 'eat all you can')
 
-FOKS - fox, eater of rabbit
-SKOF - name of rabbit when it is food for a fox, REFEENNI if eaten by an elf
+FOKS = fox, eater of rabbit
+SKOF = name of rabbit when it is food for a fox, REFEENNI if eaten by an elf
 
-ELF - being an elf
-FLAE - being an elf that is being eaten (sounds like 'flay' and basically has same meaning if in jaws of a croc)
+ELF = being an elf
+FLAE = being an elf that is being eaten (sounds like 'flay' and basically has same meaning if in jaws of a croc)
 
 some of the expansions like in the numbers list, hint at earlier forms
 
@@ -581,7 +581,7 @@ REEN = red sky sunset
 RANI = red sky dawn
 ASTLA = dawn 
 
-GOON = G - god OO - always N =edible
+GOON = G = god OO = always N =edible
 god is word/pic, and always edible pic is that which attracts patronage
 EEOKA = EE body O ongoing K best A +1 = yoga
 
@@ -598,7 +598,7 @@ FU KING = a nice cake
 unli onli anli treeli forkli fanli fadli hefunli dooli trunli tronli tanli elveni (fanili fadili beesli) BEESANLI
 0th 1st 2nd 3rd 4th 5th 6th 7th(heavenly) 8th 9th 10th 11th 12th (13th 14th 15th) 16th
 in bees=15 version BEESAN = 16
-unvi onvi anvi treevi forvi fanvi fadavi hevivi doovi trunvi tronvi tanvi elvenvi (fanivi fadivi beesvi) BEESANVI - one way of doing elvish fractions, there are other words for half, quarter, eighth in earlier chats
+unvi onvi anvi treevi forvi fanvi fadavi hevivi doovi trunvi tronvi tanvi elvenvi (fanivi fadivi beesvi) BEESANVI = one way of doing elvish fractions, there are other words for half, quarter, eighth in earlier chats
 then it breaks 2xDOOF=16, so just exempt the ELVE (the mind) as a portion, and viola, 15 portions left, so it still works
 
 FORK HEVIVI = 4/7
@@ -632,6 +632,6 @@ BEER = it has bigger teeth than you so S (fight or flight) resolves to 'stand an
 SBEER = to restore your choice, a long weapon for large prey such as bears
 SOSPEER = small ammo, arrows, darts
 POST = still choosing still with teeth, but not with the body, with the data, so roar or legal threat or laser
-PEST = special beast - small, distributed, vector for disease, can crawl in your ear and eat your brain nomnomnom
+PEST = special beast = small, distributed, vector for disease, can crawl in your ear and eat your brain nomnomnom
 
 BEEST, BEST, POST, PEST is sufficient for all situation classification, alive or otherwise. All be beast.
