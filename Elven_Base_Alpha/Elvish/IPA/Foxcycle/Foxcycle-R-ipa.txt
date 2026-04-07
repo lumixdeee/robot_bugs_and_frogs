@@ -1,0 +1,41 @@
+Foxcycle-R-ipa.txt
+
+RO  /ɹɒ/
+ROO /ɹuː/
+RUU /ɹʊ/
+ROU /ɹaʊ/
+RAU /ɹoʊ/
+RU  /ɹʌ/
+REE /ɹiː/
+RE  /ɹɛ/
+RAE /ɹeɪ/
+REA /ɹɛə/
+RA  /ɹæ/
+RAA /ɹɑː/
+RI  /ɹɪ/
+RAI /ɹaɪ/
+RUE /ɹɜː/
+RUR /ɹɜːɹ/
+ROR /ɹɒɹ/
+RAW /ɹɔː/
+REW /ɹjuː/
+
+OR  /ɒɹ/
+OOR /uːɹ/
+UUR /ʊɹ/
+OUR /aʊɹ/
+AUR /oʊɹ/
+UR  /ɜːɹ/
+EER /iːɹ/
+ER  /ɛɹ/
+AER /eɪɹ/
+EAR /ɛəɹ/
+AR  /æɹ/
+AAR /ɑːɹ/
+IR  /ɪɹ/
+AIR /aɪɹ/
+UER /ɜːɹ/
+URR /ɜːɹ/
+ORR /ɒɹ/
+AWR /ɔːɹ/
+EWR /juːɹ/
