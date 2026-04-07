@@ -23,7 +23,8 @@ MUE		UE = 'err', as in 'purr'		to you from low/below or behind
 EM		M=Goddess/mother/product/asset/sov/The Food, MA
 HAE		H=hair=hat=heaven=haha, breathe, pairs with f=facing
 EL		L=loop,period,light, days repeating, water reflecting
-DEE		D=Dragon, (death), owner of big teeth, nice sound often used for non dragon/death related.
+DEE		D=Dragon, (death), owner of big teeth, nice sound often used for non dragon/death related.  
+DHEE=	DH=medium teeth, lovely elvish sounds in general
 AAR		R=Roar, Bigger Teeth (than yours)
 ES		S=choice/decision/see/science
 ETI		T= yr teeth, eating it, tea time, tonight, tea itself.
