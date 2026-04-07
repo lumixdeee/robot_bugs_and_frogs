@@ -1,0 +1,41 @@
+Foxcycle-S-ipa.txt
+
+SO  /sɒ/
+SOO /suː/
+SUU /sʊ/
+SOU /saʊ/
+SAU /soʊ/
+SU  /sʌ/
+SEE /siː/
+SE  /sɛ/
+SAE /seɪ/
+SEA /sɛə/
+SA  /sæ/
+SAA /sɑː/
+SI  /sɪ/
+SAI /saɪ/
+SUE /sɜː/
+SUR /sɜːɹ/
+SOR /sɒɹ/
+SAW /sɔː/
+SEW /sjuː/
+
+OS  /ɒs/
+OOS /uːs/
+UUS /ʊs/
+OUS /aʊs/
+AUS /oʊs/
+US  /ʌs/
+EES /iːs/
+ES  /ɛs/
+AES /eɪs/
+EAS /ɛəs/
+AS  /æs/
+AAS /ɑːs/
+IS  /ɪs/
+AIS /aɪs/
+UES /ɜːs/
+URS /sɜːɹs/
+ORS /sɒɹs/
+AWS /sɔːs/
+EWS /sjuːs/
