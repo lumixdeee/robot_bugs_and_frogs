@@ -1,0 +1,41 @@
+Foxcycle-X-ipa.txt
+
+XO  /zɒ/
+XOO /zuː/
+XUU /zʊ/
+XOU /zaʊ/
+XAU /zoʊ/
+XU  /zʌ/
+XEE /ziː/
+XE  /zɛ/
+XAE /zeɪ/
+XEA /zɛə/
+XA  /zæ/
+XAA /zɑː/
+XI  /zɪ/
+XAI /zaɪ/
+XUE /zɜː/
+XUR /zɜːɹ/
+XOR /zɒɹ/
+XAW /zɔː/
+XEW /zjuː/
+
+OX  /ɒz/
+OOX /uːz/
+UUX /ʊz/
+OUX /aʊz/
+AUX /oʊz/
+UX  /ʌz/
+EEX /iːz/
+EX  /ɛz/
+AEX /eɪz/
+EAX /ɛəz/
+AX  /æz/
+AAX /ɑːz/
+IX  /ɪz/
+AIX /aɪz/
+UEX /ɜːz/
+URX /ɜːɹz/
+ORX /ɒɹz/
+AWX /ɔːz/
+EWX /juːz/
