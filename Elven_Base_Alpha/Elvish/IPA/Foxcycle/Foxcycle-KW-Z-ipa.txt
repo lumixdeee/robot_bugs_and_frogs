@@ -1,0 +1,45 @@
+Foxcycle-KW-Z-ipa.txt
+
+KW+V
+
+KWO  /kwoʊ/
+KWOO /kwuː/
+KWUU /kwʊ/
+KWOU /kwaʊ/
+KWAU /kwoʊ/
+KWU  /kwʌ/
+KWEE /kwiː/
+KWE  /kwɛ/
+KWAE /kweɪ/
+KWEA /kwɛə/
+KWA  /kwæ/
+KWAA /kwɑː/
+KWI  /kwɪ/
+KWAI /kwaɪ/
+KWUE /kwɜː/
+KWUR /kwɜːɹ/
+KWOR /kwɒɹ/
+KWAW /kwɔː/
+KWEW /kwjuː/
+
+V+Z
+
+OZ  /ɒz/
+OOZ /uːz/
+UUZ /ʊz/
+OUZ /aʊz/
+AUZ /oʊz/
+UZ  /ʌz/
+EEZ /iːz/
+EZ  /ɛz/
+AEZ /eɪz/
+EAZ /ɛəz/
+AZ  /æz/
+AAZ /ɑːz/
+IZ  /ɪz/
+AIZ /aɪz/
+UEZ /ɜːz/
+URZ /ɜːɹz/
+ORZ /ɒɹz/
+AWZ /ɔːz/
+EWZ /juːz/
