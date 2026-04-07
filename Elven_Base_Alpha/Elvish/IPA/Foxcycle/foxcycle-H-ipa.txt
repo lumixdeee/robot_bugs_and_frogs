@@ -1,0 +1,41 @@
+foxcycle-H-ipa.txt
+
+HO  /hɒ/
+HOO /huː/
+HUU /hʊ/
+HOU /haʊ/
+HAU /hoʊ/
+HU  /hʌ/
+HEE /hiː/
+HE  /hɛ/
+HAE /heɪ/
+HEA /hɛə/
+HA  /hæ/
+HAA /hɑː/
+HI  /hɪ/
+HAI /haɪ/
+HUE /hɜː/
+HUR /hɜːɹ/
+HOR /hɒɹ/
+HAW /hɔː/
+HEW /hjuː/
+
+OH  /ɒh/
+OOH /uːh/
+UUH /ʊh/
+OUH /aʊh/
+AUH /oʊh/
+UH  /ʌh/
+EEH /iːh/
+EH  /ɛh/
+AEH /eɪh/
+EAH /ɛəh/
+AH  /æh/
+AAH /ɑːh/
+IH  /ɪh/
+AIH /aɪh/
+UEH /ɜːh/
+URH /ɜːɹh/
+ORH /ɒɹh/
+AWH /ɔːh/
+EWH /juːh/
