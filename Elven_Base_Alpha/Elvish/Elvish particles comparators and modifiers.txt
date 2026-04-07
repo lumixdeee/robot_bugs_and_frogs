@@ -22,6 +22,8 @@ AYA = MOGAYA = mysterious MOG
 ASI = MOGASI = difficult or challenging MOG
 ASIN = MOGASIN = broken or injured MOG
 ASA = MOGASA = top configuration MOG
+SA = increase
+SA = polarity switch (eg when -BSA suffix)
 
 IDI = MOGIDI = demi-MOG of half-MOG
 pre = IDI = IDIMOG = MOG only half power / half effort
