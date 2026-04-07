@@ -1,0 +1,41 @@
+Foxcycle-K-ipa.txt
+
+KO  /kɒ/
+KOO /kuː/
+KUU /kʊ/
+KOU /kaʊ/
+KAU /koʊ/
+KU  /kʌ/
+KEE /kiː/
+KE  /kɛ/
+KAE /keɪ/
+KEA /kɛə/
+KA  /kæ/
+KAA /kɑː/
+KI  /kɪ/
+KAI /kaɪ/
+KUE /kɜː/
+KUR /kɜːɹ/
+KOR /kɒɹ/
+KAW /kɔː/
+KEW /kjuː/
+
+OK  /ɒk/
+OOK /uːk/
+UUK /ʊk/
+OUK /aʊk/
+AUK /oʊk/
+UK  /ʌk/
+EEK /iːk/
+EK  /ɛk/
+AEK /eɪk/
+EAK /ɛək/
+AK  /æk/
+AAK /ɑːk/
+IK  /ɪk/
+AIK /aɪk/
+UEK /ɜːk/
+URK /ɜːɹk/
+ORK /ɒɹk/
+AWK /ɔːk/
+EWK /juːk/
