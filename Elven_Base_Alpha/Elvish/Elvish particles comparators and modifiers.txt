@@ -1,70 +1,70 @@
 Elvish particles comparators and modifiers.txt
 
 
-AU - MOG AU BEEST = cat is an example of a beast
-L - MOGL = cat-like
-MOGLFOCKSELFMAMA - hot foxy cat elf lady
+AU = MOG AU BEEST = cat is an example of a beast
+L = MOGL = cat-like
+MOGLFOCKSELFMAMA = hot foxy cat elf lady
 MAML = mum-like (sounds like mammal) 
 
 MOG is our base
 
 MOG = MOGs in general
-I - MOGI = one MOG
-IN - MOGIN = one edible MOG
-O - MOGO = doer, an MOGer, one that MOGs or does MOGing
-A - MOGA = MOG is attacker / ascendant / current leader / prime - the 'upping' suffix
-YI - MOGYI = my MOG
-YA - MOGYA = your MOG
--IS - MOGIS = chooser of MOG
-ISI - MOGISI = configurable or multi option MOG
-IYA - MOGIYA = MOG with poetic enflourishment 
-AYA - MOGAYA = mysterious MOG
-ASI - MOGASI = difficult or challenging MOG
-ASIN - MOGASIN = broken or injured MOG
-ASA - MOGASA = top configuration MOG
+I = MOGI = one MOG
+IN = MOGIN = one edible MOG
+O = MOGO = doer, an MOGer, one that MOGs or does MOGing
+A = MOGA = MOG is attacker / ascendant / current leader / prime = the 'upping' suffix
+YI = MOGYI = my MOG
+YA = MOGYA = your MOG
+IS = MOGIS = chooser of MOG
+ISI = MOGISI = configurable or multi option MOG
+IYA = MOGIYA = MOG with poetic enflourishment 
+AYA = MOGAYA = mysterious MOG
+ASI = MOGASI = difficult or challenging MOG
+ASIN = MOGASIN = broken or injured MOG
+ASA = MOGASA = top configuration MOG
 
-IDI - MOGIDI = demi-MOG of half-MOG
-pre - IDI - IDIMOG  = MOG only half power / half effort
-ELFIDI = half elf
+IDI = MOGIDI = demi-MOG of half-MOG
+pre = IDI = IDIMOG = MOG only half power / half effort
+ELFIDI = half-elf
 IDIFLO  = half-thought  , not very good idea
 FUCHOOSDMOGISOV = feline chooser of the slain / valkyrie cat
 
-AM - MOGAM = mother/parent of MOG
-UV - MOGUV = child of MOG
+AM = MOGAM = mother/parent of MOG
+UV = MOGUV = child of MOG
 
 MOGUGLA = MOG-building/structure
 HATMOG = place of MOG
 
-ARA - MOGARA = very dangerous / notorious MOG
-ADRA - MOGADRA = lethal MOG
+ARA = MOGARA = very dangerous / notorious MOG
+ADRA = MOGADRA = lethal MOG
 ADRA = lethal
 ADRO = cause of death
 ADRON = causer of death
 
 K*, *K, *K* and G*, *G, *G* endings are numerous and poetic and follow vowel logic, mistakes are fine 
 
-ET - JUL1ET = Juli went
-WET - JUL1WET = Juli is gone, don't know where
-KWET - JUL1KWET = where did Juli go?
-SET - JULISET = Juli went somewhere
-SKET - JUL1SKET = Which way did Juli go
-DET - JUL1DET = Juli went twice
-ENT - JUL1ENT = Juli didn't go
+ET = JUL1ET = Juli went
+WET = JUL1WET = Juli is gone, don't know where
+KWET = JUL1KWET = where did Juli go?
+SET = JULISET = Juli went somewhere
+SKET = JUL1SKET = Which way did Juli go
+DET = JUL1DET = Juli went twice
+ENT = JUL1ENT = Juli didn't go
 
-ETCHA - JUL1ETCHA = Juli went to say
-CHA - JUL1CHA = Juli said
+ETCHA = JUL1ETCHA = Juli went to say
+CHA = JUL1CHA = Juli said
 
 can tell said vs going to have said easily in ETCHA :)
 
 SI = they choose
-SICHA - JUL1SICHA = Juli chose to say
-ETSICHA - JUL1ETSICHA = Juli went to choose to say 
+SICHA = JUL1SICHA = Juli chose to say
+ETSICHA = JUL1ETSICHA = Juli went to choose to say 
 
-ISISI ESESA - the chooser has chosen the deed will be done
+ISISI ESESA = the chooser has chosen the deed will be done
 ================================
 
-PEOO - appearance / 'looks'
-EDHAT / or just DHAT - appearance / description
+PEOO = appearance / 'looks'
+EDHAT / or just DHAT = appearance / description
 
 PEOO HEEN = he looks fine
 DHAT FOXL ANA LOOLA HUG = described as foxy and always here
@@ -157,8 +157,8 @@ MINT = little
 MINTI = a little
 MAKA = too much” (overflow, excess causing D)
 MIN = “barely” (just above none)
-MOSS=ALL
-MOOSE=ALL_PERSIST - always
+MOSS = all
+MOOSE = always
 NEET = full / complete
 HOLI = enough / ready to go
 HEAP = high
