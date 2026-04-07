@@ -1,0 +1,41 @@
+foxcycle-M-ipa.txt
+
+MO  /mɒ/
+MOO /muː/
+MUU /mʊ/
+MOU /maʊ/
+MAU /moʊ/
+MU  /mʌ/
+MEE /miː/
+ME  /mɛ/
+MAE /meɪ/
+MEA /mɛə/
+MA  /mæ/
+MAA /mɑː/
+MI  /mɪ/
+MAI /maɪ/
+MUE /mɜː/
+MUR /mɜːɹ/
+MOR /mɒɹ/
+MAW /mɔː/
+MEW /mjuː/
+
+OM  /ɒm/
+OOM /uːm/
+UUM /ʊm/
+OUM /aʊm/
+AUM /oʊm/
+UM  /ʌm/
+EEM /iːm/
+EM  /ɛm/
+AEM /eɪm/
+EAM /ɛm/
+AM  /æm/
+AAM /ɑːm/
+IM  /ɪm/
+AIM /aɪm/
+UEM /ɜːm/
+URM /ɜːɹm/
+ORM /ɒɹm/
+AWM /ɔːm/
+EWM /juːm/
