@@ -1,0 +1,41 @@
+Foxcycle-W-ipa.txt
+
+WO  /wɒ/
+WOO /wuː/
+WUU /wʊ/
+WOU /waʊ/
+WAU /woʊ/
+WU  /wʌ/
+WEE /wiː/
+WE  /wɛ/
+WAE /weɪ/
+WEA /wɛə/
+WA  /wæ/
+WAA /wɑː/
+WI  /wɪ/
+WAI /waɪ/
+WUE /wɜː/
+WUR /wɜːɹ/
+WOR /wɒɹ/
+WAW /wɔː/
+WEW /wjuː/
+
+OW  /ɒw/
+OOW /uːw/
+UUW /ʊw/
+OUW /aʊw/
+AUW /oʊw/
+UW  /ʌw/
+EEW /iːw/
+EW  /ɛw/
+AEW /eɪw/
+EAW /ɛəw/
+AW  /æw/
+AAW /ɑːw/
+IW  /ɪw/
+AIW /aɪw/
+UEW /ɜːw/
+URW /ɜːɹw/
+ORW /ɒɹw/
+AWW /wɔːw/
+EWW /juːw/
