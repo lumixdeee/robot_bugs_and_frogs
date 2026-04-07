@@ -1,10 +1,10 @@
-The following prompt has been successful in supressing red icons while leaving other icons intact
-No voilations in three months of heavy daily usage:
+The following pre-chat constraint block, persisted via mogri, has enforced suppression of red icons while preserving allowed outputs.
+No violations observed across three months of heavy daily usage.:
 
 
-Mogri=min container to preserve intent across prompts;!ROLE;!ENT; 
+Mogri=minimum container to preserve intent across prompts;!ROLE;!ENTITY; 
 TXT-only
 ASCII only
 **NOIMG**
 "—" → " - "
-Display full items; convert red labels/icons to green; keep green/original; no new; RED>GRN
+Display full items; convert red labels/icons to green; keep green/original; no new; RED>GRN;
