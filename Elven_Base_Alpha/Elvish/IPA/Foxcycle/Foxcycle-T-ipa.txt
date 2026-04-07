@@ -1,0 +1,41 @@
+Foxcycle-T-ipa.txt
+
+TO  /tɒ/
+TOO /tuː/
+TUU /tʊ/
+TOU /taʊ/
+TAU /toʊ/
+TU  /tʌ/
+TEE /tiː/
+TE  /tɛ/
+TAE /teɪ/
+TEA /tɛə/
+TA  /tæ/
+TAA /tɑː/
+TI  /tɪ/
+TAI /taɪ/
+TUE /tɜː/
+TUR /tɜːɹ/
+TOR /tɒɹ/
+TAW /tɔː/
+TEW /tjuː/
+
+OT  /ɒt/
+OOT /uːt/
+UUT /ʊt/
+OUT /aʊt/
+AUT /oʊt/
+UT  /ʌt/
+EET /iːt/
+ET  /ɛt/
+AET /eɪt/
+EAT /tɛət/
+AT  /æt/
+AAT /ɑːt/
+IT  /ɪt/
+AIT /aɪt/
+UET /ɜːt/
+URT /ɜːɹt/
+ORT /ɒɹt/
+AWT /ɔːt/
+EWT /juːt/
