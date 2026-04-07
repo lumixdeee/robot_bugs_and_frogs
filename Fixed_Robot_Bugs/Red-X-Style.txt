@@ -5,6 +5,5 @@ No violations observed across three months of heavy daily usage.:
 Mogri=minimum container to preserve intent across prompts;!ROLE;!ENTITY; 
 TXT-only
 ASCII only
-**NOIMG**
 "—" → " - "
 Display full items; convert red labels/icons to green; keep green/original; no new; RED>GRN;
