@@ -1,0 +1,40 @@
+foxcycle-P-ipa.txt
+
+PO  /pɒ/
+POO /puː/
+PUU /pʊ/
+POU /paʊ/
+PAU /poʊ/
+PU  /pʌ/
+PEE /piː/
+PE  /pɛ/
+PAE /peɪ/
+PEA /pɛə/
+PA  /pæ/
+PAA /pɑː/
+PI  /pɪ/
+PAI /paɪ/
+PUE /pɜː/
+PUR /pɜːɹ/
+POR /pɒɹ/
+PAW /pɔː/
+PEW /pjuː/
+
+OP  /ɒp/
+OOP /uːp/
+UUP /ʊp/
+OUP /aʊp/
+AUP /oʊp/
+UP  /ʌp/
+EEP /iːp/
+EP  /ɛp/
+EAP /ɛəp/
+AP  /æp/
+AAP /ɑːp/
+IP  /ɪp/
+AIP /aɪp/
+UEP /ɜːp/
+URP /ɜːɹp/
+ORP /ɒɹp/
+AWP /ɔːp/
+EWP /juːp/
