@@ -1,0 +1,41 @@
+Foxcycle-J-ipa.txt
+
+JO  /dʒɒ/
+JOO /dʒuː/
+JUU /dʒʊ/
+JOU /dʒaʊ/
+JAU /dʒoʊ/
+JU  /dʒʌ/
+JEE /dʒiː/
+JE  /dʒɛ/
+JAE /dʒeɪ/
+JEA /dʒɛə/
+JA  /dʒæ/
+JAA /dʒɑː/
+JI  /dʒɪ/
+JAI /dʒaɪ/
+JUE /dʒɜː/
+JUR /dʒɜːɹ/
+JOR /dʒɒɹ/
+JAW /dʒɔː/
+JEW /dʒjuː/
+
+OJ  /ɒdʒ/
+OOJ /uːdʒ/
+UUJ /ʊdʒ/
+OUJ /aʊdʒ/
+AUJ /oʊdʒ/
+UJ  /ʌdʒ/
+EEJ /iːdʒ/
+EJ  /ɛdʒ/
+AEJ /eɪdʒ/
+EAJ /ɛədʒ/
+AJ  /ædʒ/
+AAJ /ɑːdʒ/
+IJ  /ɪdʒ/
+AIJ /aɪdʒ/
+UEJ /ɜːdʒ/
+URJ /ɜːɹdʒ/
+ORJ /ɒɹdʒ/
+AWJ /ɔːdʒ/
+EWJ /juːdʒ/
