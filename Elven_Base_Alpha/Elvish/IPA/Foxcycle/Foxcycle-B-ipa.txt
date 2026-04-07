@@ -1,0 +1,41 @@
+Foxcycle-B-ipa.txt
+
+BO  /bɒ/
+BOO /buː/
+BUU /bʊ/
+BOU /baʊ/
+BAU /boʊ/
+BU  /bʌ/
+BEE /biː/
+BE  /bɛ/
+BAE /beɪ/
+BEA /bɛə/
+BA  /bæ/
+BAA /bɑː/
+BI  /bɪ/
+BAI /baɪ/
+BUE /bɜː/
+BUR /bɜːɹ/
+BOR /bɒɹ/
+BAW /bɔː/
+BEW /bjuː/
+
+OB  /ɒb/
+OOB /uːb/
+UUB /ʊb/
+OUB /aʊb/
+AUB /oʊb/
+UB  /ʌb/
+EEB /iːb/
+EB  /ɛb/
+AEB /eɪb/
+EAB /ɛəb/
+AB  /æb/
+AAB /ɑːb/
+IB  /ɪb/
+AIB /aɪb/
+UEB /ɜːb/
+URB /ɜːɹb/
+ORB /ɒɹb/
+AWB /ɔːb/
+EWB /juːb/
