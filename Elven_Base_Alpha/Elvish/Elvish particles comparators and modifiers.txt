@@ -64,10 +64,10 @@ ISISI ESESA - the chooser has chosen the deed will be done
 ================================
 
 PEOO - appearance / 'looks'
-ELFHAT / or just FAT - appearance / description
+EDHAT / or just DHAT - appearance / description
 
 PEOO HEEN = he looks fine
-FAT FOXL ANA LOOLA HUG = described as foxy and always here
+DHAT FOXL ANA LOOLA HUG = described as foxy and always here
 
 KEET = sharp, a blade, or the claws of a cat
 KEEN = sheathed blade or claws
