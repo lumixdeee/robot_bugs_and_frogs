@@ -1,0 +1,41 @@
+foxcycle-N-ipa.txt
+
+NO  /nɒ/
+NOO /nuː/
+NUU /nʊ/
+NOU /naʊ/
+NAU /noʊ/
+NU  /nʌ/
+NEE /niː/
+NE  /nɛ/
+NAE /neɪ/
+NEA /nɛə/
+NA  /næ/
+NAA /nɑː/
+NI  /nɪ/
+NAI /naɪ/
+NUE /nɜː/
+NUR /nɜːɹ/
+NOR /nɒɹ/
+NAW /nɔː/
+NEW /njuː/
+
+ON  /ɒn/
+OON /uːn/
+UUN /ʊn/
+OUN /aʊn/
+AUN /oʊn/
+UN  /ʌn/
+EEN /iːn/
+EN  /ɛn/
+AEN /eɪn/
+EAN /ɛn/
+AN  /æn/
+AAN /ɑːn/
+IN  /ɪn/
+AIN /aɪn/
+UEN /ɜːn/
+URN /ɜːɹn/
+ORN /ɒɹn/
+AWN /ɔːn/
+EWN /juːn/
