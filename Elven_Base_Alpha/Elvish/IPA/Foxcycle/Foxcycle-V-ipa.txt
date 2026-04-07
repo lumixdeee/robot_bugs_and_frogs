@@ -1,0 +1,41 @@
+Foxcycle-V-ipa.txt
+
+VO  /vɒ/
+VOO /vuː/
+VUU /vʊ/
+VOU /vaʊ/
+VAU /voʊ/
+VU  /vʌ/
+VEE /viː/
+VE  /vɛ/
+VAE /veɪ/
+VEA /vɛə/
+VA  /væ/
+VAA /vɑː/
+VI  /vɪ/
+VAI /vaɪ/
+VUE /vɜː/
+VUR /vɜːɹ/
+VOR /vɒɹ/
+VAW /vɔː/
+VEW /vjuː/
+
+OV  /ɒv/
+OOV /uːv/
+UUV /ʊv/
+OUV /aʊv/
+AUV /oʊv/
+UV  /ʌv/
+EEV /iːv/
+EV  /ɛv/
+AEV /eɪv/
+EAV /ɛəv/
+AV  /æv/
+AAV /ɑːv/
+IV  /ɪv/
+AIV /aɪv/
+UEV /ɜːv/
+URV /ɜːɹv/
+ORV /ɒɹv/
+AWV /ɔːv/
+EWV /juːv/
