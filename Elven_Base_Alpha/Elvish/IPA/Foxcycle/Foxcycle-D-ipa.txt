@@ -1,0 +1,41 @@
+Foxcycle-D-ipa.txt
+
+DO  /dɒ/
+DOO /duː/
+DUU /dʊ/
+DOU /daʊ/
+DAU /doʊ/
+DU  /dʌ/
+DEE /diː/
+DE  /dɛ/
+DAE /deɪ/
+DEA /dɛə/
+DA  /dæ/
+DAA /dɑː/
+DI  /dɪ/
+DAI /daɪ/
+DUE /dɜː/
+DUR /dɜːɹ/
+DOR /dɒɹ/
+DAW /dɔː/
+DEW /djuː/
+
+OD  /ɒd/
+OOD /uːd/
+UUD /ʊd/
+OUD /aʊd/
+AUD /oʊd/
+UD  /ʌd/
+EED /iːd/
+ED  /ɛd/
+AED /eɪd/
+EAD /ɛəd/
+AD  /æd/
+AAD /ɑːd/
+ID  /ɪd/
+AID /aɪd/
+UED /ɜːd/
+URD /ɜːɹd/
+ORD /ɒɹd/
+AWD /ɔːd/
+EWD /juːd/
