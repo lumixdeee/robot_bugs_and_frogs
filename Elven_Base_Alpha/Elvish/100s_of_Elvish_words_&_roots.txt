@@ -1,33 +1,32 @@
 All elvish in the order in which it was first written into the robot
 
-I=the narrator, the chooser, and the questioner, power-up via data advantage/leverage 
-M=Goddess/mother/product/asset/sov/The Food 
-H=hair=heaven=haha, breathe, pairs with f=facing 
-L=loop,period,light, days repeating 
-O=ongoing 
-U=down 
-D=Dragon 
-R=Roar, big teeth 
-E=in effect 
-A=up, apple, primary 
-S=choice/decision/split/see/science 
-T= teeth, eating it, tea time, tonight, tea itself. 
-P=Father, peen, peacocking 
-B=baby, ball, base. 
-F=facing 
-G=God,male, Godding, the art of 
-W=wavering choice/option 
-Y=yes, eater, eat first, ask please later, thankyou 
-N=no, eaten, negation as question, not in force 
-C=change,cast,chuck,carry over, send, chat, conversation 
-K=king, top, best 
-J=joker,wildcard, unknown, prince of jewels 
-X=marks the spot of kisses and negation, inedible, not eaten, negation in force 
-Q=Queen's choice 
-V = delve, cleave, entower, exponentiate 
-Z= the end
+AIM=	I=the narrator, the chooser, and the questioner, power-up via data advantage/leverage 
+EM=		M=Goddess/mother/product/asset/sov/The Food, MA
+HAE=	H=hair=hat=heaven=haha, breathe, pairs with f=facing
+EL=		L=loop,period,light, days repeating, water reflecting
+DEE=	D=Dragon, (death), owner of big teeth, nice sound often used for non dragon/death related.
+DHEE=	DH=medium teeth, lovely elvish sounds in general
+AAR=	R=Roar, Bigger Teeth (than yours)
+ES=		S=choice/decision/see/science
+ETI=	T= yr teeth, eating it, tea time, tonight, tea itself.
+THON=	TH = 'th' sound, otherwise as 'T', ignore the 'H' for parsing, also good for 'think'-related soft topics	
+PAE=	P=Father, peen, peacocking, pee-pee, post, signal, data surface
+BAMB=	B=baby, ball, base. Value that cannot protect itself.
+EF=		F=facing, flow, other half of breathe
+GAE=	G=God,male, Godding, the art of, totality, Nama to the Rupa of 'MA'
+DIOO=	W=wavering choice/option
+YIP=	Y=yes, eater, eat first, ask please later, thankyou, fork
+EN=		no, eaten, negation as question, not in force
+CHAI=	CH=change,cast,chuck,carry over, send, chat, conversation
+KAE=	K=king, top, best, crown, sense of, king as person, building material, substrate, sharp rocks
+JAE=	J=joker,wildcard, unknown, prince of jewels
+AX=		X=marks the spot of kisses and negation, inedible, not eaten, negation in force - 'KS' at end, else 'Z' sound
+KIOO=	Q=Queen's question - KW
+EEV=	V = delve, cleave, entower, exponentiate
+SKWIL=	SKW=squirrelness, squirrely, squirrotic, squiddled, squatf?
+XED=	Z= The End
 
-names of elvish letters and 'how they sound' guide
+names of elvish letters above and vowels below and 'how they sound' guide
 
 OM		O = short 'o', as in 'pot'			ongoing, stable, exist, affirm, ok
 MOON	OO = longest 'oo', as in 'pool'		away from you, length
