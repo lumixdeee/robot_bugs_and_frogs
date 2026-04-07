@@ -1,20 +1,20 @@
 ELF-CYCLE-SKW-ipa.txt
 
-SKW (SKW + V)
+SKW   (SKW + V)
 
-SKWO /skwoʊ/
+SKWO  /skwoʊ/
 SKWOO /skwuː/
 SKWUU /skwʊ/
 SKWOU /skwaʊ/
 SKWAU /skwoʊ/
-SKWU /skwʌ/
+SKWU  /skwʌ/
 SKWEE /skwiː/
-SKWE /skwɛ/
+SKWE  /skwɛ/
 SKWAE /skweɪ/
 SKWEA /skwɛə/
-SKWA /skwæ/
+SKWA  /skwæ/
 SKWAA /skwɑː/
-SKWI /skwɪ/
+SKWI  /skwɪ/
 SKWAI /skwaɪ/
 SKWUE /skwɜː/
 SKWUR /skwɜːɹ/
@@ -22,21 +22,21 @@ SKWOR /skwɒɹ/
 SKWAW /skwɔː/
 SKWEW /skwjuː/
 
-LF (V + LF)
+LF   (V + LF)
 
-OLF /ɒlf/
+OLF  /ɒlf/
 OOLF /uːlf/
 UULF /ʊlf/
 OULF /aʊlf/
 AULF /oʊlf/
-ULF /ʌlf/
+ULF  /ʌlf/
 EELF /iːlf/
-ELF /ɛlf/
+ELF  /ɛlf/
 AELF /eɪlf/
 EALF /ɛəlf/
-ALF /ælf/
+ALF  /ælf/
 AALF /ɑːlf/
-ILF /ɪlf/
+ILF  /ɪlf/
 AILF /aɪlf/
 UELF /ɜːlf/
 URLF /ɜːɹlf/
@@ -44,21 +44,21 @@ ORLF /ɒɹlf/
 AWLF /ɔːlf/
 EWLF /juːlf/
 
-FL (FL + V)
+FL   (FL + V)
 
-FLO /flɒ/
+FLO  /flɒ/
 FLOO /fluː/
 FLUU /flʊ/
 FLOU /flaʊ/
 FLAU /floʊ/
-FLU /flʌ/
+FLU  /flʌ/
 FLEE /fliː/
-FLE /flɛ/
+FLE  /flɛ/
 FLAE /fleɪ/
 FLEA /flɛə/
-FLA /flæ/
+FLA  /flæ/
 FLAA /flɑː/
-FLI /flɪ/
+FLI  /flɪ/
 FLAI /flaɪ/
 FLUE /flɜː/
 FLUR /flɜːɹ/
