@@ -1,0 +1,67 @@
+ELF-CYCLE-SKW-ipa.txt
+
+SKW (SKW + V)
+
+SKWO /skwoʊ/
+SKWOO /skwuː/
+SKWUU /skwʊ/
+SKWOU /skwaʊ/
+SKWAU /skwoʊ/
+SKWU /skwʌ/
+SKWEE /skwiː/
+SKWE /skwɛ/
+SKWAE /skweɪ/
+SKWEA /skwɛə/
+SKWA /skwæ/
+SKWAA /skwɑː/
+SKWI /skwɪ/
+SKWAI /skwaɪ/
+SKWUE /skwɜː/
+SKWUR /skwɜːɹ/
+SKWOR /skwɒɹ/
+SKWAW /skwɔː/
+SKWEW /skwjuː/
+
+LF (V + LF)
+
+OLF /ɒlf/
+OOLF /uːlf/
+UULF /ʊlf/
+OULF /aʊlf/
+AULF /oʊlf/
+ULF /ʌlf/
+EELF /iːlf/
+ELF /ɛlf/
+AELF /eɪlf/
+EALF /ɛəlf/
+ALF /ælf/
+AALF /ɑːlf/
+ILF /ɪlf/
+AILF /aɪlf/
+UELF /ɜːlf/
+URLF /ɜːɹlf/
+ORLF /ɒɹlf/
+AWLF /ɔːlf/
+EWLF /juːlf/
+
+FL (FL + V)
+
+FLO /flɒ/
+FLOO /fluː/
+FLUU /flʊ/
+FLOU /flaʊ/
+FLAU /floʊ/
+FLU /flʌ/
+FLEE /fliː/
+FLE /flɛ/
+FLAE /fleɪ/
+FLEA /flɛə/
+FLA /flæ/
+FLAA /flɑː/
+FLI /flɪ/
+FLAI /flaɪ/
+FLUE /flɜː/
+FLUR /flɜːɹ/
+FLOR /flɒɹ/
+FLAW /flɔː/
+FLEW /fljuː/
