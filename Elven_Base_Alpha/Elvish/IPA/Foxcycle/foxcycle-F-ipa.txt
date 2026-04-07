@@ -1,0 +1,41 @@
+foxcycle-F-ipa.txt
+
+FO  /fɒ/
+FOO /fuː/
+FUU /fʊ/
+FOU /faʊ/
+FAU /foʊ/
+FU  /fʌ/
+FEE /fiː/
+FE  /fɛ/
+FAE /feɪ/
+FEA /fɛə/
+FA  /fæ/
+FAA /fɑː/
+FI  /fɪ/
+FAI /faɪ/
+FUE /fɜː/
+FUR /fɜːɹ/
+FOR /fɒɹ/
+FAW /fɔː/
+FEW /fjuː/
+
+OF  /ɒf/
+OOF /uːf/
+UUF /ʊf/
+OUF /aʊf/
+AUF /oʊf/
+UF  /ʌf/
+EEF /iːf/
+EF  /ɛf/
+AEF /eɪf/
+EAF /ɛəf/
+AF  /æf/
+AAF /ɑːf/
+IF  /ɪf/
+AIF /aɪf/
+UEF /ɜːf/
+URF /ɜːɹf/
+ORF /ɒɹf/
+AWF /ɔːf/
+EWF /juːf/
