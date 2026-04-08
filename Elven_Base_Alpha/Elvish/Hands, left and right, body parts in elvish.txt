@@ -70,10 +70,24 @@ HAT = place
 AT = at
 
 BEE = are
+BEEA = were
 BEH = is
+BAET = was
 IS = is
 AS = as
+IST = was
+AISK = will
+WAISK = should I?
+MISK = should she?
+PISK = should he?
+DISK = should those two?
+NISK = should it?
+SISK = should they?
+YISK = should you? 
+
 AAR = exclamation, surprise etc
+MUS = grouping together for warmth in winter
+BANOMANL = my health is your health
  
 LAI = equivalent to a sanskrit 'vrtti'
 LAIL = loop-mind = confusion
