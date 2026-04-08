@@ -51,6 +51,10 @@ DUNDEE = the ground beneath my feet
 ONK = hip
 DONK = hips
 DONKI = small horse-like creature with strong hips, got for pulling KART
+MOON = buttocks
+MOUNHATUGETON = get off your ass (jump-thru and jump-back, seated vinyasa)
+MO-ON splits to form MOU 
+MOU = hurry up!
 
 ashtanga yoga baby! knee = ego, so of course it is 'I'.
 
