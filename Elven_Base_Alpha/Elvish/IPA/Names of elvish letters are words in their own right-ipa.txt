@@ -1,0 +1,44 @@
+Names of elvish letters are words in their own right-ipa.txt
+
+HAE  /heɪ/     =	Male elf, Inhale
+EL   /ɛl/      =	Alive
+DEE  /diː/     =	Female elf name,name of dragon of death personified (cute!)
+DHEE /ðiː/     =	The, The definite Article
+AAR  /ɑːr/     =	Are. (To Be)
+ES   /ɛs/      =	Act (To Do)
+ETI  /ˈɛti/    =	A round or a turn or a go
+THON /θɒn/     =	Stone giants, thorns
+PAE  /peɪ/     =	tend, help out, gift
+BAMB /bæmb/    =	Gourde or ball
+EF   /ɛf/      =	to awake, exhale
+GAE  /geɪ/     =	male elf name, magpie
+DIOO /djuː/    =	You should
+YIP  /jɪp/     =	Charisma, spectacularity in appearance
+EN   /ɛn/      =	Insert or stuff
+CHAI /tʃaɪ/    =	Gossip, chat, tea, a type of berry
+KAE  /keɪ/     =	healthy
+JAE  /dʒeɪ/    =	fun, a type of bird
+AX   /æks/     =	axe
+KIOO /kjuː/    =	You must
+EEV  /iːv/     =	gone, eels
+SKWIL /skwɪl/  =	squirrel, convovulus
+
+OM   /ɒm/      =	unborn child
+MOON /muːn/    =	buttocks
+OOK  /ʊk/      =	yes, ok, roger-that, operational affirmative
+MOU  /maʊ/     =	hurry up
+AUM  /ɔːm/     =	pre-yoga om
+IOO  /juː/     =	You are
+	
+MEE  /miː/     =	you plus your mother as a unit
+EE   /iː/      =	body / set / whole
+AE   /eɪ/      =	A. The Indefinite Article
+ASH  /æʃ/      =	Air, ether, ash trees, straight
+	
+AM   /æm/      =	Me/Is
+AAM  /ɑːm/     =	arm
+INK  /ɪŋk/     =	knee
+AI   /aɪ/      =	I, ego
+	
+MUE  /mʊə/     =	look out from behind / below!
+XED  /zɛd/     =	End
