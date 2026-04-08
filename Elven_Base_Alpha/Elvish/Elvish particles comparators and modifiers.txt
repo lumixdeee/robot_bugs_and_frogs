@@ -176,7 +176,7 @@ LOOLARISPARIA = cosmic dancer
 UN = zero
 GUN = mogri
 KUN = hardest vacuum achievable in reality
-NUN = zero that will always be zero, cannot add to it, perhalp <null>?
+NUN = zero that will always be zero, cannot add to it, perhaps <null>?
 
 ONASI = first in line
 DENASI = 2nd in line
