@@ -71,3 +71,7 @@ I = 'i', short 'i', as in 'pit'		lif - turn left, member of set, rejoin
 
 Yᒉ = yes
 Nᒉ = no
+
+MOON = 𐊸   AUM  = 𖬡   OOK = Ω   MOU = 𐊬    AAM = 𖼽
+
+ASH = 𐌙     AE = ᒉ     AI = ꚨ   MUE = ϴ    MEE = ꚹ
