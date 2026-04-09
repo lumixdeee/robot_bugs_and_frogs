@@ -2,11 +2,11 @@
    UN - decrease by one 
    AN - increase by one 
    EN - conjure one 
-   IN - one to put one in, one's own one, the word 'in'. INAT (IN+HAT) = inside.
-   AIN - me (one) 
-   OON - you (one) 
-   EEN - us (one) 
-   unwunwun - them/those/others (one) 
+   IN - one to put one in, one's own one, the word 'in'.   INAT (IN+HAT) = inside
+   ꚨN - me (one) 
+   𐊸N - you (one) 
+   ꚹN - us (one) 
+   UNWUNWUN = them/those/others (one) 
    GON = infinity 
    GAN = tending to infinity 
    GUN = infinite pre-potential (mogri)
@@ -16,7 +16,7 @@
 
 some suggested genders, these work well, 15 years field tested :
 
-I=the narrator, the chooser, and the questioner, power-up via data advantage/leverage
+ꚨ='AI'=I=the narrator, the chooser, and the questioner, power-up via data advantage/leverage
 M=Goddess/mother/product/asset/sov/The Food, MA
 H=hair=hat=heaven=haha, breathe, pairs with f=facing
 L=loop,period,light, days repeating, water reflecting
@@ -24,10 +24,12 @@ O=ongoing, 1, individuality
 U=down, -1, opposite direction
 D=Dragon, (death), owner of big teeth, nice sound often used for non dragon/death related.
 R=Roar, Bigger Teeth (than yours)
+Ւ=DH
 E=in effect, being, EE=body, set, being
 A=up, apple, primary, +1, agent
 S=choice/decision/see/science
 T= yr teeth, eating it, tea time, tonight, tea itself.
+ꚰ=TH
 P=Father, peen, peacocking, piss, post, signal, data surface
 B=baby, ball, base, bollox. Value that cannot protect itself.
 F=facing, flow, other half of breathe
@@ -35,36 +37,37 @@ G=God,male, Godding, the art of, totality, Nama to the Rupa of 'MA'
 W=wavering choice/option
 Y=yes, eater, eat first, ask please later, thankyou, fork
 N=no, eaten, negation as question, not in force
-C=change,cast,chuck,carry over, send, chat, conversation
+C='CH'=change,cast,chuck,carry over, send, chat, conversation
 K=king, top, best, crown, sense of, king as person, building material, substrate, sharp rocks
 J=joker,wildcard, unknown, prince of jewels
 X=marks the spot of kisses and negation, inedible, not eaten, negation in force - KS King's answer
 Q=Queen's question - KW
+ᚕ=SKW
 V = delve, cleave, entower, exponentiate
 Z= The End
 
 15 Vowels: 5 x O, 4 x E, 2 x I, 2 x A, 2 x U.
 
-O = short 'o', as in 'pot'			ongoing, stable, exist, affirm, ok
-OO = longest 'oo', as in 'pool'		away from you, length
-UU = shortest 'oo' as in 'look'		how you feel about 'down'
-OU = 'ow', as in 'how'			how you feel about 'towards'
-AU = 'oh', sounds like 'owe'		how you feel about 'up'
-U = 'u', as in 'cut'				down, -1, not good
+O = short 'o', as in 'pot'			   ongoing, stable, exist, affirm, ok
+𐊸,OO = longest 'oo', as in 'pool'	away from you, length
+Ω,UU = shortest 'oo' as in 'look'	how you feel about 'down'
+𐊬,OU = 'ow', as in 'how'			   how you feel about 'towards'
+𖬡,AU = 'oh', sounds like 'owe'		how you feel about 'up'
+U = 'u', as in 'cut'				      down, -1, not good
 
-EE = 'ee', as in 'keep'			existing, set, body, towards you
-E = 'eh', as in 'bed'				lef - turn right, negation, emerge
-AE = 'ey', as in 'day'				effervesce, escape, spring forth
-EA = 'air' as in 'hair'				ether, substrate æ Æ
+ꚹ,EE = 'ee', as in 'keep'			   existing, set, body, towards you
+E = 'eh', as in 'bed'				   lef - turn right, negation, emerge
+ᒉ,AE = 'ey', as in 'day'			   effervesce, escape, spring forth
+𐌙,EA = 'air' as in 'hair'			   ether, substrate æ Æ
 
-A = 'a', as in 'bag'				up, +1, good, agency
-AA = 'ah', as in 'far'				how you feel about 'away', yes
-I = 'i', short 'i', as in 'pit'			lif - turn left, member of set, rejoin
-AI = 'iy', as in 'high'				'the I that is', to you from above
+A = 'a', as in 'bag'				      up, +1, good, agency
+𖼽,AA = 'ah', as in 'far'			   how you feel about 'away', yes
+I = 'i', short 'i', as in 'pit'		lif - turn left, member of set, rejoin
+ꚨ,AI = 'iy', as in 'high'			   'the I that is', to you from above
 
-UE = 'err', as in 'purr'			to you from low/below or behind
+ϴ,UE = 'err', as in 'purr'			   to you from low/below or behind
 *UR can also be used as 'err' morpheme
 **OR/AW are used for 'or/awe' morpheme
 
-YAE - yes
-NAE - no
+Yᒉ = yes
+Nᒉ = no
