@@ -58,8 +58,8 @@ O = short 'o', as in 'pot'			   ongoing, stable, exist, affirm, ok
 𐊬,OU = 'ow', as in 'how'			      how you feel about 'towards'
 𖬡,AU = 'oh', sounds like 'owe'		how you feel about 'up'
 
-U = 'u', as in 'cut'				         down, -1, not good
-ϴ,UE = 'err', as in 'purr'			   to you from low/below or behind
+U = 'u', as in 'cut'				      down, -1, not good
+ϴ,UE = 'err', as in 'purr'			      to you from low/below or behind
 
 I = 'i', short 'i', as in 'pit'		   lif - turn left, member of set, rejoin
 ꚨ,AI = 'iy', as in 'high'			   'the I that is', to you from above
