@@ -24,12 +24,12 @@ O=ongoing, 1, individuality
 U=down, -1, opposite direction
 D=Dragon, (death), owner of big teeth, nice sound often used for non dragon/death related.
 R=Roar, Bigger Teeth (than yours)
-Ւ=DH
+Ւ=DH=the
 E=in effect, being, EE=body, set, being
 A=up, apple, primary, +1, agent
 S=choice/decision/see/science
 T= yr teeth, eating it, tea time, tonight, tea itself.
-ꚰ=TH
+ꚰ=TH=think
 P=Father, peen, peacocking, piss, post, signal, data surface
 B=baby, ball, base, bollox. Value that cannot protect itself.
 F=facing, flow, other half of breathe
@@ -42,32 +42,36 @@ K=king, top, best, crown, sense of, king as person, building material, substrate
 J=joker,wildcard, unknown, prince of jewels
 X=marks the spot of kisses and negation, inedible, not eaten, negation in force - KS King's answer
 Q=Queen's question - KW
-ᚕ=SKW
+ᚕ=SKW=Squirrelishness, curiosity
 V = delve, cleave, entower, exponentiate
 Z= The End
 
-15 Vowels: 5 x O, 4 x E, 2 x I, 2 x A, 2 x U.
+15 Vowels: 
+2 x A, 5 x O, 2 x U, 2 x I, 4 x E,
+
+A = 'a', as in 'bag'				      up, +1, good, agency
+𖼽,AA = 'ah', as in 'far'			   how you feel about 'away', yes
 
 O = short 'o', as in 'pot'			   ongoing, stable, exist, affirm, ok
 𐊸,OO = longest 'oo', as in 'pool'	away from you, length
 Ω,UU = shortest 'oo' as in 'look'	how you feel about 'down'
 𐊬,OU = 'ow', as in 'how'			   how you feel about 'towards'
 𖬡,AU = 'oh', sounds like 'owe'		how you feel about 'up'
+
 U = 'u', as in 'cut'				      down, -1, not good
+ϴ,UE = 'err', as in 'purr'			   to you from low/below or behind
+
+I = 'i', short 'i', as in 'pit'		lif - turn left, member of set, rejoin
+ꚨ,AI = 'iy', as in 'high'			   'the I that is', to you from above
 
 ꚹ,EE = 'ee', as in 'keep'			   existing, set, body, towards you
 E = 'eh', as in 'bed'				   lef - turn right, negation, emerge
 ᒉ,AE = 'ey', as in 'day'			   effervesce, escape, spring forth
 𐌙,EA = 'air' as in 'hair'			   ether, substrate æ Æ
 
-A = 'a', as in 'bag'				      up, +1, good, agency
-𖼽,AA = 'ah', as in 'far'			   how you feel about 'away', yes
-I = 'i', short 'i', as in 'pit'		lif - turn left, member of set, rejoin
-ꚨ,AI = 'iy', as in 'high'			   'the I that is', to you from above
-
-ϴ,EU = 'err', as in 'purr'			   to you from low/below or behind
 *UR can also be used as 'err' morpheme
 **OR/AW are used for 'or/awe' morpheme
+
 
 Yᒉ = yes
 Nᒉ = no
