@@ -295,12 +295,24 @@ store = BOOK / STOORI
 erase = SUS(CHA) / END(CHA)
 forward = OOCHA
 
+CHAN = messages
+CHANI = a message
+CHANL = message folders
+CHANLI = a message folder
+CHANOON = sent messages
+CHANOONI = a sent message
+CHANEEN = received messages
+CHANEENI = a received message
+FAULDA = computer folder
+FAILIN = computer files
+FAILINI = a computer file
+
 UNCHA = 0 messages
 ONCHA = 1 message
 FANCHA = 5 messages
-TRONVAFAN = 50 messages
+TRONVAFANCHA = 50 messages
 GUNCHA = drafts folder (mogri folder)
-UNTCHA = sent messages
+UNTCHA = unsent messages
 LACHA = retry message
 
 WAAW = total mayhem and confusion
