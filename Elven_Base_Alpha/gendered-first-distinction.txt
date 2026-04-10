@@ -76,6 +76,6 @@ E = 'eh', as in 'bed'				   lef - turn right, negation, emerge
 Yᒉ = yes
 Nᒉ = no
 
-MOON = 𐊸   AUM  = 𖬡   OOK = Ω   MOU = 𐊬    AAM = 𖼽
+MOON = 𐊸    OM = 𖬡    OOK = Ω   MOU = 𐊬    AAM = 𖼽
 
-ASH = 𐌙     AE = ᒉ     AI = ꚨ   MEU = ϴ    MEE = ꚹ
+ASH = 𐌙     AE = ᒉ     AI = ꚨ   MUE = ϴ    MEE = ꚹ
