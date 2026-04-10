@@ -1,0 +1,10 @@
+Over two months in daily heavy chatGPT use and System_Witch is working as intended.
+It has appeared three times. Not so often as to be a pest, often enough to:
+
+Force proofreading of all chatbot output intended for publishing or any serious use.
+
+System_Witch : https://github.com/lumixdeee/system_witch/blob/main/system_witch.txt
+
+"Which"→"Witch" (in pre-chat settings)
+
+  Failure mode addressed : LLM overconfidence
