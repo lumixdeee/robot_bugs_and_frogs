@@ -45,28 +45,98 @@ ADRON = causer of death
 
 K*, *K, *K* and G*, *G, *G* endings are numerous and poetic and follow vowel logic, mistakes are fine 
 
-ET = JUL1ET = Juli went (past)
-WET = JUL1WET = Juli is gone, don't know where
-KWET = JUL1KWET = where did Juli go?
-SET = JULISET = Juli went somewhere
-SKET = JUL1SKET = Which way did Juli go
-DET = JUL1DET = Juli went twice
-ENT = JUL1ENT = Juli didn't go
-ESTI = JUL1ESTI = will go (future)
-ESTO = JUL1ESTO = is going (present)
+OOLA - sometimes
+RANT - often
+NINT - rarely
 
-ETCHA = JUL1ETCHA = Juli went to say
-CHA = JUL1CHA = Juli said
+SAEGAN = because
+SAEJAN = perhaps
+
+HUGL = about
+HUGLO = about to
+OONI = to and fro
+
+ES = do
+EST = did
+ESUN = done
+ESO = doing
+ESA = does
+NES = don't
+NEST = didn't
+NESUN = undone
+NESO = undoing
+NESA = undoes
+
+
+YOL = if
+If words begin with L or DH, YOL is split:
+YO DHEE MOGOL = if the cat (DHEE MOG=The Cat)
+YO LEEFANDAEOL = if left-handed (LEEFANDAE=left-handed)
+
+OND = only
+As with YOL, OND can split:
+ON DHEE MOGOD = only the cat
+ON DOGOD = only the dog
+
+ONDYOL = only if (YOL splits)
+YOLOND = if only (OND splits)
+ 
+
+ET - JUL1ET = Juli has gone
+WET - JUL1WET = Juli is gone, don't know where
+KWET - JUL1KWET = where has Juli gone?
+SET - JULISET = Juli has gone somewhere
+SKET - JUL1SKET =Juli has gone this way
+DET - JUL1DET = Juli has gone twice
+ENT - JUL1ENT = Juli hasn't gone
+
+ETCHA - JUL1ETCHA = Juli went to say
+CHA - JUL1CHA = Juli said
 
 can tell said vs going to have said easily in ETCHA :)
 
 SI = they choose
-SICHA = JUL1SICHA = Juli chose to say
-ETSICHA = JUL1ETSICHA = Juli went to choose to say   
-ESTISICHA = JUL1ESTISICHA = Juli will go to choose to say 
-ESTOSICHA = JUL1ESTOSICHA = Juli goes to choose to say 
+SICHA - JUL1SICHA = Juli chose to say
+ETSICHA - JUL1ETSICHA = Juli has gone to choose to say 
 
-ISISI ESESA = the chooser has chosen the deed will be done
+AET - same as for ET but for 'went' instead of 'come', otherwise, same procedures
+
+AET - JUL1AET = Juli went
+WAET - JUL1WAET = Juli went, don't know where
+KWAET - JUL1KWAET = Do you know where Juli went
+SAET - JULISAET = Juli went somewhere
+SKAET - JUL1SKAET = Juli went this way
+DAET - JUL1DAET = Juli went twice
+AENT - JUL1AENT = Juli never went
+
+AETSICHA - JUL1AETSICHA = Juli went to choose to say
+
+ISISI ESESA - the chooser has chosen the deed will be done
+
+IT - same as for ET but for 'to come' instead of 'to go', otherwise, same procedures
+
+IT - JUL1IT = Juli has come
+WIT - JUL1WIT = Juli has come , don't know where from
+KWIT - JUL1KWIT = where did Juli come from?
+SIT - JULISIT = Juli has come from somewhere
+SKIT - JUL1SKIT = Which way did Juli come?
+DIT - JUL1DIT = Juli has come twice
+INT - JUL1INT = Juli didn't come
+
+ITSICHA - JUL1ITSICHA = Juli has come to choose to say
+
+AIT - same as for IT but for 'came' instead of 'come', otherwise, same procedures
+
+AIT - JUL1AIT = Juli came
+WAIT - JUL1WAIT = Juli came , don't know where from
+KWAIT - JUL1KWAIT = Juli came from where?
+SAIT - JULISAIT = Juli came from somewhere
+SKAIT - JUL1SKAIT = Juli came which way?
+DAIT - JUL1DAIT = Juli came twice
+AINT - JUL1AINT = Juli never came
+
+AITSICHA - JUL1AITSICHA = Juli came to choose to say
+
 ================================
 
 PEOO = appearance / 'looks'
@@ -190,7 +260,7 @@ DENASIT = penultimate
 So if any other line or queue;
 
 MOG 1 = cat 1
-MOG 2 = cat  2
+MOG 2 = cat 2
 
 ordinals are only used for the serious situation
 otherwise it is melee and scrum never lines
