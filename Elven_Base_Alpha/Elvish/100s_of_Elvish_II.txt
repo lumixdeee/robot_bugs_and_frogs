@@ -292,7 +292,7 @@ HAT = hat (hat also means hat btw) :) :)
 send = CHA
 receive = ACH
 store = BOOK / STOORI
-erase = SUS(CHA) / END(CHA)
+erase / end = SUSCHA / ENDICHA
 forward = OOCHA
 
 CHAN = messages
