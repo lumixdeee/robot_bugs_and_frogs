@@ -1,0 +1,97 @@
+ETCHA_ELVISH_ELVIX_1:1 grapheme_->_IPA.txt
+
+
+Glyph	=	Grapheme	=	/IPA/
+
+A	=	A	=	/æ/
+𖼽	=	AA 	=	/ɑː/
+O	=	O	=	/ɒ/
+𐊸	=	OO	=	/uː/
+Ω	=	UU	=	/ʊ/
+𐊬	=	OU	=	/aʊ/
+𖬡	=	AU	=	/oʊ/
+U	=	U	=	/ʌ/
+ϴ	=	UE	=	/ɜː/
+ꚹ	=	EE	=	/iː/
+E	=	E  	=	/ɛ/
+ᒉ	=	AE	=	/eɪ/
+𐌙	=	EA	=	/ɛə/
+I	=	I	=	/ɪ/
+ꚨ	=	AI 	=	/aɪ/
+
+M	=	M	=	/m/
+H	=	H	=	/h/
+L	=	L	=	/l/
+D	=	D	=	/d/
+Ւ	=	DH	=	/ð/
+R	=	R	=	/ɾ/
+S	=	S	=	/s/
+𐋊	=	SH	=	/ʃ/
+T	=	T	=	/t/
+ꚰ	=	TH	=	/θ/
+P	=	P	=	/p/
+B	=	B	=	/b/
+F	=	F	=	/f/
+G	=	G	=	/g/
+W	=	W	=	/w/
+Y	=	Y	=	/j/
+N	=	N	=	/n/
+CH	=	CH	=	/tʃ/
+K	=	K	=	/k/
+J	=	J	=	/dʒ/
+V	=	V	=	/v/
+ᚕ	=	SKW	=	/skw/
+
+SPECIAL / CONDITIONAL
+
+X   = /ks/     (word-final)
+X   = /z/      (elsewhere)
+
+Z   = /s/      (explicit final /s/ override)
+
+Q   = /kw/
+
+ꚰ (TH):
+- parses as T in structure
+- surfaces as /θ/
+
+
+STRUCTURE LOCKS
+
+- clusters preserved: ARGL = /argl/
+- no epenthetic vowels
+- R always /ɾ/
+- no silent glyphs
+- no vowel reduction
+- G always /g/
+- J never /j/
+- SH fixed /ʃ/
+- SKW is atomic onset
+
+
+EDGE RULES (now explicit)
+
+1. DIGRAPH PRIORITY
+   longest match first:
+   SKW > CH > SH > TH > DH > single letters
+
+2. X RESOLUTION
+   if final → /ks/
+   else → /z/
+
+3. Z USAGE
+   only when author explicitly wants final /s/
+   (prevents accidental /ks/ via X)
+
+4. SKW STATUS
+   - single grapheme (not S+K+W)
+   - allowed initial + medial
+   - treated as one onset slot
+
+5. VOWEL STABILITY
+   every vowel is fully realised
+   (no schwa, no weakening)
+
+6. STRESS
+   default: flat / even
+   (no encoded stress contrast)
