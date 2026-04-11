@@ -1,0 +1,50 @@
+INEDIBLE ANIMALS (COMMON, NOT TYPICALLY EATEN) (21) (FL1)
+
+Dog - India = DUG /dʌg/
+Cat - Across region = MOG /mɒg/
+Horse (in some regions not eaten) - India = MAUNO /mɒʊnɒ/ if working, MOUNIN /mɒʊnɪn/ if food
+Donkey - Pakistan = DONKI /dɒŋkɪ/
+Elephant - India = WUGA /wʊgæ/ / RUGA /ɾʊgæ/
+Monkey - India/Nepal = HEAMANK /hɛəmæŋk/ / MANKEE /mænkiː/
+Wolf - Kazakhstan = WUK /wʊk/
+Fox - Europe/Asia corridor = FOKS /fɒks/
+Bear - Kazakhstan = BEERIN /biːɾɪn/
+Lynx - Norway = AELFMOG /eɪlfmɒg/
+Eagle - Central Asia = ARGL /argl/
+Owl - Across region = ARAHOO /æɾæhuː/
+Peacock - India = PEENAA /piːnɑː/
+Swan - Europe/Norway = ASHWIN /æʃwɪn/
+Crow - Widespread = KOR /kɒɾ/
+Bat - South Asia = NEEK /niːk/
+Hedgehog - Europe = AMBRAHOG /æmbɾæhɒg/
+Beaver - Kazakhstan = LOSOTMOG /lɒsɒtmɒg/
+Seal (not widely eaten inland) - Norway coast = LOSHMOG /lɒʃmɒg/
+Dolphin - Indian Ocean = LOSHELF /lɒʃɛlf/
+Swift - Europe = SWET /swɛt/
+
+
+EDIBLE PLANTS (20) (FL1)
+
+Mango - India - Uttar Pradesh plains - JOOLIRAA /dʒuːlɪɾɑː/
+Banana - Sri Lanka - Wet zone lowlands - BANDANA /bændænæ/
+Rice - Bangladesh - Delta floodplains - ORS /ɒɾs/
+Oriza Sativa - Tland - ERS /ɛɾs/
+Paddy field elf = PERSL /pɛɾsl/
+Rice Pudding = MOOERS /muːɾs/
+Wheat - Pakistan - Punjab irrigated fields - OOEET /uːiːt/
+Barley - Kazakhstan - Steppe agriculture - OOEEMET /uːiːmɛt/
+Apple - Nepal - Mustang highlands - APA /æpæ/
+Coconut - Sri Lanka - Coastal belt - KOOBNUT /kuːbnʌt/
+Lentil - India - Madhya Pradesh dry fields - LININ /lɪnɪn/
+Chickpea - Afghanistan - Semi-arid farms - CHANA /tʃænæ/
+Mustard greens - India - Haryana winter crops - WUULT /wʊlt/
+Spinach - Uzbekistan - Irrigated valleys - GREET /gɾiːt/
+Onion - India - Maharashtra farms - HOMYAN /hɒmjæn/
+Garlic - China (Xinjiang region along route) - IMYANS /ɪmjæns/
+Eggplant - India - Alluvial plains - MOLI /mɒlɪ/
+Okra - Pakistan - Sindh region - DIBL /dɪbl/
+Pomegranate - Afghanistan - Kandahar orchards - ERAKSTIG /ɛɾækstɪg/
+Grapes - Uzbekistan - Samarkand vineyards - PLEEST /pliːst/
+Cabbage - Norway - Southern farms - RUMRIN /ɾʊmɾɪn/
+Potato - Kazakhstan (border regions) - UGAPA /ʊgæpæ/
+Carrot - Ukraine borderlands - ARAT /æɾæt/
