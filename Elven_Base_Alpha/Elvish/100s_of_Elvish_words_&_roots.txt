@@ -458,7 +458,8 @@ LAAM - sky full of clouds (LAAMI = single large cloud)
 LOOM - sky full of dark clouds (LOOMI = single large dark cloud)
 FLOF - snow
 FLOST - sleet
-FLONKAS - hailstone
+FLONKAS - large hailstones
+FLINKNUT - light hailstones
 LOWA - underground
 LOOU - trench, dugout hide, shallow ground bowl for sleep
 
