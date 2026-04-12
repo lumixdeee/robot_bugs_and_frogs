@@ -1,44 +1,48 @@
-Elvish particles comparators and modifiers.txt
+Elvish particles comparitors and modifiers.txt
 
 
-AU = MOG AU BEEST = cat is an example of a beast
-L = MOGL = cat-like
-MOGLFOCKSELFMAMA = hot foxy cat elf lady
+AU - MOG AU BEEST = cat is an example of a beast
+L - MOGL = cat-like
+MOGLFOCKSELFMAMA - hot foxy cat elf lady
 MAML = mum-like (sounds like mammal) 
+UVI = individual child of
+MOGUVI = kitten
+FOKSUVI = fox cub
+MOGUVLI = kitten-like
+MOMOGUVLION = kitten-assed
+
 
 MOG is our base
 
 MOG = MOGs in general
-I = MOGI = one MOG
-IN = MOGIN = one edible MOG
-O = MOGO = doer, an MOGer, one that MOGs or does MOGing
-A = MOGA = MOG is attacker / ascendant / current leader / prime = the 'upping' suffix
-YI = MOGYI = my MOG
-YA = MOGYA = your MOG
-IS = MOGIS = chooser of MOG
-ISI = MOGISI = configurable or multi option MOG
-IYA = MOGIYA = MOG with poetic enflourishment 
-AYA = MOGAYA = mysterious MOG
-ASI = MOGASI = difficult or challenging MOG
-ASIN = MOGASIN = broken or injured MOG
-ASA = MOGASA = top configuration MOG
-SA = increase
-SA = polarity switch (eg when -BSA suffix)
+I - MOGI = one MOG
+IN - MOGIN = one edible MOG
+O - MOGO = doer, an MOGer, one that MOGs or does MOGing
+A - MOGA = MOG is attacker / ascendant / current leader / prime - the 'upping' suffix
+YI - MOGYI = my MOG
+YA - MOGYA = your MOG
+-IS - MOGIS = chooser of MOG
+ISI - MOGISI = configurable or multi option MOG
+IYA - MOGIYA = MOG with poetic enflourishment 
+AYA - MOGAYA = mysterious MOG
+ASI - MOGASI = difficult or challenging MOG
+ASIN - MOGASIN = broken or injured MOG
+ASA - MOGASA = top configuration MOG
 
-IDI = MOGIDI = demi-MOG of half-MOG
-pre = IDI = IDIMOG = MOG only half power / half effort
-ELFIDI = half-elf
+IDI - MOGIDI = demi-MOG of half-MOG
+pre - IDI - IDIMOG  = MOG only half power / half effort
+ELFIDI = half elf
 IDIFLO  = half-thought  , not very good idea
 FUCHOOSDMOGISOV = feline chooser of the slain / valkyrie cat
 
-AM = MOGAM = mother/parent of MOG
-UV = MOGUV = child of MOG
+AM - MOGAM = mother/parent of MOG
+UV - MOGUV = child of MOG
 
 MOGUGLA = MOG-building/structure
 HATMOG = place of MOG
 
-ARA = MOGARA = very dangerous / notorious MOG
-ADRA = MOGADRA = lethal MOG
+ARA - MOGARA = very dangerous / notorious MOG
+ADRA - MOGADRA = lethal MOG
 ADRA = lethal
 ADRO = cause of death
 ADRON = causer of death
@@ -137,13 +141,45 @@ AINT - JUL1AINT = Juli never came
 
 AITSICHA - JUL1AITSICHA = Juli came to choose to say
 
+ART = make
+ASK = make best
+ARTYON = Is ready/made if...
+YONART = If ready/made...
+ASKYON = Great if...
+YONASK = If great...
+
+ARTYON JUL1AITSICHA = It is ready if Juli came to choose to say
+YONART JUL1AITSICHA = If Juli came to choose to say, then it wouls be ready
+ASKYON JUL1AITSICHA = It would be great if Juli came to choose to say
+YONASK JUL1AITSICHA = If Juli came to choose to say, then it would be great
+YON JUL1ASKAITSICHA = If great Juli came to choose to say
+YON JUL1AITASKSICHA = If Juli came greatly to choose to say
+YON JUL1AITSIASKCHA = If Juli came to best choose to say
+YON JUL1AITSICHASK = If Juli came to choose to say something great
+
+URT = unmake
+USK = serious unmake
+SAK = great thing
+RAT = made thing
+OSK = protect
+OT = keep
+KEEOSK = protector, can be split:
+
+KEEOSK MOG = thing that protects cat
+KEEMOGOSK = cat is the protector
+MOG KEEOSK = thing that protects against cat
+WADRI = hero (story type)
+KEEWADRIOSK = protector-hero
+AMIMI = goddess
+KEEAMIMIOSKO WADRI = The hero's protector-goddess
+
 ================================
 
-PEOO = appearance / 'looks'
-EDHAT / or just DHAT = appearance / description
+PEOO - appearance / 'looks'
+ELFHAT / or just FAT - appearance / description
 
 PEOO HEEN = he looks fine
-DHAT FOXL ANA LOOLA HUG = described as foxy and always here
+FAT FOXL ANA LOOLA HUG = described as foxy and always here
 
 KEET = sharp, a blade, or the claws of a cat
 KEEN = sheathed blade or claws
@@ -233,8 +269,8 @@ MINT = little
 MINTI = a little
 MAKA = too much” (overflow, excess causing D)
 MIN = “barely” (just above none)
-MOSS = all
-MOOSE = always
+MOSS=ALL
+MOOSE=ALL_PERSIST - always
 NEET = full / complete
 HOLI = enough / ready to go
 HEAP = high
@@ -246,7 +282,7 @@ LOOLARISPARIA = cosmic dancer
 UN = zero
 GUN = mogri
 KUN = hardest vacuum achievable in reality
-NUN = zero that will always be zero, cannot add to it, perhaps <null>?
+NUN = zero that will always be zero, cannot add to it, perhalp <null>?
 
 ONASI = first in line
 DENASI = 2nd in line
@@ -260,7 +296,7 @@ DENASIT = penultimate
 So if any other line or queue;
 
 MOG 1 = cat 1
-MOG 2 = cat 2
+MOG 2 = cat  2
 
 ordinals are only used for the serious situation
-otherwise it is melee and scrum never lines
+otherwise it is melee and scrum, never lines
