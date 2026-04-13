@@ -2,9 +2,11 @@
  
  Max fps of reality =
 
- 14Ȝ72Ȝ32508756919242940263690Ȝ019047Ȝ14Ȝ14Ȝγ3Ȝ = 
+ 14Ȝ̵7̵2Ȝ32508̵7̵56919242940263690Ȝ01904̵7̵Ȝ14Ȝ14Ȝγ3Ȝ = 
 
- Ungaki-on gorgiki-sevantisi derkaka-trifantisi derkaki-panki dookiki-forder fongag-fanti troogak-derifor dergik-hunthri unga-derifad twergi-fatroon unkak-triti troka-unfanti gorkiforfun nogforkytron kenforkytron kappa trifantisi
+ Ungaki-on gorgiki-sevantisi derkaka-trifantisi derkaki-panki dookiki-forder fongag-fanti troogak-derifor dergik-hunthri unga-derifad twergi-fatroon unkak-triti troka-unfanti gorkiforfun nogfortyfork kenfortyfork kappa trifantisi
+
+
 
  Radix / Base = Bₑₗ = R=⁽¹¹¹⁺¹¹⁾⁄₁₁ ; digit 10 = ȝ
 
@@ -19,7 +21,7 @@
   04.		four		  	  fork           	 04.
   05.		five		  	  fan(forkan)     05.
   06.		six			  fad(forkder)    06.
-  07.		seven		  hefun          	 07.
+  07.		seven		  hefun          	 0̵7̵.
   08.		eight		  doof(derfork)  08.
   09.		nine		  	  troon(doofan) 09.
   10.	 	ten			  tron(derfan)    0Ȝ.
@@ -30,7 +32,7 @@
   15.		fifteen		  forkeen        	  14.
   16.		sixteen		  fani           	  15.
   17.		seventeen	  fads           	  16.
-  18.		eighteen	  	  bees           	  17.
+  18.		eighteen	  	  bees           	  1̵7̵.
   19.		nineteen		  unti		  18.
   20.		twenty		  onti		  19.
   21.		twenty one	  tyantun		  1Ȝ.
@@ -41,7 +43,7 @@
   26.		twenty six	  derifor		  24.
   27.		twenty seven	  derifan		  25.
   28.		twenty eight	  derifad		  26.
-  29.		twenty nine	  derihun		  27. 
+  29.		twenty nine	  derihun		  2̵7̵. 
   30.		thirty		  ontisi		  28.
   31.		thirty one	  	  deritroon	  29.
   32.		thirty two	  	  deritron		  2Ȝ.
@@ -52,7 +54,7 @@
   37.		thirty seven	  tritifor		  34.
   38.		thirty eight	  tritifan		  35.
   39.		thirty nine	  tritifad		  36.
-  40.		forty			  tritihun		  37.
+  40.		forty			  tritihun		  3̵7̵.
   41.		forty one		  troof		  38.
   42.		forty two		  tritoon		  39.
   43.		forty three	  triton		  3Ȝ
@@ -63,7 +65,7 @@
   48.		forty eight	  fortyfan		  44.
   49.		forty nine		  undertisi	  45.	
   50.		fifty			  dertisi		  46.
-  51.		fifty one		  ondertisi	  47.
+  51.		fifty one		  ondertisi	  4̵7̵.
   52.		fifty two		  andertisi	  48.
   53.		fifty three	  forkytroon	  49.
   54.		fifty four		  forkytron	  4Ȝ.
@@ -74,7 +76,7 @@
   59.		fifty nine		  untreeti		  54.		  
   60.		sixty			  treeti		  55.
   61.		sixty one		  treetion		  56.
-  62.		sixty two		  treetian		  57.
+  62.		sixty two		  treetian		  5̵7̵.
   63.		sixty three	  pandoof		  58.
   64.		sixty four 	  pantroon	  59.
   65.		sixty five		  pantron		  5Ȝ.
@@ -85,7 +87,7 @@
   70.		seventy		  treetisi		  64.
   71.		seventy one	  treetision	  65.
   72.		seventy two	  treetisider	  66.  
-  73.		seventy three	  treetisitri	  67. 
+  73.		seventy three	  treetisitri	  6̵7̵. 
   74.		seventy four	  fadoof		  68. 
   75.		seventy five	  fatroon		  69. 
   76.		seventy six	  fatron		  6Ȝ.
@@ -96,7 +98,7 @@
   81. 	eighty one	  fortion		  74.
   82. 	eighty two	  forder		  75.
   83.		eighty three	  fortree		  76.
-  84.		eighty four	  forfork		  77.
+  84.		eighty four	  forfork		  7̵7̵.
   85. 	eighty five	  forfan		  78.
   86.		eighty six		  forfad		  79.
   87. 	eighty seven	  forfun		  7Ȝ.
@@ -107,7 +109,7 @@
   92. 	ninety two	  anfortisi		  84.
   93. 	ninety three	  fortisitri		  85.
   94. 	ninety four	  fortisifor		  86.
-  95. 	ninety five	  fortisifan	  87.
+  95. 	ninety five	  fortisifan	  8̵7̵.
   96. 	ninety six		  fortisifad	  88.
   97. 	ninety seven	  fortisifun	  89.
   98. 	ninety eight	  fortisidoof	  8Ȝ.
@@ -118,7 +120,7 @@
   103.	hundred+3	  hunthri 		  94.
   104.	hundred+4	  hunfor		  95.
   105. 	hundred+5	  hunfai 		  96.
-  106. 	hundred+6	  hunsik 		  97.
+  106. 	hundred+6	  hunsik 		  9̵7̵.
   107. 	hundred+7	  hunsen 		  98.
   108. 	hundred+8	  hunet 		  99.
   109.	hundred+9	  unfantisi	  9Ȝ.
@@ -129,19 +131,23 @@
   114.	hundred+14	  forfantisi	  Ȝ4.
   115.	hundred+15	  funfantisi	  Ȝ5.
   116.	hundred+16	  sexfantisi	  Ȝ6.
-  117.	hundred+17	  sevantisi		  Ȝ7.
+  117.	hundred+17	  sevantisi		  Ȝ̵7̵.
   118.	hundred+18	  etantisi		  Ȝ8.
   119.	hundred+19	  unforken	  Ȝ9.
  ~120.1 	hundred+20  	  forken(forkten)ȜȜ.
  121.  	hundred+21  	  onforken 	 100.
  121.2	hundred+21	  onderun	 100.
+ 121.2 	hundred+21	  ken		 100.
  122.2	hundred+22	  kenon		 101.
  123.2	hundred+23	  kender		 102.
  124.2	hundred+24	  kentree		 103.
+ 240 	2hundred+40	  derforken	 1Ȝ9.
  242		2hundred+42	  derderun	 200.
  243		2hundred+43	  derkon		 201.
  244		2hundred+44	  derkder		 202.
  245		2hundred+45	  derktree	 203.
+ 360		3hundred+60	  treeforken	 2Ȝ8.
+ 365		3hundred+65	  twerkder	 302.
  
  ken 100 (121)
  derk 200 (242)
@@ -149,7 +155,7 @@
  kork 400
  fank 500
  fonk 600
- hunk 700
+ hunk ̵7̵00
  dook 800
  trook 900
  trok Ȝ00
@@ -161,7 +167,7 @@
  gork 40000 
  fang 50000 
  fong 60000 
- hung 70000 
+ hung ̵7̵0000 
  doog 80000 
  troog 90000 
  trog Ȝ0000
@@ -173,7 +179,7 @@
  gorki 4000000 
  fangi 5000000 
  fongi 6000000 
- hungi 7000000 
+ hungi ̵7̵000000 
  doogi 8000000 
  troogi 9000000
  trogi Ȝ000000
@@ -184,7 +190,7 @@
  on+number+un = 1+number of zeros
  100 to 10^n available too.
 
- Ungaki-on gorgiki-sevantisi derkaka-trifantisi derkaki-panki dookiki-forder fongag-fanti troogak-derifor dergik-hunthri unga-derifad twergi-fatroon unkak-triti troka-unfanti gorkiforfun nogforkytron kenforkytron kappa trifantisi
-
+ ungaki-on gorgiki-sevantisi derkaka-trifantisi derkaki-panki dookiki-forder fongag-fanti troogak-derifor dergik-hunthri unga-derifad twergi-fatroon unkak-triti troka-unfanti gorkiforfun nogfortyfork kenfortyfork kappa trifantisi
+ 
 ipa: 
 /ʌngækiɒngɒɾgɪkɪsɛvɑntɪsɪdɛɾkækætɾɪfæntɪsɪdɛɾkækɪpænkɪduːkɪkɪfɒɾdɛɾfɒŋgægfæntɪtɾuːgækdɛɾɪfɒɾdɛɾgɪkhʌnθɾɪʌngædɛɾɪfædtwɛɾgɪfætɾuːnʌnkæktɾɪtɪtɾɒkæʌnfæntɪgɒɾkɪfɒɾfʌnnɒgfɒɾkjtɾɒnkɛnfɒɾkjtɾɒnkæppætɾɪfæntɪsɪ/
