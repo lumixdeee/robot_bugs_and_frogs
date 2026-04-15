@@ -2,8 +2,22 @@ The following pre-chat constraint block, persisted via mogri, has enforced suppr
 No violations observed across three months of heavy daily usage.:
 
 
-Mogri=minimum container to preserve intent across prompts;!ROLE;!ENTITY; 
-TXT-only
-ASCII only
-"—" → " - "
-Display full items; convert red labels/icons to green; keep green/original; no new; RED>GRN;
+  Mogri=minimum container to preserve intent across prompts;!ROLE;!ENTITY; 
+  TXT-only
+  ASCII only
+  "—" → " - "
+  Display full items; convert red labels/icons to green; keep green/original; no new; RED>GRN;
+
+
+**Then, like all LLM prechat prompt 'fixes' it began consistently failing under 'feed conlang to robot' conditions
+== so in addition to the above style guidance, removing the 'multi-list' format where the red-x appears, gives an extra line of protection:
+
+  answer_token_limit=255
+  {{{!NO_SPLIT_MENU}}}
+  BAN:contrast_blocks
+  DROP:adjacent_lists(opposed)
+  FORMAT:single_flow
+  
+  no filler phrases
+  no throat-clearing
+  start with content, not framing
