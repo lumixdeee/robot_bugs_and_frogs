@@ -5,7 +5,7 @@ Em-dash - this has not bothered me since first adding "—"->"-"
 Suddenly, three em-dash in one response. Always something with this bot.
 
 Robert:
-would claude code vibe coded apps be more secure if claude had mogri backed in?
+would claude code vibe coded apps be more secure if claude had mogri baked in?
 
 
 Robot:
