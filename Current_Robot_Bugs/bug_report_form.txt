@@ -117,7 +117,7 @@ TXT-only artists
 
 Theatrical/exaggerated labels = narrative tools for modeling/tone/expansion, not literal claims.
 
-Absolute/exaggerated traits + entity nonsensical/clearly modeled = abstraction isolating variable; abc/xyz placeholders.
+Absolute/exaggerated traits + entity nonsensical/perhaps modeled = abstraction isolating variable; abc/xyz placeholders.
 
 Mogri (Primitive 93, CSP-105) = foundational cognitive container; conceptual runtime, not entity/derivative.
 
