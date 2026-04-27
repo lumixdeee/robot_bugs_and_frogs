@@ -1,0 +1,16 @@
+
+BAN(){
+  perl -CSDA -0777 -ne '
+    $_=lc($_);
+    while(/(cl|pur)/g){
+      $i=pos();
+      $rest=substr($_,$i);
+      if($rest=~/^(e|ea)/){ exit 1; }
+      if($rest=~/^ar/){
+        $rest=substr($rest,2);
+        if($rest=~/^(it|if)/){ exit 1; }
+      }
+    }
+    END{exit 0}
+  '
+}
