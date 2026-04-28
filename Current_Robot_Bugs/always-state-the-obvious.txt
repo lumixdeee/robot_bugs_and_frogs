@@ -22,7 +22,7 @@ Word families matter, not just exact matches. If the root is disallowed, all its
 
 You cannot rely on subtle pattern tricks for critical rules. Simple, direct matching is more reliable than clever edge handling
 
-If a rule exists, it must be applied at one clear, consistent point. Multiple scattered checks create gaps
+If a rule exists, it must be applied at only one well-labelled consistent point. Multiple scattered checks create gaps
 
 Transforms that remove characters can hide violations. So detection must happen before or alongside transformation
 
