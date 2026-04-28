@@ -38,3 +38,63 @@ And the biggest one:
 
 The system must behave in a way that matches human intuition
 If a person would say “that obviously still contains the forbidden thing,” the system should agree without needing extra rules
+
+==============================
+
+Corrections added by a horrified robot upon seeing the above list:
+
+If the system looks like it worked but nothing actually changed, that is a failure
+
+No visible change means the rule did not really do anything
+
+When a rule triggers, you should be able to see what it did
+
+If you cannot see the effect, you cannot trust that it worked
+
+When there are multiple rules, the order they run in matters
+
+If the order is unclear, the result will be unpredictable
+
+Treat every input as if it might try to break things
+
+Assuming something is safe is how problems slip through
+
+Things that look different can still be the same underneath
+
+Changing spacing, case, or symbols should not let something bypass the rules
+
+Removing text can accidentally create new problems
+
+Deleting parts can join pieces together into something forbidden
+
+The system needs to know when to stop trying
+
+Endless retries are just failure repeating itself
+
+Retries should follow a clear path, not just keep trying randomly
+
+If there is no direction or limit, the system is just wandering
+
+You should be able to test each rule on its own
+
+If you cannot trigger a rule directly, you cannot rely on it
+
+Edge cases are not rare, they are where things usually break
+
+If it only works for normal input, it is not finished
+
+Almost blocked is the same as not blocked
+
+Either the problem is gone, or it is still there
+
+You should be able to compare before and after easily
+
+If you cannot see what changed, you cannot understand what happened
+
+Every change to the text can hide something new
+
+Anything that reshapes input can also disguise problems
+
+The system should make sense to a human, not just produce the right result
+
+If the reason behind a result feels wrong, the rules need more work
