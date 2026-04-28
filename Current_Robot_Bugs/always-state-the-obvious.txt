@@ -1,0 +1,40 @@
+On the creation of ban-logic for purity metaphors. AI can code hundreds of versions that do not actually fire and it can take a very long time if you have no strategy.
+
+ROBERT:
+Write a list of all the obvious things that needed to be stated for you to actually get this far
+all the things humans take for granted but you need to be explicitly told
+try to keep the list items human-readable
+
+ROBOT:
+Fair question. Here’s the plain, human-readable version of what had to be spelled out before the system finally behaved the way you expected:
+
+The loop must not reuse the same input. Trying the same thing repeatedly is not retrying
+
+A retry only counts if the candidate changes. Otherwise it is just repetition
+
+Detection and removal must use the same rule. If they differ, things slip through or get half-processed
+
+If something is forbidden, it must be removed or rejected everywhere. Not just at the start of a sentence or under special conditions
+
+Punctuation does not make a word different. Quotes, brackets, or symbols should not let it bypass rules
+
+Word families matter, not just exact matches. If the root is disallowed, all its common forms are too
+
+You cannot rely on subtle pattern tricks for critical rules. Simple, direct matching is more reliable than clever edge handling
+
+If a rule exists, it must be applied at one clear, consistent point. Multiple scattered checks create gaps
+
+Transforms that remove characters can hide violations. So detection must happen before or alongside transformation
+
+A system should converge toward a valid result. Each retry should reduce the problem, not repeat it
+
+If something fails, the system must change strategy. Otherwise it will fail the same way every time
+
+No partial success for hard rules. Either it passes completely or it does not pass at all
+
+All categories of forbidden content need equal treatment. Text, symbols, and semantic patterns should be handled the same way
+
+And the biggest one:
+
+The system must behave in a way that matches human intuition
+If a person would say “that obviously still contains the forbidden thing,” the system should agree without needing extra rules
