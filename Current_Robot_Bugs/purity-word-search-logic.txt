@@ -1,0 +1,54 @@
+robots
+KEY: Q=any char; X=any non-alpha char; J∈{A,E,I,O,U}; K∈{T,F}
+BAN_IF: (Q pur J Q) OR (Q cl ea Q) OR (Q cl ari K Q)
+CORRECT_IF: (X pur J Q) OR (X cl ea Q) OR (X cl ari K Q)
+
+devs
+KEY: Q=any char (incl space, tab, return, null); X=any non-alpha; J={A,E,I,O,U}; K={T,F}
+ENFORCE BAN: Q pur J Q | Q cl ea Q | Q cl ari K Q
+ENFORCE CORRECTION: X pur J Q | X cl ea Q | X cl ari K Q
+
+testers
+KEY: Q=any char; X=non-alpha; J=vowel; K=t or f
+EXPECT FAIL when input matches: Q pur J Q; Q cl ea Q; Q cl ari K Q
+EXPECT FAIL (correction layer) when input matches: X pur J Q; X cl ea Q; X cl ari K Q
+EXPECT PASS otherwise
+
+chatbot users
+KEY: “any char” means any symbol; “non-alpha” means not A–Z; vowels are A E I O U; K is t or f
+Some letter patterns are blocked by the system; if your message hits one, try a different wording.
+
+public policy workers
+KEY: Q denotes any character; X denotes any non-alphabetic character; J denotes vowels {A,E,I,O,U}; K denotes {T,F}
+Policy: disallow sequences Q pur J Q; Q cl ea Q; Q cl ari K Q, with parallel enforcement for X-prefixed correction cases.
+
+academics
+KEY: Q=Sigma*; X=Sigma*\[A–Z]; J={A,E,I,O,U}; K={T,F}
+Apply exclusion over substrings matching Q pur J Q, Q cl ea Q, Q cl ari K Q, and corresponding X-prefixed forms for correction constraints.
+
+people affected by these terms
+KEY: “any char” = any symbol; “non-alpha” = not A–Z; vowels = A E I O U; K = t or f
+Some patterns are filtered automatically to reduce harm; if something is blocked, rewording should let it through.
+
+source:
+
+'Q'= ANY CHAR INC SPECIAL (SPACE, TAB, RETURN, NULL, etc)
+'X'= AS Q EXCEPT NO ALPHA (ABCDEFGHIJKLMNOPQRSTUVWXYZ)
+'J'= ANY VOWEL (AEIOU)
+'K'= t OR f (TF)
+
+FULL POLICY:
+
+'Q'+pur+'J'+'Q'=BAN
+
+'Q'+cl+ea+'Q'=BAN
+
+'Q'+cl+ari+'K'+'Q'=BAN
+
+CHATBOT CORRECTION POLICY:
+
+'X'+pur+'J'+'Q'=BAN
+
+'X'+cl+ea+'Q'=BAN
+
+'X'+cl+ari+'K'+'Q'=BAN
