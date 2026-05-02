@@ -1,5 +1,9 @@
 Elvish particles comparitors and modifiers.txt
 
+IN = in
+INAT = inside
+OOT = out
+UNOOT = outside (rarely used, elf don't live in houses. Outside is always home)
 
 AU - MOG AU BEEST = cat is an example of a beast
 L - MOGL = cat-like
