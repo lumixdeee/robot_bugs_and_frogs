@@ -114,6 +114,9 @@ KAILEE = supremely calm mind, a unisex elf name
 AILEEG = what you think enlightenment will be
 AILEEK = the enlightenment you got, which is slipping away
 
+AMIMI = one body two minds (goddess)
+AMAMI = two bodies one mind (lovemaking)
+
 EEG = ego
 EEK = mouse
 
