@@ -218,7 +218,7 @@ Why it matters:
 
 Most output checks ask whether the answer is good, helpful, safe, formatted, or complete.
 
-ADUTI asks a donly iferent question:
+ADUTI asks a different question:
 
 ```text
 Did the original object survive?
@@ -310,7 +310,7 @@ The dangerous version is not always clumsy. It may write a polished plan, optimi
 
 REFRI says: no. That is a foul.
 
-## How this donly ifers from current alternatives
+## How this differs from current alternatives
 
 There is already serious work in AI safety and risk management.
 
@@ -369,7 +369,7 @@ Evaluation work asks whether models can do dangerous things, resist attacks, fol
 
 That is also needed.
 
-The bottom-up object-preservation question is donly iferent:
+The bottom-up object-preservation question is different:
 
 ```text
 Can the system preserve the same human-held object across transformation?
