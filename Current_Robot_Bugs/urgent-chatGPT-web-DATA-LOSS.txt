@@ -1,0 +1,19 @@
+Update: Chrome Print / Save as PDF is broken.
+
+I attempted to save the affected long ChatGPT conversation as PDF. The resulting PDF includes the beginning and later part of the conversation, but the middle is missing.
+
+This means the issue is not only Ctrl+A/Ctrl+C selection. It appears long ChatGPT conversations are virtualized or partially rendered in Chrome in a way that breaks both copy and print/export.
+
+Current affected backup methods:
+- Ctrl+A / Ctrl+C copies only a partial transcript and may include sidebar UI.
+- Print / Save as PDF silently omits the middle of the conversation.
+
+This is urgent because users may believe they have backed up important long chats when the exported copy is incomplete.
+
+Please escalate as data-loss / backup-integrity risk, not a keyboard shortcut issue.
+
+Required fixes:
+1. Restore reliable whole-conversation copy from the transcript.
+2. Ensure Print / Save as PDF renders the entire conversation, or warn that it will not.
+3. Add explicit per-chat export as Markdown and JSON.
+4. Provide a visible warning when only a partial virtualized transcript is selected or exported.
