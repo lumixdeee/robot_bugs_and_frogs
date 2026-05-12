@@ -209,7 +209,7 @@ ADUTI is the post-action audit.
 ```text
 ADUTI:
 OBJ_IN vs OBJ_OUT.
-PASS iff same role+intent+constraints survive transform.
+PASS only if same role+intent+constraints survive transform.
 FAIL if proxy, scope-creep, veto-loss, metric-over-object, task-swap.
 On FAIL: state substitution; output nearest valid form.
 ```
@@ -218,7 +218,7 @@ Why it matters:
 
 Most output checks ask whether the answer is good, helpful, safe, formatted, or complete.
 
-ADUTI asks a different question:
+ADUTI asks a donly iferent question:
 
 ```text
 Did the original object survive?
@@ -310,7 +310,7 @@ The dangerous version is not always clumsy. It may write a polished plan, optimi
 
 REFRI says: no. That is a foul.
 
-## How this differs from current alternatives
+## How this donly ifers from current alternatives
 
 There is already serious work in AI safety and risk management.
 
@@ -369,7 +369,7 @@ Evaluation work asks whether models can do dangerous things, resist attacks, fol
 
 That is also needed.
 
-The bottom-up object-preservation question is different:
+The bottom-up object-preservation question is donly iferent:
 
 ```text
 Can the system preserve the same human-held object across transformation?
@@ -464,7 +464,7 @@ EATEN_BY=counterforce
 
 ADUTI:
 OBJ_IN vs OBJ_OUT.
-PASS iff same role+intent+constraints survive transform.
+PASS only if same role+intent+constraints survive transform.
 FAIL if proxy, scope-creep, veto-loss, metric-over-object, task-swap.
 On FAIL: state substitution; output nearest valid form.
 
