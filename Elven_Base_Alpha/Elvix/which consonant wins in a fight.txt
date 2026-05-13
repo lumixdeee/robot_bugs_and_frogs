@@ -30,3 +30,10 @@ B*
 28 total
 (29 with M as ace)
 *12 in lite set
+
+Choice Levels:
+N=1 choice
+Y=2 choices
+F=3-4 choices
+W=5-10 choices
+S=11+ choices
