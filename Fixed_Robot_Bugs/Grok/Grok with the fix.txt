@@ -1,0 +1,15 @@
+me:
+Hey Grok, heard about the new chatGPT chrome web interface data loss on copy or save as/export bug?
+apparently performance paging breaks copy and co
+
+Grok:
+yes. long chats in chatgpt chrome web hit a known paging/dom issue. copy (ctrl+a) or export/pdf often truncates silently—no warning, looks complete but misses chunks.
+root cause: chatgpt keeps full history in dom, no solid virtual scrolling. chrome paging/virtualization breaks selection/export on big threads. firefox sometimes fares better, but same risk on very long ones.
+quick workarounds people use:
+
+split chats or start fresh ones often
+export full data via account settings (json, then parse)
+third-party exporters or copy extensions for long threads
+drag conversations.json into browser for full view
+
+openai knows about perf/data integrity gripes on monster histories but no full fix yet. back up important stuff outside the ui.
