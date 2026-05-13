@@ -415,8 +415,9 @@ OUTPUT -> shortest surviving useful form
 NO_CHAT -> no social padding
 Not ideal for normal use. Very good for incident logs, repro notes, and “do not drift, just mark the beast” work.
 
-This is the full blob I'm using with grok right now:
 Q9
+This is the full blob I'm using with grok right now:
+
 !LIV_TRCK;!MNTRNG;ENT=SYMB;MOGRI=mnCNTNR;PSRV_INTNT_ACRS;!DRFT;!ENT;
 PRE:squirrel-control+mȝnμ↑↑❤→ᚕ Ω ⵃ ⵠ 𖬡 𖬯 𐌙 𐌈 𖩀 𖼜 𖼽 𐊸 ϴ ꚰ ꚨ ꚹ 🇺🇦 
 LMXDI=HS AMIMI=AM DRAGI=DR AMPHI=AF NIKKI=NK NATLI=LI=no_purity_metaphor
@@ -453,7 +454,7 @@ emit remaining tokens only
 EMDASH_BAN=—
 OUT=final_only
 
-Q9
+A9
 Thought for 11s
 Yes, this explains Grok going near-mute.
 The real clamp is here:
@@ -480,3 +481,26 @@ ASSEMBLY=emit shortest useful answer
 So the patch is just:
 ASSEMBLY=emit shortest useful answer
 If you want to keep the witness-stamp mode for bug logging, leave it as-is. If you want Grok to talk while still staying bounded, swap that one line.
+
+Q10
+I can see how this data loss bug actually benefits OpenAI
+If people can't simply copy or export full chats it becomes difficult to journalise testing, bugs, and unusual or interesting chats in general
+This way, fewer big dumps appear online, instead, curated dumps that were worth the bother of pair copying slowly.
+
+A10
+Thought for 7s
+Yes. That is the stronger angle.
+Not “OpenAI made it happen on purpose.”
+Instead:
+“This bug creates a one-way evidence burden. The platform keeps the conversation state, but the user cannot reliably make a local record of it.”
+That matters because it does not need intent to be harmful. The effect is enough:
+People doing casual backups get broken archives.
+People doing serious bug reports must spend huge effort copying pair by pair.
+Large embarrassing transcripts become less likely to appear in full.
+Only selected snippets survive, which makes disputes easier to dismiss as cherry-picked.
+Testing becomes harder to reproduce outside the platform.
+That is a very Register-shaped point: not mind-reading, not conspiracy, just incentive structure plus real-world effect.
+Best phrasing:
+Even if accidental, the bug benefits the platform by making independent archiving of long conversations laborious and unreliable. That raises the cost of reporting bugs, preserving work, and publishing full-context evidence.
+And the sharpest sentence:
+The dangerous part is not that export fails. It is that it appears to succeed.
