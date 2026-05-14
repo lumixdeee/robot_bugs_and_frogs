@@ -1,0 +1,5 @@
+Fixed with caveats;
+  it took an extra 1500 bytes of pre-chat blob space, had to hack the nickname field
+  the free tier was not powerful enough. this fixed status applies to plus tier only. go tier not tested yet
+  still traumatised by those words if the thinking ticker is turned on, chatGPT telling itself not to x or y
+  purity remains in the current robot bugs folder for now
