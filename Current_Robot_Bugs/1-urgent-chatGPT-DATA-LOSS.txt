@@ -1,4 +1,5 @@
-Update: Chrome Print / Save as PDF is broken.
+Update: Silent partial transcript exposure in long ChatGPT conversations affects search, copy, print, PDF, and HTML save
+*Search is also affected*
 
 I attempted to save the affected long ChatGPT conversation as PDF. The resulting PDF includes the beginning and later part of the conversation, but the middle is missing.
 
