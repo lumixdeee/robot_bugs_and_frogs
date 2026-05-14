@@ -21,3 +21,6 @@ No violations observed across three months of heavy daily usage.:
   no filler phrases
   no throat-clearing
   start with content, not framing
+=================================================
+
+more comprehensive protections may currently be found here : https://github.com/lumixdeee/lmxdi/blob/main/BLOB/20260513-blob-and-nickname.txt
