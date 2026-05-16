@@ -1,0 +1,241 @@
+the beasts we are hunting tonight are a three
+a pot bellied hill vs mountain v tree
+twas end of an ice age, and birth of a farm
+of highlands and last stands we live there again
+
+Thought for 30s
+I’m reading this as a riddle-map: three “beasts” from the Ice Age-to-farming hinge, with names or landscapes doing half the work. I’ll pin the likely trio, then we can sharpen the hunt.
+That points hard at Göbekli Tepe as beast one.
+“Pot-bellied hill” is the literal name-path: Göbekli Tepe is usually glossed as “pot-bellied hill” or “belly hill.” It sits in the Germus Mountains in southeastern Anatolia, and UNESCO dates its monumental hunter-gatherer structures to roughly 9600 to 8200 BCE, right in that Ice Age aftermath / early settled-life hinge.
+The three-way beast-map looks like this:
+Hill: Göbekli Tepe, the named pot-bellied hill.
+Mountain: its mountain context, the Germus range / upper Mesopotamian highland edge, with the Harran plain below. The site is not just “a monument,” it is placed as a landmark in a high-view landscape.
+Tree: the wishing tree / sacred tree tradition on the ridge. DAI’s Tepe Telegrams mentions a wishing tree on the top of the ridge still being visited by local residents, so the “tree” is not just poetic garnish. It is a living later layer on the same old place.
+And the line “birth of a farm” is the hinge: the newer picture is not “farming made temples,” but something more feral and interesting. Large settled or semi-settled ritual/social worlds existed while people were still substantially hunter-gatherers, before full agriculture locked in. Reuters’ 2025 report on Göbeklitepe and Karahantepe says the Stone Mounds project is shifting the old assumption that settled life started with agriculture and animal husbandry.
+So tonight’s three beasts may be:
+Göbekli Tepe, Karahan Tepe, and the living tree/landscape layer.
+Or in DRAGI terms:
+ACT: hunt
+OBJ: the Ice Age-to-farm hinge
+OPP: false sequence, “farm first, monument later”
+Delta: hill becomes mountain-system, tree becomes continuity-marker
+STATE: humans standing again at the old threshold, with better torches this time.
+
+at that hinge time there were also people experiencing change in the himalayas
+Two peoples facing different pressures, but somehow connected
+When the ice retreated, the first farm began. What did everyone else do about the first farm? Eat it I guess
+Farm version 2 : fortifications?
+
+If you fortify, the raiders simply wait  - they lay siege
+raiders - they are everyone else, you are the first farm group only
+you need to solve the raider problem one of these years  / generations
+You need them to raid, not siege
+You need to win with minimal losses
+When I look at the structures at Gobekli Tepe and add wood in all the right places, it is perfect for first attracting and then defeating raiders.
+and in the long periods in between trouble from raiders, they decorated the structures with family stuff
+
+Thought for 7s
+That is a strong functional read.
+Your core move is this:
+A first farm cannot afford a true siege model.
+If others can sit outside and starve you, the farm loses.
+So the farm's defense problem is not "build a wall."
+It is "shape enemy behavior."
+You want nearby non-farm or less-settled groups to do short, greedy, risky raids.
+Not patient, organized encirclement.
+That gives a design goal:
+attract them
+channel them
+split them
+expose them
+hit hard
+keep your own losses low
+make the survivors go home with a story
+On that reading, Gobekli Tepe stops being just "temple" or "symbolic place."
+It becomes a raid-management machine.
+Your wood addition idea matters a lot, because stone alone often looks too open.
+Add timber, platforms, screens, ladders, roofs, parapets, gates, elevated walkways, and suddenly you can get:
+bait zones
+choke points
+hidden defenders
+missile positions
+one-way movement
+trap-like entry sequences
+strong observer advantage
+Then the carvings and decorated pillars are not opposed to function.
+They are part of function.
+They can do several jobs at once:
+mark family or lineage presence
+show who owns the place
+intimidate visitors
+make the site memorable
+turn successful defense into myth
+keep allied groups tied into the place during quiet periods
+So yes, "family shit in peacetime" is plausible as a layer on top of a hard practical structure.
+The nice part of your model is that it solves the long game.
+If you are first-farm people, you do not need to conquer everyone.
+You need to make raiding costly and unprofitable enough that your neighbors prefer smaller interactions:
+trade, feasting, alliance, marriage, tribute, ritual attendance, occasional theft instead of extermination.
+In other words, the site may not need to defeat all enemies physically.
+It may need to train the region into a pattern that the farm can survive.
+That is a mogri move.
+Not "best wall."
+Best behavior-shaper.
+What would support your model archaeologically?
+You would expect some mix of:
+controlled entry routes
+topographic advantage
+evidence for timber superstructure
+repeated rebuilding or repair
+signs of mass feasting or attraction events
+projectile points or trauma nearby
+places where defenders could see without being seen
+symbolic overload tied to group identity
+evidence that site use was episodic, intense, and socially charged
+What pushes against your model?
+Mainly this:
+mainstream readings of Gobekli Tepe lean ritual, communal, prestige, cosmology
+the surviving stone plan is not an obvious fort in the simple sense
+evidence for direct combat use is not decisive
+"designed as a raider trap" is harder to prove than "used in a socially competitive landscape"
+So I would frame it not as "Gobekli Tepe was a fort, solved."
+I would frame it as:
+"Gobekli Tepe may have been part ceremonial center, part alliance theater, part intimidation architecture, and possibly part raid-control structure once timber and tactical use are restored to the model."
+That is a serious hypothesis, not a joke.
+Also, your siege point is important because it cuts through lazy fort-talk.
+A wall alone solves little.
+The first farm needs a social-military ecology where enemies stay fragmented.
+Architecture that attracts and defeats raiders in small packets fits that problem much better than static fortification alone.
+If you want, I can help turn this into a tighter thesis with sections like:
+problem faced by first farms
+why siege beats walls
+why raid-shaping is the real objective
+how Gobekli architecture could do that
+what evidence would test it
+where the model beats temple-only readings
+where the model remains weak
+
+help turn this into a tighter thesis
+
+I’ll make this thesis strong without pretending proof exists where the dirt has not spoken. The useful version is a testable “raid-shaping architecture” model, not a blunt “it was a fort” claim.
+
+Thought for 42s
+Here is the tighter version.
+Working title:
+
+The Raider Trap Thesis: Göbekli Tepe as Architecture for Managing the First-Farm Problem
+
+One-sentence version:
+At the farming hinge, stored food created a new military problem: the first settled food groups could not survive by passive fortification alone, so Göbekli Tepe may represent a hybrid system of gathering-place, identity machine, and raid-shaping architecture designed to attract hostile outsiders into short, losable raids rather than long, fatal sieges.
+Stronger thesis paragraph:
+Göbekli Tepe should not be reduced to either “temple” or “fort.” It may be better understood as a behaviour-shaping settlement complex built during the transition from mobile hunting-foraging lifeways to settled food production. In this transition, stored grain, water systems, domestic buildings, and fixed ritual architecture made a community both richer and easier to attack. A wall alone would not solve that problem: a determined hostile group could wait, watch, steal crops, block movement, or return at harvest. The deeper defensive task was to prevent enemies from becoming patient besiegers. The site’s monumental enclosures, high place, controlled spaces, dangerous animal imagery, likely roofed or timber-augmented buildings, and intense communal symbolism may have helped turn regional threat into managed encounter: visitors, rivals, allies, and raiders were drawn into a staged environment where the resident group held positional, psychological, and tactical advantage.
+Grounding in known evidence:
+Göbekli Tepe is dated by UNESCO to roughly 9600 to 8200 BCE, in Upper Mesopotamia, during the major transition from hunter-gatherer lifeways toward early farming communities. UNESCO describes the site as monumental round-oval and rectangular megalithic buildings with T-shaped pillars, wild animal imagery, and nearby domestic structures. It also notes that the imagery appears at contemporary sites in the region, suggesting a close social network in this core zone of Neolithisation.
+That means the thesis should not claim “lonely first farm invents castle.” Better: a settled or semi-settled highland community at the farming threshold faced the new risk created by fixed food, fixed people, fixed memory, and fixed symbolic capital.
+The key mechanism:
+Before farming, food runs away, ripens across wide terrain, or sits in many seasonal pockets.
+After farming, food gathers.
+Gathered food creates raiders.
+Raiders create walls.
+Walls create siege.
+Siege kills first farms.
+Therefore the winning move is not “wall harder.” The winning move is make raiding the attractive option and siege the bad option.
+So the architecture needs to do four things:
+First, advertise value. Make the site famous enough that rivals come to it, rather than only finding fields and stores at random.
+Second, stage access. Bring outsiders into known paths, entrances, hollows, platforms, enclosed spaces, or visibility traps.
+Third, split intention. Some visitors become allies, feast guests, marriage partners, trade partners, ritual witnesses. Others become raiders. The place sorts people by behaviour.
+Fourth, make defeat memorable. A failed raid has to travel home as a story. The carvings, pillars, ancestors, animals, and lineages become part of that story.
+Göbekli Tepe’s current archaeology helps but does not yet prove this. Later excavation has moved the site away from the old “isolated sanctuary only” model: Archaeology Magazine reports domestic activity, hearths, middens, lithics, grain-processing tools, large stone vessels for porridge or beer, water-harvesting features, and likely roofed buildings. It also reports that the monumental buildings probably existed alongside domestic structures rather than as a lone ritual station.
+That matters because a tactical reading needs resident or repeat-resident people. A shrine visited by scattered nomads is harder to frame as raid-control. A settlement with food processing, water, roofs, repeated rebuilding, and big symbolic buildings is much better terrain for your model.
+The thesis should avoid saying:
+Göbekli Tepe was a military fort.
+That is too narrow and too easy to swat away.
+Say instead:
+Göbekli Tepe may have been a multi-function highland settlement whose monumental architecture helped manage conflict by converting open-ended predation into staged, bounded encounters.
+That survives contact with the evidence much better.
+The “family stuff” part can be made serious like this:
+The carvings were not merely decoration. They may have worked as lineage display, threat theatre, memory storage, and alliance signage. UNESCO notes that the T-pillars include human-form abstractions, clothing elements, and wild animal imagery; Archaeology Magazine reports that several scholars now read the images as narratives tied to group identity during the Neolithic transition.
+So “family shit” becomes:
+In quiet periods, the same structures used to manage threat also accumulated lineage marks, animal emblems, origin stories, and social memory. Peacetime use did not replace defensive use. It maintained the social engine that made defensive use possible.
+The testable version:
+If this model is right, future work should look for:
+controlled entry and movement routes
+evidence of timber screens, roofs, walkways, gates, or raised positions
+repair patterns consistent with repeated stress or attack, not only decay
+projectile points or impact damage in tactically meaningful zones
+trauma patterns in nearby burials
+uneven visibility, where insiders could observe outsiders better than outsiders could observe insiders
+food-processing and feasting evidence linked to gathering, bait, alliance, or seasonal risk
+imagery clustered where visitors would be confronted, sorted, or impressed
+The model’s weak points:
+There is no decisive published evidence that Göbekli Tepe was built as a raider trap.
+The site’s mainstream readings still centre ritual, communal gathering, identity, funerary practice, and social transition. UNESCO describes the monuments as probably connected with rituals, likely funerary, while also noting domestic structures and architectural functions.
+Also, later famous examples of Neolithic violence and fortified farming villages are not direct proof for Göbekli Tepe. They do show that farming, storage, settlement, and violence became entangled in the Neolithic. A 2023 PNAS study of Northwestern Europe found weapon injuries in more than one in ten skeletal remains from over 2,300 early farmers across 180 sites, though this is later and elsewhere, so it is analogical support, not a direct Göbekli datapoint.
+Final thesis form:
+The Raider Trap Thesis argues that Göbekli Tepe belongs to the first-farm problem: the moment when stored food and settled life made human groups worth raiding. Passive fortification could not solve this, because a wall invites waiting. The more adaptive strategy was to shape enemy behaviour: attract outsiders into short, risky raids; deny them the conditions for siege; bind some into alliance; and make failed attack socially memorable. Göbekli Tepe’s highland setting, monumental enclosures, likely timber-augmented buildings, dangerous animal imagery, domestic traces, food-processing capacity, and regional symbolic network fit a multi-use model in which ritual, kin display, feasting, alliance, intimidation, and defence were not separate functions but one survival system.
+Even shorter, sharper:
+Göbekli Tepe was not simply a temple before farming. It may have been a first-farm survival machine: a place where food, kin, ritual, and architecture taught the region to visit, trade, feast, remember, and raid badly, instead of besieging well.
+
+
+Eventually farming spreads and raiding is a less chronic problem, what sort of timescales? How many generations before this kind of fortification isn't worth bothering with? flash in the pan tech?
+
+
+Thought for 49s
+I would give it centuries locally, millennia as a moving frontier problem.
+For your specific “first farm vs everyone else” model, the most dangerous phase is probably not thousands of years. It is the awkward middle window where one group has fixed food and neighbours do not yet have equally good fixed food of their own. Assuming about 25 years per generation, 250 years is about 10 generations, 500 years is 20 generations, and 1000 years is 40 generations. So I’d model the raider-trap phase as maybe 10 to 30 generations in one local zone, with a fuzzy outer range of 5 to 50 generations depending on terrain, climate, group density, and how fast neighbours convert into partners or rival food producers.
+
+Göbekli Tepe itself gives a useful upper bracket. UNESCO dates its main monumental Pre-Pottery Neolithic use to roughly 9600 to 8200 BCE, about 1400 years, or around 56 generations on a 25-year estimate. That does not mean one tactical system stayed useful the whole time. It means the place belonged to a long Neolithic transition where big buildings, food, ritual, identity, and settlement kept recombining. (whc.unesco.org)
+
+The farming spread was not fast enough to make raiding vanish overnight. Zeder’s synthesis argues that Near Eastern agriculture arose through broad, locally varied processes across the region, not a single invention blasting outward in one wave. That supports your slow-pressure model: for generations, some groups would be more settled, some semi-settled, some mobile, some copying bits, some stealing bits, some marrying into the system. (journals.uchicago.edu)
+
+The raider problem changes once neighbours also have stores, fields, herds, children, walls, ancestors, and revenge obligations. At that point they are no longer “everyone else” in the same sense. They become rival villages. That shifts the problem from raid control to frontier politics: marriage, feasting, hostage-like kin ties, seasonal treaties, exchange, feud rules, and later proper fortification.
+
+So yes, the exact Göbekli-style version may be flash-in-the-pan tech. Not useless flash, though. More like a bridge-beast.
+Phase 1: bait architecture. “Come here, take the risk, lose badly.”
+Phase 2: alliance architecture. “Come here, feast, trade, marry, remember who belongs.”
+Phase 3: village hardening. “The whole settlement layout becomes defensive enough.”
+Phase 4: real fortification. “Now everyone knows the grain game, and war is part of the map.”
+
+Jericho is the warning sign that walls arrive early, but their meaning is slippery. Its PPNA wall and tower are often treated as among the earliest monumental defensive works, around the 9th millennium BCE, yet Bar-Yosef’s famous alternative reading argued for flood or water-control functions rather than simple defence. So even there, “wall equals war” is too blunt. (jstor.org)
+
+By Çatalhöyük, starting around 7400 BCE, you get another answer: not a big obvious fort, but dense back-to-back housing with roof access. That is not your raider-trap theatre. It is more like a living block, a human termite-castle where the settlement form itself reduces easy entry. UNESCO notes the settlement’s large size, long life, back-to-back houses, roof access, and rich symbolic world. (whc.unesco.org)
+
+So my best estimate:
+Göbekli-style raid-shaping architecture: maybe 200 to 700 years of prime usefulness in one place.
+The wider early-farm raider problem: probably 500 to 1500 years across a region.
+Fortification as a human technology: not a flash at all. It mutates and never really leaves.
+The little tactical goblin answer is:
+First farm builds a monster-house.
+Neighbours raid it, lose stories, then learn farming.
+Once everyone has grain, raiding stops being “eat the farm” and becomes politics with knives.
+
+
+estimate the number of non tax-paying raiders in the world today
+hominids and humans who live entirely by raiding civilised humans for food
+close to zero? or zero?
+Just as there was one first farm
+There was one last wild raider group, How did that go for them? 
+
+
+Thought for 38s
+This needs a hard distinction between “people outside state tax systems,” “armed groups that steal food,” and “a whole society whose subsistence niche is raiding farmers.” I’ll use the narrow definition you gave, because otherwise the category balloons into bandits, militias, gangs, pirates, and tax rebels.
+Under the strict definition, I would estimate:
+non-human hominins living by raiding humans: 0.
+human groups living entirely by raiding settled people for food: probably 0 known, and functionally 0.
+There are still uncontacted or voluntarily isolated peoples. Survival International’s 2025 report counted evidence for 196 uncontacted peoples across South America, Asia, and the Pacific, and AP reported the same figure with the main threats being logging, mining, agribusiness, drug trafficking, missionaries, disease, and unwanted contact. These are not “raider societies.” They are mostly trying not to be eaten by the modern world-machine.
+There are also raiders today: cattle raiders, militias, gangs, bandits, pirates, insurgents, looters, warlord groups. But those are not a separate wild subsistence niche. They are embedded in states, markets, guns, politics, borders, wages, revenge cycles, smuggling, and modern supply chains. Cattle raiding still exists, but papers on modern East African pastoral raiding frame it as part of pastoral societies under pressure, not as whole human populations living entirely by raiding farmers for food.
+So your farm-vs-everyone-else category is extinct, or so close to extinct that the estimate rounds to zero.
+The “last wild raider group” is hard because it was almost never a whole-time job. Even classic raiding peoples also hunted, herded, traded, gathered, farmed a bit, took tribute, moved animals, married out, and made alliances. “Raider” is usually a mode, not a species of society.
+The closest recent-looking case might be the Jarawa of the Andaman Islands, but even that does not fit your strict definition. They were forest hunter-forager-fishers who sometimes raided nearby settlements and defended territory. Cultural Survival notes that settlements nearest Jarawa forest were most likely to be raided, while Survival International describes the modern problem in the opposite direction: outsiders invading the Jarawa reserve, stealing game, bringing disease, exploitation, roads, tourism, and dependency.
+
+How did it go for them?
+Badly, in the usual modern-contact pattern. The road went through. Settlers and poachers entered. Contact increased. Disease risk rose. The old raid/avoid/defend pattern broke down into state containment, tourism, medical contact, market goods, dependency risks, and legal protection battles. Not heroic extinction, not smooth assimilation. More like a forest people getting squeezed by asphalt.
+The Sentinelese are the other obvious edge case, but they are not raiders either. They mostly reject contact and defend the island. Survival International describes them as an uncontacted people who vigorously reject outsiders, with disease from contact as the existential danger. That is not “raiding civilization.” That is “do not come here.”
+
+So the arc looks like this:
+First farm creates raiders.
+Many farms create frontier raiding.
+States create taxed farmers, soldiers, bandits, police, borders, prisons, armies, rebels, smugglers.
+Modernity kills the old niche.
+The last raider does not become the final boss.
+The last raider becomes a defendant, a refugee, a tourist attraction, a protected tribe, a recruit, a corpse, or a citizen.
