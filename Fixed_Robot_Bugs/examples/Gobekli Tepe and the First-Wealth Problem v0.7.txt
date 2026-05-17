@@ -1,0 +1,260 @@
+Gobekli Tepe and the First-Wealth Problem
+
+Drive Architecture, Feasting, and Raider-Risk as Layered Uses
+
+Working paper v0.7 | 17 May 2026
+
+Abstract
+
+This paper does not argue that Gobekli Tepe was mainly a fort, battlefield, or raid installation. Version 0.7 retunes the model around drive architecture: the broader capacity of built space to move, pause, bunch, sort, impress, feed, warn, and redirect bodies. The strongest present evidence supports ceremonial gathering, feasting, food processing, death practice, wild animal imagery, large-scale hunting, and regional symbolic networks. The raider-risk layer is retained as a secondary use of the same geometry under first-wealth pressure, not as the primary explanation. The model now separates four ranks: core ritual-social system, strong hunt/feast drive layer, secondary fixed-wealth threat layer, and speculative mechanisms such as delay-and-drop, roof failure, mortuary crisis roles, and warning myth. Version 0.7 also adds a data spine: evidence matrix, layout metrics, crowd and queue estimates, store-calorie examples, bone-mineral scale, faunal/lithic mapping needs, and testable overlay work. The thesis therefore becomes less story-led and more measurable: if the geometry matters, it should show up in routes, volumes, visibility, tool scatter, bone tallies, repair, fill sequence, and visitor signatures.
+
+Claim status and rank discipline
+
+| Rank | Function | Evidence status | How it is used here |
+| --- | --- | --- | --- |
+| Core | Ceremonial gathering, feasting, death practice, social identity, regional symbolic network. | Strongest fit to current published descriptions. | This remains the main frame. |
+| Strong functional layer | Animal drive, large-game hunting, feast logistics, crowd movement, food processing. | Supported by faunal evidence, aurochs hunting lesion, gazelle seasonality, and more than 7000 processing tools. | Drive architecture becomes the data-backed base. |
+| Secondary functional layer | First-wealth risk management: visitors, rivals, hungry outsiders, short-burst raiders, warning memory. | Compatible but not directly proven. | Held as an enhancer inside the ceremonial and drive system. |
+| Speculative mechanisms | Delay-and-drop, controlled roof failure, pantry lure, mortuary crisis roles, predator bait, one-event warning myth. | Currently unproven. Requires targeted testing. | Kept as mechanism proposals, not site conclusions. |
+
+----------------------------------------------------------------
+This paper does not claim
+Gobekli Tepe was primarily a fort or battlefield.
+Direct raid, siege, or weapon-cache evidence has been found at the core site.
+The ceremonial model is wrong.
+The animal-drive layer replaces ritual. It does not.
+Routine conspecific consumption, calcium crisis, or tactical roof failure is demonstrated at the site.
+Every ambiguous feature supports the model. Ambiguity remains ambiguity unless a metric prediction is met.
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+This paper does claim
+The ceremonial model can include practical survival functions without becoming a military model.
+Drive architecture is the better broad category: the same built grammar can shape animals, crowds, visitors, and attackers.
+The hunt and feast layers have firmer support than the raid layer.
+Fixed wealth created a one-time historical pressure during the food-production energy hump.
+Bone may have mattered as delayed mineral wealth as well as marrow, tool stock, ritual matter, and trace-loss pathway.
+Future work should push maps, volumes, scatter data, and stratigraphy before narrative.
+----------------------------------------------------------------
+
+1. Baseline: site, dates, architecture, and main frame
+
+Gobekli Tepe lies in the Germus mountains of south-eastern Anatolia. UNESCO dates its monumental round-oval and rectangular megalithic buildings to the Pre-Pottery Neolithic, roughly 9600-8200 BCE, and frames them as hunter-gatherer communal monuments probably tied to social events and rituals, most likely funerary. Some T-shaped limestone pillars reach up to 5.5 m. [1]
+
+The cereal-processing study gives important measurable anchors: monumental round-oval buildings about 10-20 m in inner diameter, wall pillars up to 4 m high, central pillars up to 5.5 m, and more than 7000 grinding and pounding artifacts. Phytolith analysis confirms massive cereal presence, while large storage facilities were not identified in that study; the authors favour seasonal large work feasts. [2]
+
+Version 0.7 accepts that baseline. It does not ask the raider layer to carry the site. It asks whether the same geometry that supports gathering, feasting, display, and hunting logistics could also have managed fixed-wealth risk under seasonal stress.
+
+2. Why "drive architecture" outranks "raider trap"
+
+The term Raider Trap Layer is useful as a nickname, but it pulls the ear toward warfare. The broader object is drive architecture: spatial design that moves bodies into roles. In a hunt, it drives animals. In a feast, it drives crowd sequence. In ritual, it drives attention and witness. Under threat, it can drive attackers into delay, bunching, exposure, retreat, or reroute.
+
+This retune answers the strongest critique. Hunting and feasting have better direct support than raiding. Pollath and colleagues report an aurochs humerus from Gobekli Tepe with an embedded flint projectile point and place communal hunting of large game in the social context of large gatherings. The DAI summary notes the large number of aurochs bones in enclosure fill and links them with enormous meat consumption during feasts and communal events. [3], [4]
+
+Therefore, the drive layer is primary among functional layers. Raider-risk becomes a secondary extension: if a system can move animals, gather people, stage food, control routes, and generate stories, it may also reduce danger from small desperate raids. That is compatibility, not proof.
+
+3. Data spine: evidence matrix
+
+| Strand | Published anchor | Supports | Limit |
+| --- | --- | --- | --- |
+| Architecture | Round-oval monumental buildings c. 10-20 m inner diameter; central pillars up to 5.5 m; benches and wall-set pillars. [1], [2] | Crowd sequence, visibility, drive geometry, possible timber-assisted movement. | Does not prove defensive use. |
+| Topography | High Germus position, wide view over Harran plain, mound c. 300 m across and c. 15 m high in PLOS description. [2] | Visibility, signalling, approach awareness, regional magnet. | High places also suit ritual and landmark roles. |
+| Food tools | More than 7000 grinding and pounding artifacts, mostly cereal-related; standardized and efficient tools. [2] | Large feast logistics, labour concentration, seasonal food preparation. | Large stores not yet identified in that study. |
+| Wild plants | Wild einkorn, wild barley, possible wild wheat/rye, almond and pistachio reported in plant discussions. [2] | Stored or processed winter foods, feast base, first-wealth pressure. | Charred macro-remains are sparse and relocated sediments affect inference. |
+| Fauna | Gazelle, aurochs, wild ass, wild sheep/mouflon, boar, fox, and others in faunal/iconographic discussion. [7], [8] | Hunt/drive and feast layer. | Animal imagery and animal bones do not map one-to-one. |
+| Aurochs hunting lesion | Aurochs humerus with embedded projectile point from Enclosure D context. [3], [4] | Direct hunting evidence; large game danger; group hunting plausibility. | Hunt evidence, not raid evidence. |
+| Human remains | Modified skull fragments and scattered human bone in fill contexts. [5], [6] | Death practice, memory, trace loss, mortuary ambiguity. | Does not prove raid, siege, or conspecific consumption. |
+| Conflict background | Kortik Tepe discussion notes interpersonal violence and conflict mitigation, but intergroup warfare proxies remain limited. [9] | Social heat in the regional Neolithic setting. | Indirect comparison only. |
+| Stratigraphy and fill | Built-on-rock work stresses complex mound formation, slope processes, repairs, and earlier fill assumptions under revision. [10] | Need for careful spatial and sequence testing. | Collapsed or moved material can mimic tactical traces. |
+
+4. Layout metrics: first-pass numbers to replace vague claims
+
+The geometry is testable. The following estimates are not field measurements of specific access routes. They are scale checks for what should be measured on plans, photogrammetry, and excavation GIS.
+
+| Feature model | Formula or assumption | Example output | Use in v0.7 |
+| --- | --- | --- | --- |
+| Circular enclosure floor area | Area = pi x (diameter / 2)^2 | 10 m: 78.5 m2; 15 m: 176.7 m2; 20 m: 314.2 m2 | Sets upper bound for people, animals, and working zones. |
+| Crowded standing capacity | 0.5 m2 per person, extreme crowding | 10 m: 157; 15 m: 353; 20 m: 628 people | Useful only as an upper stress bound, not ordinary use. |
+| Workable gathering capacity | 1.5 m2 per person | 10 m: 52; 15 m: 118; 20 m: 209 people | More plausible for ritual, processing, witnessing, or crowd movement. |
+| Queue in a narrow approach | Length x width / 0.6-1.0 m2 per person | 5 m x 1.2 m: about 6-10 people bunched | Tests delay-and-drop logic if actual routes are mapped. |
+| Stone or rubble drop zone | Drop strip length x width | 4 m x 1 m strip can affect a front cluster, not a whole army | Keeps raider mechanism small-scale. |
+
+The numbers matter because they prevent inflation. A 20 m enclosure can host a large gathering, but a tactical choke point would concern a much smaller queue. The model is strongest when it stays at small raiding-party scale: a front cluster held at a barrier, not a massed army.
+
+5. Store, pit, bone, and herd-scale calculations
+
+Version 0.7 adds calculations as work orders. They show which measurements would make or break the model. They are not presented as confirmed Gobekli values.
+
+| Quantity | Scale check | Interpretive value | Data needed |
+| --- | --- | --- | --- |
+| Dry cereal storage | A rough modern cereal density of c. 700-800 kg/m3 and c. 3400 kcal/kg means 1 m3 can represent around 2.4-2.7 million kcal. | Even a modest store can feed 50 people for weeks at crisis ration scale. | Actual storage features, residues, phytoliths, vessel/pit volumes. |
+| Small pit volume | Cylinder, diameter 2 m, depth 1 m: c. 3.1 m3. | If used for grain, volume is large enough to matter; if used as trap/fill, capacity is still significant. | Mapped pit dimensions and fill sequence. |
+| Medium pit volume | Diameter 4 m, depth 1.5 m: c. 18.8 m3. | Too large to ignore in any storage, trap, or fill model. | Field dimensions, deposits, access, sealing, sediment history. |
+| Large animal carcass handling | One aurochs or several gazelle can supply feast-scale meat and bone, but processing zones should show cutting, burning, breakage, discard, and tool scatter. | Supports hunt/feast drive layer before raid layer. | Taxon-by-context tallies, seasonality, age profiles, cut marks. |
+| Bone mineral store | Bone meal tables list calcium-rich material, around hundreds of grams calcium per kg in some processed forms. [18] | Bone is delayed mineral wealth, not just refuse. | Breakage, burning, crushing, boiling, grinding, cache, and animal-gnaw patterns. |
+
+These scale checks strengthen the first-wealth frame. Stored cereals, animal bodies, bone, water, tools, and ritual authority can all become addressable value. The question is not whether every store existed in later village form. The question is whether enough concentrated value existed to make gathering, guarding, and role-conversion useful.
+
+6. Faunal and lithic mapping work plan
+
+Grok is right that v0.7 needs scatter data. The next useful move is not more metaphor. It is overlay work.
+
+Map animal bones by taxon, element, age, season, cut marks, burning, marrow breakage, gnawing, and fill context.
+
+Separate hunting debris, butchery debris, feast waste, closure deposits, slope-wash material, and possible repair rubble.
+
+Map lithics by type: projectile points, impact-fractured points, blades, scrapers, perforators, heavy-duty tools, ground stone, and debitage.
+
+Plot food-processing tools against buildings, terraces, likely routes, and work zones.
+
+Compare depicted animals with eaten animals. A mismatch may indicate symbolic selection, danger marking, clan/emblem roles, or non-food meanings rather than straightforward menu depiction.
+
+Run route overlays: approach paths, sightlines, queue zones, drop zones, likely timber screen lines, platform edges, and reroute possibilities.
+
+The hunt layer predicts animal-body handling, seasonal peaks, projectile evidence, and feast waste. The raid layer predicts approach-zone anomalies, repair, line-break geometry, projectile or rubble concentrations near access, and visitor/stress signals. These should not be blended into one evidence bucket.
+
+7. The energy hump and fixed-wealth risk
+
+Early food production was not automatically energetically better. Before stable domesticated crops, reliable storage, processing routines, defended stores, seasonal labour discipline, and intergenerational practice were in place, cultivation could increase labour and risk. Smiths low-level food production model describes a middle ground between foraging and full agriculture, while Zeder frames Near Eastern agricultural origins as broad niche construction rather than a single sudden switch. [14], [15]
+
+That means early groups had to run backup systems: hunting, gathering, wild cereals, nuts, water memory, animal tracking, exchange, bone processing, and mobility knowledge. At the same time they invested in fixed plant stands, tools, stores, buildings, ritual gathering, and defence. This is the energy hump: the period when the new system consumes labour before it reliably returns surplus.
+
+The Raider Trap Layer belongs here. The group is too fixed to vanish easily, not yet buffered by mature agriculture, rich enough to tempt hungry outsiders, and fragile enough that one bad winter matters.
+
+8. Calcium crisis and bone as delayed mineral wealth
+
+Calories do not solve every winter problem. Stored grain, nuts, dried meat, pickled plants, and fermented drinks may supply energy while undersupplying calcium for growing children, adolescents, pregnant or nursing women, injured adults, and older workers. Modern intake tables are not prehistoric rules, but NIH values show that calcium need is structurally important and that grains are not high-calcium foods by default. [16]
+
+Large animal bones therefore remain valuable after meat and marrow are gone. Bone is dominated by calcium-phosphate mineral; protected dry bone can preserve mineral value for years or longer. [17] In a storage ecology, bone can be cached, crushed, boiled, burned, fed to dogs or suids, used as tool stock, used in ritual, or retained as emergency mineral matter.
+
+This is not proof of a calcium crisis at Gobekli Tepe. It is a resource-pressure hypothesis. It says bone belongs in the first-wealth ledger along with grain, nuts, hides, vessels, water, dogs, and defensive memory.
+
+9. Secondary threat layer: desperate winter, not chronic war
+
+The raider problem need not imply constant warfare. A single bad winter, failed hunt, drought, failed exchange relation, disease event, or lost herd of wild game could turn nearby people from visitors into desperate attackers. That risk could be rare but existential.
+
+The settled group also has a memory advantage. Each failed event can teach route control, food concealment, timing, timber placement, dog use, stone stockpiling, and story work. A small desperate group that fails may die, scatter, starve, or transmit only warning memory. This produces an asymmetric learning ratchet.
+
+One spectacular defensive event could create a slow warning myth. If survivors or observers carry the account outward, the tactic can become reputation. The stone need only fall once for the story to fall many times.
+
+10. Speculative mechanisms kept in rank
+
+10.1 Delay-and-drop
+
+The strongest tactical affordance is a delay-and-drop sequence. A pantry-like barrier or visible food threshold could hold the first attackers in a narrow working position. While their hands and attention are fixed on the obstacle, defenders above or beside the route could release prepared stone loads, then follow with stones, clubs, axes, dogs, or forced reroute.
+
+10.2 Roof or upper-surface failure
+
+A controlled failure point on a timber-supported roof or upper surface is more speculative. It could isolate the front of a group and block those behind, but it is hard to distinguish from ordinary collapse, earthquake damage, decay, or later fill movement. It remains a secondary mechanism until timber, route, damage, and repair evidence support it.
+
+10.3 Mortuary crisis roles
+
+The paper uses the term conspecific consumption and does not infer routine practice. It allows rare emergency retrieval, scavenger interaction, predator attraction, secondary handling, taboo storage, and trace-loss pathways as possible scarcity-ecology roles. Human fragments, skull modification, teeth, animal damage, and redeposited bone may be expected before neat graves or battle layers. [5], [6]
+
+11. T-pillars as convergence objects
+
+The T-pillars are not ordinary stacked stones. They are anthropomorphic limestone monoliths with arms, hands, belts, garments, and body-like grammar on some examples. Similar T-pillar traditions occur in the wider region. [11], [12]
+
+Version 0.7 treats them as convergence objects: stone persons, structure, authority, memory, roof or timber grammar, visitor-stage anchors, animal-image carriers, and possible parts of drive architecture. A mobile group can carry authority in living bodies. A fixed high-value site needs durable persons that stay when people leave, sleep, hunt, die, or gather elsewhere.
+
+This is the one-time historical force: fixed wealth needs fixed persons. The T-form may have worked because it was body and structure at once.
+
+12. Overlay and metric tasks for v0.8
+
+| Overlay | Layer to plot | Question answered |
+| --- | --- | --- |
+| Route map | Approach paths, thresholds, benches, pillars, terraces, possible roof/platform edges. | Can bodies be funnelled, paused, observed, or rerouted? |
+| Visibility map | Line of sight from central pillars, wall tops, terrace edges, and outer approaches. | Who sees whom first? |
+| Scatter map | Projectile points, cutting tools, grinders, bone, teeth, skull fragments, rubble, burn marks. | Do finds group by activity, route, closure, or repair? |
+| Faunal map | Gazelle, aurochs, wild ass, boar, sheep/mouflon, fox, bird, fish, carnivore marks. | Does hunt/feast drive patterning fit mapped architecture? |
+| Volume map | Pits, cisterns, hollows, bins, possible stores, fill deposits, rubble volumes. | How much food, water, animal body, or fill can each feature hold? |
+| Repair map | Rebuilt walls, blocked openings, damage, stabilisation, slope events. | Do repair patterns match natural processes, ritual closure, or route stress? |
+| Visitor map | Non-local stone, ornaments, isotopes, material signatures, style links. | Was the site drawing bodies from multiple groups? |
+
+13. What would strengthen the model
+
+Published plan overlays showing entry, pause, queue, and reroute possibilities in the architecture.
+
+Taxon-by-context bone tallies that separate feast waste, hunt waste, closure fill, and slope movement.
+
+Lithic maps showing projectile or impact-fracture concentrations near approach or threshold zones.
+
+Evidence of timber attachments, platforms, screens, roof edges, or upper surfaces affecting movement.
+
+Access-zone repair or unusual rubble placement consistent with route stress or tactical reuse.
+
+Seasonality data tying gazelle or other drives to large gatherings and food-processing peaks.
+
+Human remains analysis showing patterned skull handling, isolated teeth, animal damage, or context-specific redeposition.
+
+Bone processing evidence beyond marrow: crushing, boiling, burning, grinding, storage, or mineral-use contexts.
+
+Regional stress or violence proxies in the same broad horizon, without requiring a core-site massacre layer.
+
+14. What would weaken the model
+
+A reconstruction showing no meaningful route control, pause points, visibility advantage, or queue geometry.
+
+Evidence that food-processing scale was too small or too immediate to create fixed-wealth risk.
+
+Faunal and lithic maps that fit only ordinary discard without drive, gathering, or route patterning.
+
+No timber, roof, screen, platform, or access evidence after detailed architectural study.
+
+Human remains fully explained by unrelated disturbance or later movement, with no patterned handling.
+
+Bone processing limited to ordinary meat and marrow with no storage, mineral, or repeated breakage signal.
+
+A stronger model that explains ritual, food, death, animal, route, and visibility data with fewer assumptions.
+
+15. Public language note
+
+Use "drive architecture" as the umbrella term. Use "Raider Trap Layer" as a nickname for one secondary use, not as the academic title. Use "threat management" rather than "military purpose" unless direct evidence appears. Use "conspecific consumption" for crisis possibility, and state that routine practice is not inferred.
+
+Modern categories such as crime, property, food taboo, and desecration should not be starting assumptions for early Holocene scarcity systems. They can return in public-facing sensitivity language, but not as the first filter on what survival ecology allowed.
+
+Conclusion
+
+Version 0.7 turns the thesis toward data. Gobekli Tepe remains a ceremonial gathering system first: feasting, ritual, death practice, social identity, wild animal imagery, T-pillars, and regional symbolic networks are the main frame. The strongest practical layer is drive architecture for hunting, feasting, crowd movement, food logistics, and attention. The raider-risk layer is a secondary fixed-wealth use of the same geometry.
+
+The one-time historical pressure is the farming hinge. Early food production had an energy hump. Stored calories and bones had value before mature farming fully stabilized the system. Hungry outsiders did not need to be chronic enemies; one bad winter could be enough. A site able to feed, impress, sort, warn, delay, bunch, and reroute bodies could reduce that risk without becoming a fort.
+
+Final v0.7 formulation: Gobekli Tepe may show how ritual systems became drive systems at the first dangerous concentration of food, labour, animals, bone, memory, and visibility. Raider-risk is not the master explanation. It is one behavioural ecology layer inside a stronger hunt-feast-ritual architecture.
+
+References and source anchors
+
+[1] UNESCO World Heritage Centre. Gobekli Tepe: dates, setting, T-pillars, and ritual framing. https://whc.unesco.org/en/list/1572/
+
+[2] Dietrich et al. 2019. Cereal processing at Early Neolithic Gobekli Tepe, southeastern Turkey. PLOS ONE. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0215214
+
+[3] Pollath et al. 2018. Almost a chest hit: an aurochs humerus with hunting lesion from Gobekli Tepe. Quaternary International. https://www.sciencedirect.com/science/article/abs/pii/S104061821731296X
+
+[4] DAI, The Tepe Telegrams. On the hunt, some 12,000 years ago: an aurochs bone with hunting lesion from Gobekli Tepe. https://www.dainst.blog/the-tepe-telegrams/2018/01/17/on-the-hunt-some-12-000-years-ago-an-aurochs-bone-with-hunting-lesion-from-gobekli-tepe/
+
+[5] Gresky et al. 2017. Modified human crania from Gobekli Tepe provide evidence for a new form of Neolithic skull practice. Science Advances. https://www.science.org/doi/10.1126/sciadv.1700564
+
+[6] DAI, The Tepe Telegrams. Evidence for skull practice at Gobekli Tepe. https://www.dainst.blog/the-tepe-telegrams/2017/06/28/new-publication-in-science-advances-evidence-for-skull-cult-at-gobekli-tepe/
+
+[7] Peters and Schmidt 2004. Animals in the symbolic world of Pre-Pottery Neolithic Gobekli Tepe. Anthropozoologica. https://sciencepress.mnhn.fr/en/periodiques/anthropozoologica/39/1/les-animaux-dans-le-monde-symbolique-du-ppnb-de-gobekli-tepe-turquie-du-sud-est-premiere-evaluation
+
+[8] Lang et al. 2013. Gazelle behaviour and human presence at early Neolithic Gobekli Tepe, south-east Anatolia. World Archaeology. https://www.researchgate.net/publication/263242061_Gazelle_behaviour_and_human_presence_at_early_Neolithic_Gobekli_Tepe_south-east_Anatolia
+
+[9] DAI, The Tepe Telegrams. Ritual practices and conflict mitigation at early Neolithic Kortik Tepe and Gobekli Tepe. https://www.dainst.blog/the-tepe-telegrams/2019/03/12/new-publication-ritual-practices-and-conflict-mitigation-at-early-neolithic-kortik-tepe-and-gobekli-tepe/
+
+[10] Kinzel and colleagues. Built on Rock: reconstruction of the Neolithic topography of Gobekli Tepe. DAI publications. https://publications.dainst.org/journals/istmitt/article/view/4708/8479
+
+[11] DAI, The Tepe Telegrams. T-pillars and anthropomorphic features. https://www.dainst.blog/the-tepe-telegrams/tag/t-pillars/
+
+[12] The Tepe Telegrams. Current distribution of sites with T-shaped pillars. https://tepetelegrams.wordpress.com/2016/05/08/the-current-distribution-of-sites-with-t-shaped-pillars/
+
+[13] Reuters. 2025. New finds in Turkey's southeast add to picture of Neolithic age. https://www.reuters.com/science/new-finds-turkeys-southeast-add-picture-neolithic-age-2025-11-26/
+
+[14] Smith 2001. Low-Level Food Production. Journal of Archaeological Research. https://faculty.washington.edu/stevehar/Smith%202001-%20Low%20Level%20food%20Production.pdf
+
+[15] Zeder 2011. The Origins of Agriculture in the Near East. Current Anthropology. https://www.journals.uchicago.edu/doi/10.1086/659307
+
+[16] NIH Office of Dietary Supplements. Calcium fact sheet for health professionals. https://ods.od.nih.gov/factsheets/Calcium-HealthProfessional/
+
+[17] Boskey and Coleman 2010. Critical reviews in oral biology and medicine: bone composition and fragility. https://pmc.ncbi.nlm.nih.gov/articles/PMC3909232/
+
+[18] Feedipedia. Bone meal datasheet. https://www.feedipedia.org/node/219
