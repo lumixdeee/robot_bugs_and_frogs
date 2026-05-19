@@ -1,0 +1,197 @@
+Gobekli Tepe and the First-Perceived-Wealth Problem
+
+Warning Architecture, Ritual Utility, and Raider-Risk at the Farming Hinge
+
+Working paper v0.9 | human review draft | 18 May 2026
+
+Abstract
+--------
+
+This paper does not argue that Gobekli Tepe was mainly a fort, animal trap, person-catcher, hunting office, or storage compound. Version 0.9 is the first human-review draft. It keeps the mogri method in place, but trims repetition and arranges the argument around one central claim: a ceremonial system may also have acted as warning architecture during the first-perceived-wealth problem. The site emitted involuntary signals of success, including food processing, smoke, feasting, visitors, and monumentality. Monumentality then acted as a counter-signal: an unignorable display of coalition capacity, ritual authority, labour coordination, and likely retaliation cost.
+
+The core reading remains ritual-social: gathering, feasting, death practice, T-pillars as stone persons, animal imagery, regional identity, and memory. The added layer is lower-rank but testable. It proposes that perceived wealth and seasonal stress sometimes produced raider pressure, and that Gobekli Tepe reduced that risk by converting outsiders into guests, witnesses, allies, warned rivals, or failed attackers. The model does not require successful raids. It requires stress events, occasional attempts, and durable memory of failure.
+
+Anti-misread note
+-----------------
+
+The model does not propose that herds were driven into the central enclosures, that T-pillars were fencing posts, that outsiders were captured for labour, or that ritual was a cover story for economics. The central enclosures remain the ritual core. Any tactical affordance belongs to approaches, thresholds, outer routes, terraces, timber additions, and temporary screens, and remains speculative unless field data demogrifies it.
+
+This version keeps the working vocabulary heavy on mogri until the v1.0 translation pass. Mogri means the unknowns that matter. Demogrify means to know, reveal, expose, or resolve some or all of those unknowns. Mogrification is the making, preserving, restoring, or recognition of unknowns that matter, whether intentional, accidental, or academic. In v1.0, key mogri terms can be translated into standard archaeological prose without changing the argument.
+
+1. Claim status and rank discipline
+-----------------------------------
+
+| Rank | Function | Evidence status | Use in v0.9 |
+| --- | --- | --- | --- |
+| Core | Ceremonial gathering, feasting, death practice, T-pillars as stone persons, social identity, regional symbolic network. | Strongest fit to present descriptions. | Main frame. Not replaced. |
+| Central added layer | First-perceived-wealth raider-risk deterrence: warning, guest-role conversion, intimidation, memory, and rare failed attack. | Compatible and testable, but direct raid proof is absent. | Main new thesis layer. |
+| Supporting competence layer | Hunting, feasting, animal danger, food processing, coordinated movement, large gatherings. | Supported by fauna, aurochs hunting lesion, gazelle seasonality questions, and grinding/pounding tools. | Shows competence. Does not make an animal-trap model. |
+| Low-rank mechanisms | Delay-and-drop, reroute, roof or upper-surface failure, predator attraction, mortuary crisis roles. | Unproven. Require route, timber, repair, scatter, and context testing. | Mechanism proposals only. |
+
+The paper uses a mogri lock: one known role cannot swallow the others. Ritual does not erase use. Use does not erase ritual. Hunting evidence cannot become an animal-trap conclusion. Raider-risk cannot become a person-catcher model. Absence of direct raid proof keeps the raider-risk layer low-rank, not dead.
+
+2. Site baseline and evidence floor
+-----------------------------------
+
+Gobekli Tepe lies in the Germus mountains of south-eastern Anatolia. UNESCO dates its monumental round-oval and rectangular megalithic buildings to the Pre-Pottery Neolithic, roughly 9600-8200 BCE, and frames them as hunter-gatherer communal monuments probably tied to social events and rituals, most likely funerary. Some T-shaped limestone pillars reach up to 5.5 m. [1]
+
+The cereal-processing study gives measurable anchors: monumental buildings about 10-20 m in inner diameter, central pillars up to 5.5 m, and more than 7000 grinding and pounding artifacts. Phytolith analysis supports massive cereal presence, while large storage facilities were not identified in that study; the authors favour seasonal large work feasts. [2]
+
+The evidence floor also includes wild animal remains, animal imagery, direct hunting evidence, scattered human fragments, modified skull material, complex fill histories, and regional T-pillar parallels. These facts support the ritual-social core and the hunt/feast competence layer. They do not, by themselves, prove raider-risk deterrence.
+
+3. First perceived wealth: resource broadcast and counter-signal
+----------------------------------------------------------------
+
+Hunting was not the broken system. People already knew animal routes, seasonal timing, danger, tools, group movement, carcass processing, and feast logistics. That competence matters because it shows skill with coordinated bodies, risk, timing, food, and attention. It does not make the enclosures animal traps.
+
+The new problem was fixed or perceived wealth. A group that repeatedly processes grain, hosts feasts, raises stone persons, stores value in tools and knowledge, gathers visitors, and becomes known as the big ridge group emits a resource broadcast. Smoke, grinding noise, cooking smell, visitors, animal bodies, and monumentality cannot be hidden forever. A hungry outgroup does not need an inventory. It needs to believe that the ridge people have food, tools, allies, or negotiable value worth risking an approach.
+
+Monumentality is the counter-signal. Before accounts, vaults, or bank balances, visible organised capacity is the signal of negotiable value. A group able to move, carve, raise, feed, host, remember, and coordinate on this scale is not an easy food pile. The same stones that broadcast wealth also broadcast coalition capacity and retaliation cost.
+
+4. Event-rate realism: attackers need not succeed
+-------------------------------------------------
+
+The model does not require repeated successful raids. It requires stress events, occasional attempts, and remembered failure. Across a long use-life and a regional gathering catchment, bad winters, failed hunts, missed gazelle pulses, disease, drought pockets, broken exchange relations, and injuries could generate raider pressure many times without producing many battle layers at the core site.
+
+One early incident could teach the resident group where the system nearly failed. A later failed attempt could create warning memory. After that, most of the work may be done by reputation, guest-role conversion, avoidance, bargaining, or aborted approaches. The stone does not need to fall often if the story keeps falling.
+
+5. Ritual core, psychological threshold, and outer routes
+---------------------------------------------------------
+
+The central enclosures are the ritual core, not the proposed combat chamber. Their inward-facing design, central stone persons, benches, animal imagery, and death-practice associations support gathering, memory, and attention. Any tactical affordance should be looked for in approaches, threshold zones, terraces, outer routes, temporary timber, screens, and store-adjacent or food-adjacent barriers.
+
+The threshold mechanism is psychological before it is mechanical. Human raiders are not herd animals. They can see a bottleneck, argue, hesitate, scout, or retreat. The model only needs a brief high-stress pause at a charged boundary: hunger meets taboo, fear, visible reward, dogs, stone persons, watchers, height, noise, and uncertainty. A short delay can remove surprise and give resident watchmen time to signal, gather, or act from better ground.
+
+6. Metrics and scale checks
+---------------------------
+
+The numbers below are not claims that specific stores, traps, or defensive pits have been found. They are affordance maximums and scale checks: ways to ask whether a feature, if demonstrated archaeologically, would be large enough to matter.
+
+| Feature or quantity | Scale check | Interpretive use |
+| --- | --- | --- |
+| Circular floor area | 10 m diameter: c. 78.5 m2; 15 m: c. 176.7 m2; 20 m: c. 314.2 m2. | Sets event and gathering scale. Not animal-trap proof. |
+| Workable gathering capacity | At 1.5 m2 per person: c. 52, 118, or 209 people for 10, 15, or 20 m diameter. | Witness, feast, ritual, or crowd capacity. |
+| Narrow approach queue | 5 m x 1.2 m can hold roughly 6-10 bunched people. | Tests whether a small vanguard could be paused or exposed. |
+| Drop or blockage strip | 4 m x 1 m affects a front cluster, not an army. | Keeps tactical claims small-scale. |
+| Dry cereal storage | A rough cereal density of c. 700-800 kg/m3 and c. 3400 kcal/kg means 1 m3 can represent c. 2.4-2.7 million kcal. | Shows why even modest perceived stores could matter. Actual stores require evidence. |
+| Pit or hollow volume | Diameter 2 m, depth 1 m: c. 3.1 m3. Diameter 4 m, depth 1.5 m: c. 18.8 m3. | Affordance test for storage, water, fill, trap, or closure models. |
+| Bone mineral value | Bone stores calcium and phosphorus; processed bone meal can be calcium-rich. [15-17] | Resident delayed value, tool stock, animal feed, trace-loss pathway. Not primary raider bait. |
+
+7. Testing plan: lead with multi-proxy threshold evidence
+---------------------------------------------------------
+
+The strongest test plan is not a hunt for heroic artifacts. It is a multi-proxy threshold study. Scavengers, trampling, feasting, grinding, tool repair, and fill movement can all mimic or erase organic signals. Soil chemistry alone is weak. A threshold-stress pattern must align across unrelated evidence classes.
+
+| Test target | What to look for | What it would demogrify |
+| --- | --- | --- |
+| Impact-diagnostic traces | Impact-shattered lithic fragments, embedded tip fragments, fracture-wing geometry, step terminations, limestone spalling or micro-striations. | Whether approach zones preserve violent-contact signals beyond ordinary tool work. |
+| Taphonomic filter | Compare organic residues with stone-surface damage, lithic damage, repair, route placement, fill sequence, and scavenger disturbance. | Whether residue patterns survive animal and domestic noise. |
+| Route overlay | Approaches, thresholds, benches, terraces, possible platforms, outer routes, and reroutes. | Whether people could be delayed, observed, bunched, or redirected. |
+| Map placeholder | Figure 1: approach-route overlay showing outer routes, charged thresholds, higher observation points, pause zones, and sampling areas. | Visual test plan for v1.0 or data-hunt stage. |
+| Timber and access | Postholes, sockets, impressions, roof or screen evidence, attachment marks. | Whether lost architecture changed sightlines, access, or upper surfaces. |
+| Repair and rubble | Blocked openings, patched thresholds, unusual rubble placement, repeated stress zones. | Whether route zones carried unusual pressure. |
+| Visitors | Isotopes, non-local materials, style links, exchange objects. | Who came, from how far, and under which seasonal conditions. |
+
+8. Evidence matrix
+------------------
+
+| Strand | Anchor | Supports | Limit |
+| --- | --- | --- | --- |
+| Architecture | Round-oval buildings c. 10-20 m inner diameter; central pillars up to 5.5 m; benches and wall-set pillars. [1], [2] | Gathering, visibility, route shaping, possible timber staging. | Does not prove tactical use. |
+| Food tools | More than 7000 grinding and pounding artifacts, mostly cereal-related. [2] | Feasting, labour concentration, resource broadcast. | Large stores not identified in that study. |
+| Fauna and hunting | Gazelle, aurochs, wild ass, boar, wild sheep/mouflon, fox; aurochs hunting lesion. [3], [4], [7], [8] | Hunt and feast competence; dangerous body handling. | Hunt evidence, not raid evidence. |
+| Human remains | Modified skull fragments and scattered human bone in fill contexts. [5], [6] | Death practice, memory, trace loss, mortuary ambiguity. | Does not prove raid, siege, or conspecific consumption. |
+| Conflict background | Kortik Tepe discussion notes interpersonal violence and conflict mitigation, with limited intergroup proxies. [9] | Regional social heat and need for mitigation. | Indirect comparison only. |
+| Stratigraphy and fill | Built-on-rock work stresses complex mound formation, slope processes, repairs, and revision of older fill assumptions. [10] | Need for sequence, route, and repair testing. | Moved material can mimic tactical traces. |
+
+9. Projectiles: incoming, salvaged, and low-rank
+------------------------------------------------
+
+The model does not predict many outgoing defender projectiles. In the delay-and-drop version, defenders wait until attackers are delayed, bunched, and attention-locked, then use height, stone, timber, dogs, clubs, axes, and reroute pressure. If projectile evidence exists, it may come mainly from attackers carrying or firing stone points into the site.
+
+Usable flint or obsidian points would likely be recovered, inspected, reworked, or kept. The traces to seek are not neat arrowheads left for a modern display case. Better targets are broken tips missed in fill, embedded fragments, access-zone impact damage, route-specific micro-debitage, stone-edge spalling, and injury evidence. Even these remain low-rank unless mapped against ordinary knapping, trampling, grinding, and fill processes.
+
+10. Bone, scavengers, and competitor displacement
+-------------------------------------------------
+
+Bone is not proposed as primary raider bait. It is part of the resident group’s delayed-value ecology: marrow, mineral, tool stock, animal feed, ritual matter, trace-loss pathway, and food-scent source. Bone fragments and food waste can attract suids, canids, vultures, and other scavengers into known observation zones. This helps explain why traces may move, vanish, or acquire gnaw marks.
+
+Large carnivores such as bears should be treated differently. A wounded bear is not dependable meat unless it dies nearby. The value of shooting or displacing such an animal may be competitor reduction around nuts, honey, carrion, stores, or processing zones. This remains an opportunistic scarcity-ecology note, not a main explanation for the site.
+
+11. Regional network and T-pillar echo
+--------------------------------------
+
+Gobekli Tepe should not be treated as an isolated target. Regional T-pillar sites and related symbolic forms suggest a broader landscape of shared monument language, visitors, allies, and emulation. A raider group approaching one node may be approaching a network of kin, guests, exchange partners, and ritual obligations rather than a lone pantry.
+
+Other T-pillar sites need not share the original GT problem or layout. Once the monument language exists, related sites can adopt it as prestige echo, coalition signalling, regional identity claim, or participation marker. They can say, in stone, that their people also belong to the world of organised negotiable value.
+
+12. Speculative mechanisms, kept short
+--------------------------------------
+
+Delay-and-drop remains the strongest tactical affordance: a visible or scent-linked threshold delays the front of a small raiding group, psychological friction produces a pause, and defenders use height or side positions to break momentum. This is a proposed use of architecture, not a proven event.
+
+Roof or upper-surface failure is weaker and should stay in an appendix or low-rank note unless timber, route, collapse, and repair evidence support it. Mortuary crisis roles and rare emergency conspecific consumption are also edge cases. Modified skull fragments are best treated first as death practice and body handling; scarcity readings remain theoretical limit-cases, not ordinary practice.
+
+13. What would strengthen or weaken the model
+---------------------------------------------
+
+| Would strengthen | Would weaken |
+| --- | --- |
+| Approach-route overlay shows delay, observation, bunching, or reroute potential. | Plan overlay shows no meaningful route delay, observation, bunching, or reroute potential. |
+| Impact-diagnostic lithic/stone traces align with threshold routes and repair. | Micro-traces dissolve into ordinary knapping, grinding, trampling, or fill processes. |
+| Timber, screen, roof, platform, or access evidence changes route and sightline readings. | No timber, screen, platform, or access evidence appears after detailed study. |
+| Human remains show patterned skull handling, teeth, cut marks, animal damage, or context-specific redeposition. | Human remains are fully explained by unrelated disturbance or later movement. |
+| Visitor and material signatures show wide gathering networks and seasonal influx. | A simpler model explains ritual, food, animal, death, route, and visibility data with fewer assumptions. |
+
+14. Public and academic language note
+-------------------------------------
+
+Current drafts keep mogri language heavy on purpose. For v1.0, the vocabulary can be translated for journal readers while preserving the method. A later pass may translate mogri-rich convergence objects into multi-vocal architectural phenomena, false demogrification into premature explanatory closure, still mogri into underdetermined variables, and mogri lock into non-reductive functional equifinality.
+
+That translation should not change the paper’s spine. The method remains the same: do not let one known role swallow another; do not let absence of one trace erase a lower-rank possibility; do not let a speculative mechanism outrank evidence.
+
+Conclusion
+----------
+
+Version 0.9 is the human-review draft. The thesis is no longer a trap claim. It is a warning-architecture claim inside a ceremonial system. Gobekli Tepe remains, first, a ritual-social site of gathering, feasting, death practice, stone persons, animal imagery, identity, and regional memory.
+
+The added layer is first-perceived-wealth raider-risk. The site’s food events, smoke, grinding, visitors, and monumentality made success visible. Monumentality answered that visibility by broadcasting organised capacity and likely retaliation cost. Hungry outsiders did not need to win, and raiders did not need to succeed. They needed only to consider attack sometimes, while one or two failures became enough to teach the resident group and warn the region.
+
+The next stage is not another theory patch unless a new critique lands. The next stage is human review: trim language, test readability, lock references, and prepare a v1.0 translation pass after review by ChatGPT, Gemini, Grok, and the human author.
+
+References and source anchors
+-----------------------------
+
+[1] UNESCO World Heritage Centre. Gobekli Tepe: dates, setting, T-pillars, and ritual framing. https://whc.unesco.org/en/list/1572/
+
+[2] Dietrich et al. 2019. Cereal processing at Early Neolithic Gobekli Tepe, southeastern Turkey. PLOS ONE. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0215214
+
+[3] Pollath et al. 2018. Almost a chest hit: an aurochs humerus with hunting lesion from Gobekli Tepe. Quaternary International. https://www.sciencedirect.com/science/article/abs/pii/S104061821731296X
+
+[4] DAI, The Tepe Telegrams. On the hunt, some 12,000 years ago: an aurochs bone with hunting lesion from Gobekli Tepe. https://www.dainst.blog/the-tepe-telegrams/2018/01/17/on-the-hunt-some-12-000-years-ago-an-aurochs-bone-with-hunting-lesion-from-gobekli-tepe/
+
+[5] Gresky et al. 2017. Modified human crania from Gobekli Tepe provide evidence for a new form of Neolithic skull practice. Science Advances. https://www.science.org/doi/10.1126/sciadv.1700564
+
+[6] DAI, The Tepe Telegrams. Evidence for skull practice at Gobekli Tepe. https://www.dainst.blog/the-tepe-telegrams/2017/06/28/new-publication-in-science-advances-evidence-for-skull-cult-at-gobekli-tepe/
+
+[7] Peters and Schmidt 2004. Animals in the symbolic world of Pre-Pottery Neolithic Gobekli Tepe. Anthropozoologica. https://sciencepress.mnhn.fr/en/periodiques/anthropozoologica/39/1/les-animaux-dans-le-monde-symbolique-du-ppnb-de-gobekli-tepe-turquie-du-sud-est-premiere-evaluation
+
+[8] Lang et al. 2013. Gazelle behaviour and human presence at early Neolithic Gobekli Tepe, south-east Anatolia. World Archaeology. https://www.researchgate.net/publication/263242061_Gazelle_behaviour_and_human_presence_at_early_Neolithic_Gobekli_Tepe_south-east_Anatolia
+
+[9] DAI, The Tepe Telegrams. Ritual practices and conflict mitigation at early Neolithic Kortik Tepe and Gobekli Tepe. https://www.dainst.blog/the-tepe-telegrams/2019/03/12/new-publication-ritual-practices-and-conflict-mitigation-at-early-neolithic-kortik-tepe-and-gobekli-tepe/
+
+[10] Kinzel and colleagues. Built on Rock: reconstruction of the Neolithic topography of Gobekli Tepe. https://publications.dainst.org/journals/istmitt/article/view/4708/8479
+
+[11] DAI, The Tepe Telegrams. T-pillars and anthropomorphic features. https://www.dainst.blog/the-tepe-telegrams/tag/t-pillars/
+
+[12] The Tepe Telegrams. Current distribution of sites with T-shaped pillars. https://tepetelegrams.wordpress.com/2016/05/08/the-current-distribution-of-sites-with-t-shaped-pillars/
+
+[13] Smith 2001. Low-Level Food Production. Journal of Archaeological Research. https://faculty.washington.edu/stevehar/Smith%202001-%20Low%20Level%20food%20Production.pdf
+
+[14] Zeder 2011. The Origins of Agriculture in the Near East. Current Anthropology. https://www.journals.uchicago.edu/doi/10.1086/659307
+
+[15] NIH Office of Dietary Supplements. Calcium fact sheet for health professionals. https://ods.od.nih.gov/factsheets/Calcium-HealthProfessional/
+
+[16] Boskey and Coleman 2010. Bone composition and fragility. https://pmc.ncbi.nlm.nih.gov/articles/PMC3909232/
+
+[17] Feedipedia. Bone meal datasheet. https://www.feedipedia.org/node/219
