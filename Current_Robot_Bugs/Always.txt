@@ -4,6 +4,9 @@ Red-X bug - doubled the protection layer, extensive testing underway
 Em-dash - this has not bothered me since first adding "—"->"-"
 Suddenly, three em-dash in one response. Always something with this bot.
 
+UPDATE: 20-5-26 latest setup with prechat, nickname, see old chats, and memories, and plus tier, is enough to completely stop em-dash and emoji violence, and only one banned purity token in a 1MB project (120kb chat, 800KB docs generated) 
+
+
 Robert:
 would claude code vibe coded apps be more secure if claude had mogri baked in?
 
