@@ -1,0 +1,287 @@
+Gobekli Tepe and the First-Perceived-Wealth Problem
+
+Protected Processing, Visible Resistance, and Demographic Pressure at the Farming Hinge
+
+Working paper v0.96 | human review draft | 21 May 2026
+
+Abstract
+
+This paper does not argue that Gobekli Tepe was mainly a fort, animal trap, coercive labor extraction site, hunting office, or storage compound. Version 0.96 consolidates the protected-processing model around a positive material anchor: the unusually large ground-stone processing assemblage in a monumental, ritualised setting. The model begins from that observed aggregation of processing equipment, not from missing battle evidence.
+
+The core reading remains ritual-social: gathering, feasting, death practice, T-pillars as stone persons, animal imagery, social identity, and regional symbolic network. The added layer is first-perceived-wealth raider-risk. The vulnerable object was not only food. It was the working person embedded in a processing sequence. An isolated grinder or baker carried skill, fatigue, tools, grain access, and possible knowledge of stores or routes. Protected processing therefore guarded both food value and labouring bodies at the moment when value was being made.
+
+The demographic layer does not require a crisis. Early Holocene abundance could raise local carrying capacity, which allowed more people, heavier grain draw, and sharper competition around visible cereal processing. Seasonal failure and hard winters remain likely accelerants, but the core mechanism is ordinary success under weak regional coordination: successful bread-making and storage can multiply its users, reduce the fallback margin for non-storing mobile groups, and make processing nodes worth watching.
+
+Version 0.96 replaces proto-law language with a simpler behavioural mechanism. B1 feels safer, B1 repeats, M1 tests, M1 fails, M1 remembers, and the visible form inherits the bite. The T-pillar tradition need not begin as a formal warning system. It can become a copied visible system of hard, chronic resistance because failed approaches teach competitors that workers in such places are not alone.
+
+Anti-misread note
+
+The model does not propose that herds were driven into the central enclosures, that T-pillars were fencing posts, that Gobekli Tepe was built to capture labourers, or that ritual was a cover story for economics. The central enclosures remain the ritual core. Any tactical affordance belongs to approaches, thresholds, outer routes, terraces, timber additions, temporary screens, food-adjacent barriers, and feeder-landscape movement, and remains speculative unless field data supports it.
+
+Version 0.96 distinguishes three person-risk claims. It does not claim that the site captured outsiders for labour. It does claim that exposed grain workers in the wider landscape could be seized, coerced, followed, or used to locate stores. It also claims that a protected processing node could make such attacks costly by ensuring that the worker was not alone, unseen, or unsupported.
+
+1. Claim status and rank discipline
+
+Rank	Function	Evidence status	Use in v0.96
+Core	Ceremonial gathering, feasting, death practice, T-pillars as stone persons, social identity, regional symbolic network.	Strongest fit to present descriptions.	Main frame. Not replaced.
+Central added layer	First-perceived-wealth raider-risk deterrence: guest-role conversion, intimidation, memory, learned avoidance, and rare failed attack.	Compatible and testable, but direct raid proof is absent.	Main thesis layer.
+Positive material anchor	Unusually large ground-stone processing assemblage aggregated in a monumental, ritualised setting.	Observed material pattern. Exact access rules remain unknown.	Moves the argument from missing battle traces to present processing evidence.
+Protected processing layer	Safer conversion of grain into higher-value food under social, ritual, and physical cover.	Supported by the grinding and pounding assemblage, but exact access rules are unknown.	Explains perceived value without requiring large permanent stores.
+Worker-risk layer	Protection of exposed food workers from seizure, coercion, pursuit, and store-location pressure.	A logical risk produced by dispersed exposed processing; signatures must be sought in the feeder landscape.	Explains why the worker, not only the product, matters.
+Demographic pressure layer	Successful bread-making and storage increase population and grain draw, reducing fallback space for non-storing groups.	Modelled as ordinary resource pressure, intensified but not caused by crisis.	Prevents the paper from depending on famine or collapse.
+Copied visible system layer	B1 repeats safer clustering; M1 learns from failed approaches; the visible form inherits the bite.	Behavioural interpretation of repetition, failed testing, regional memory, and copied form.	Replaces proto-law with learned hard chronic resistance.
+Supporting competence layer	Hunting, feasting, animal danger, food processing, coordinated movement, large gatherings.	Supported by fauna, aurochs hunting lesion, gazelle seasonality questions, and grinding/pounding tools.	Shows competence. Does not make an animal-trap model.
+Low-rank mechanisms	Delay, reroute, falling-stone affordance, roof or upper-surface failure, taphonomic loss, competitor displacement.	Unproven. Require route, timber, repair, scatter, and context testing.	Mechanism proposals only.
+
+The paper uses rank discipline: one known role cannot swallow the others. Ritual does not erase use. Use does not erase ritual. Hunting evidence cannot become an animal-trap conclusion. Raider-risk cannot become a coercive labor extraction model. Absence of direct raid proof keeps the raider-risk layer low-rank, not dead.
+
+2. Site baseline and evidence floor
+
+Gobekli Tepe lies in the Germus mountains of south-eastern Anatolia. UNESCO dates its monumental round-oval and rectangular megalithic buildings to the Pre-Pottery Neolithic, roughly 9600-8200 BCE, and frames them as hunter-gatherer communal monuments probably tied to social events and rituals, most likely funerary. Some T-shaped limestone pillars reach up to 5.5 m. [1]
+
+The cereal-processing study gives measurable anchors: monumental buildings about 10-20 m in inner diameter, central pillars up to 5.5 m, and more than 7000 grinding and pounding artifacts. Phytolith analysis supports massive cereal presence, while large storage facilities were not identified in that study; the authors favour seasonal large work feasts. [2]
+
+This unusually large processing assemblage is the primary positive material footprint of the protected-processing model. In a more dispersed processing pattern, grain handling would be expected closer to harvest points and exposed work spots. At Gobekli Tepe, heavy processing equipment appears aggregated in a monumental, topographically managed setting. That pattern can be read as a practical shift from dispersed exposed processing toward collective, visible, protected processing.
+
+The evidence floor also includes wild animal remains, animal imagery, direct hunting evidence, scattered human fragments, modified skull material, complex fill histories, and regional T-pillar parallels. These facts support the ritual-social core, the food-processing layer, and the hunt/feast competence layer. They do not, by themselves, prove raider-risk deterrence.
+
+3. Early Holocene pressure: abundance without management
+
+Gobekli Tepe appears almost immediately after the end of the last glacial period in archaeological terms. The formal Holocene boundary is about 11.7 ka before present, while the earliest secure monumental phases at Gobekli Tepe fall in the later tenth millennium BCE. [1], [15] The landscape was not identical to the modern setting. The relevant model is a somewhat wetter early Holocene steppe: wild cereals, grazing animals, seasonal water, and local tree resources, not a dense forest and not a stable breadbasket. [16]
+
+Rising carrying capacity does not remove scarcity pressure. It can postpone and amplify it. Wetter conditions, wild cereal stands, and richer game populations could support more people, but population growth would not automatically produce regional coordination, storage equity, conflict management, or winter provisioning. Abundance allows population to rise toward a new ceiling; it does not guarantee safe access for everyone at the hungry moment.
+
+The model should never depend on crisis. Seasonal failure, hard winters, disease, missed hunts, drought pockets, and broken exchange ties would intensify pressure, but they are not required. If bread-making and grain storage succeeded, groups using them could increase in number and return with greater demand on the same wild cereal stands. Their success would gradually reduce the grain available to groups still relying on older mobile fallback systems.
+
+Neighbouring groups would not remain passive. Once bread-making and storage became visible, non-storing mobile groups could copy, join, intermarry, exchange, steal tools, or learn the practice directly. The technical advantage of grinding grain into food may therefore have begun to erode quickly. Gobekli Tepe does not need to explain the invention of bread-making. It needs to explain the organisation of bread-making under competitive conditions.
+
+Local population increase may also have combined with people, practices, and partners moving from regions to the south with longer cereal-processing traditions. Earlier grinders or bread-like products elsewhere do not, by themselves, establish a migration route or direction of influence. They demonstrate technical possibility. The relevant question is where processing happened, at what scale, under which social rules, and with what risk. [13], [14], [17]
+
+This is not a claim that incoming or southern-linked groups were inherently weak. The relevant difference is ecological familiarity. Local groups may have had more practice with the winter fallback routes of this particular landscape, while people connected to more cereal-practised zones may have made new forms of value visible through grinding, smoke, cooked food, tools, and processed grain. In severe scarcity, internal conspecific consumption would carry catastrophic social cost; external seizure of people associated with processed grain would remain dangerous and revenge-prone, but could appear less destructive to the attacker's own social body.
+
+4. The stationary problem: capability was not enough
+
+Hunting was not the broken system. People already knew animal routes, seasonal timing, danger, tools, group movement, carcass processing, and feast logistics. Early agriculture should also not be treated as a sudden discovery of a thing humans had previously been unable to imagine. People could know where cereals grew, how they ripened, how to harvest and process them, how to store some foods, how animals bred, and how to build walls or fences without yet possessing a durable farming system.
+
+The hard problem was stationary system integration. A group trying to settle had to keep older support systems alive while investing labour in fixed plant stands, processing equipment, buildings, storage, water, repair, dogs, social gathering, and defence. The new system could consume labour before it reliably returned surplus. The group could become visible before it became safe: too settled to vanish easily, not yet buffered by mature farming, and known enough to attract hungry outsiders.
+
+Stationary life also changes the arithmetic of shelter and work. A hundred detached single-room houses require roughly 400 wall-lengths. A 10 by 10 block of attached rooms needs about 220 wall-lengths because walls are shared. This is not a claim about a specific Gobekli Tepe housing plan. It is a scale reminder: clustering near processing, water, watch, storage, dogs, tools, and ritual authority can be driven by mundane wall economy and walking economy as much as by ideology.
+
+Monumentality is the counter-signal. Before accounts, vaults, or bank balances, visible organised capacity is the signal of negotiable value. Raising stone persons, hosting feasts, coordinating labour, maintaining ritual authority, and drawing visitors all say that the group has something to bargain with, something to defend, and allies or obligations beyond a single household. The same broadcast that makes the site attractive also warns that it is not an easy food pile.
+
+5. Protected processing and the labour-theft payoff
+
+The first-perceived-wealth problem is sharpened by processing. Grain in a stand has value. Harvested grain has more value because labour has been added. Flour has still more value because harvesting, transport, dehusking, pounding, grinding, tool wear, and fatigue have been folded into it. Theft of flour steals calories and labour together.
+
+The highest-risk object was not only food. It was the working person inside the food-making sequence. A tired grinder or baker may carry skill, tools, grain access, route knowledge, social information, and possible knowledge of stores. A group approaching such a person does not need to be a specialist raiding class. Opportunistic attackers could control the worker first, then take flour, tools, stores, or directions.
+
+This makes dispersed processing more dangerous than simple calorie theft suggests. Sneak theft can become confrontation under bad conditions. A thief who only takes bread is the mild case. A group that takes the baker at distance, then takes stores, is the fitter threat model. Protected communal processing therefore guarded food value, labour value, and the bodies that held both.
+
+The unusually large and standardised grinding assemblage at Gobekli Tepe may therefore matter not only as feast evidence, but as evidence of protected conversion. It is a positive material trace of processing being pulled into a place where labour, tools, food, witnesses, ritual attention, and route control could converge.
+
+The raider-risk layer need not begin with organised enemies. It may begin with observation. A mobile group can learn that grain gatherers become more vulnerable after harvest, when grain is carried, processed, and converted into flour or bread-like food. If those opportunists then observe that processing no longer happens at scattered vulnerable locations but increasingly at Gobekli Tepe, the site becomes worth testing. In this model, the first attackers are not a formal raider class. They are people whose profitable theft pattern has been disrupted by protected processing.
+
+A protected processing node also creates contribution logic without requiring a later state tax. People may bring grain, grind near allies and watchers, take processed food away, and return a share as feast support, labour obligation, ritual contribution, or social debt. The site value lies not only in what it stored, but in what it made safer to process.
+
+6. External pressure and the feeder landscape
+
+The model should not expect the strongest attack evidence at Gobekli Tepe itself. If the site was a successful response to the first-perceived-wealth problem, then the triggering pressure may be better sought in the surrounding landscape: smaller processing stations, seasonal camps, minor stores, caches, grain-working zones, and feeder settlements. Gobekli Tepe is not the cause of Gobekli Tepe. It is the architectural and ritual answer to a risk first generated elsewhere.
+
+This claim needs strict testing. A feeder landscape cannot become a hiding place for the hypothesis. Evidence outside the monumental core would strengthen the model only if several unrelated stress indicators converge in space and time: damaged or repaired bins, abrupt abandonment of food-working areas, moved or missing grinding equipment, impact-diagnostic stone fragments near access routes, localised burning, route-facing patching, and movement from dispersed processing toward protected communal processing.
+
+Single indicators are not enough. Ordinary seasonal movement, tool recycling, refuse movement, erosion, shifting foraging ranges, later disturbance, and formation processes remain better explanations unless the pattern is clustered and route-relevant. The model is weakened if feeder sites show vulnerable processing without stress, storage pressure, route change, or movement toward protected nodes.
+
+The worker-risk layer makes the feeder landscape more important. Stores can be hidden or emptied. A tired worker on a return route, at a grinding hollow, or near a minor cache is harder to protect alone. This predicts evidence of relocation, paired processing, watched paths, tool movement, or increasing attraction toward communal food-work nodes rather than a simple fortress signature.
+
+7. Event-rate realism and the adjustment threshold
+
+The model does not require repeated successful raids. It requires stress events, occasional attempts, and remembered failure. Across a long use-life and a regional gathering catchment, disrupted theft patterns, worker pursuit, coercion, bad seasons, failed hunts, disease, injuries, and broken exchange relations could generate raider pressure many times without producing many battle layers at the core site.
+
+Protected processing need not originate in a single crisis. It may instead reflect accumulated adjustment after successful cereal processing created repeated exposure. Groups using bread-making and storage gained real advantages, but those advantages made workers, tools, routes, and processed food more visible. Even limited theft, coercion, pursuit, or worker loss could make dispersed processing too costly.
+
+The response was not simply more food storage. It was a reorganisation of the processing moment itself: fewer isolated workers, more witnesses, tighter routes, stronger group presence, and a public memory that attacks on food work would not remain private incidents.
+
+One early incident could teach the resident group where the system nearly failed. A later failed attempt could create warning memory. After that, most of the work may be done by reputation, guest-role conversion, avoidance, bargaining, joining, or aborted approaches. The stone does not need to fall often if the story keeps falling.
+
+8. Copied visible system and learned resistance
+
+Boar and deer are dangerous prey, but they are not dangerous in the same social way. They can injure or kill. They cannot conduct revenge, remember a grievance across kin groups, or turn a single attack into a lasting relation between communities. A human worker is different. To seize that person is to touch a remembered social body.
+
+The copied visible system need not have begun as rule-making or formal warning architecture. For the protected group, the practical behaviour may have been simple: workers were safer near other people, near dogs, near stone, near witnesses, and within managed routes. The arrangement is repeated because it works.
+
+The warning value emerges on the other side of the encounter. B1 feels safer, B1 repeats, M1 tests, M1 fails, M1 remembers, and the visible form inherits the bite. M1 learns that the T-pillar world marks a place where coercion, theft, or attack meets hard, chronic resistance. The sign is authored less by initial intention than by failed approaches and remembered cost.
+
+Longer-term cost does not require courts, codes, or centralized enforcement. It can work through loss of guest status, denial of feast access, exclusion from coordinated hunts or seasonal gatherings, partner-exchange refusal, lithic or symbolic exchange loss, retaliation memory, and public naming as an unsafe faction. In this sense, the T-pillar tradition is better framed as a copied visible system of hard chronic resistance than as proto-law.
+
+9. T-pillars, thresholds, and close-up mechanics
+
+The central enclosures are the ritual core, not the proposed combat chamber. Their inward-facing design, central stone persons, benches, animal imagery, and death-practice associations support gathering, memory, and attention. Any tactical affordance should be looked for in approaches, threshold zones, terraces, outer routes, temporary timber, screens, and food-adjacent barriers.
+
+The threshold effect should not depend mainly on guessing attacker psychology. The stronger claim is spatial. A narrow approach, slope, watched route, dog noise, stone edge, resident clustering, and limited entry width can let a smaller resident group equalise a numbers disadvantage. The problem is not that attackers magically fear a T-pillar. The problem is that attackers who must approach through a charged and observed route lose surprise, lose spread, and meet residents where residents can gather.
+
+No builder needs to have said, "we will erect T-pillars to warn them off," and no attacker needs to have fled merely because a T-pillar was seen. The defensive significance lies in the mechanical and social conditions produced by the architecture. Stone architecture reduces the value of ordinary missile attack and offers little obvious reward to fire-setting tactics. If an aggressor must then approach, the site can shift the encounter into a narrow, visible, low-error-margin space. Over time, the copied form can come to mean: expect hard chronic resistance.
+
+A massive upright stone is beyond the scale of an individual weapon. It is stored height, stored weight, and stored instability. This is not proof that T-pillars were used tactically. It is a low-rank mechanical possibility: a stone too heavy for one person to wield can still become decisive if architecture, slope, threshold, and timing make falling stone part of the encounter.
+
+The most limited version does not require destroying the main T-pillars. A separate upper stone, perhaps similar in form to the upper part of a T-pillar, could be positioned above a route, threshold, or support. Such a stone would remain beyond the scale of a hand weapon, yet could become decisive if released, shoved, or allowed to fall at close approach. This remains speculative unless evidence appears for perched stones, sockets, displaced upper blocks, impact zones, odd repair, or route-linked rubble.
+
+10. Metrics and scale checks
+
+The numbers below are not claims that specific stores, traps, or defensive pits have been found. They are affordance maximums and scale checks: ways to ask whether a feature, if demonstrated archaeologically, would be large enough to matter.
+
+Feature or quantity	Scale check	Interpretive use
+Circular floor area	10 m diameter: c. 78.5 m2; 15 m: c. 176.7 m2; 20 m: c. 314.2 m2.	Sets event and gathering scale. Not animal-trap proof.
+Workable gathering capacity	At 1.5 m2 per person: c. 52, 118, or 209 people for 10, 15, or 20 m diameter.	Witness, feast, ritual, or crowd capacity.
+Narrow approach queue	5 m x 1.2 m can hold roughly 6-10 bunched people.	Tests whether a small vanguard could be paused, observed, or exposed.
+Drop or blockage strip	4 m x 1 m affects a front cluster, not an army.	Keeps tactical claims small-scale.
+Dry cereal storage	A rough cereal density of c. 700-800 kg/m3 and c. 3400 kcal/kg means 1 m3 can represent c. 2.4-2.7 million kcal.	Shows why even modest perceived stores could matter. Actual stores require evidence.
+Protected processing value	One common handstone type has been experimentally reported at about 4.8 kg flour in eight working hours. [2]	Flour carries calories plus grinding labour, fatigue, and tool wear.
+Worker-risk value	One seized skilled worker can expose tools, routes, store locations, kin obligations, and timing.	Shows why worker protection can matter more than bread theft alone.
+Wall economy	100 detached rooms: c. 400 outer wall-lengths. A 10 by 10 attached block: c. 220 wall-lengths.	Shows why clustered work and dwelling spaces can become attractive without requiring ideology as the first cause.
+
+11. Testing plan: lead with ground-stone and multi-proxy threshold evidence
+
+The strongest test plan is not a hunt for heroic artifacts. It begins with the ground-stone processing anomaly, then tests whether feeder landscapes, thresholds, and access routes show convergent patterning. Scavengers, trampling, feasting, grinding, tool repair, and fill movement can all mimic or erase organic signals. Soil chemistry alone is weak. A threshold-stress pattern must align across unrelated evidence classes.
+
+Test target	What to look for	What it would resolve
+Impact-diagnostic traces	Impact-shattered lithic fragments, embedded tip fragments, fracture-wing geometry, step terminations, limestone spalling or micro-striations.	Whether approach zones preserve violent-contact signals beyond ordinary tool work.
+Taphonomic filter	Compare organic residues with stone-surface damage, lithic damage, repair, route placement, fill sequence, and scavenger disturbance.	Whether residue patterns survive animal and domestic noise.
+Route overlay	Approaches, thresholds, benches, terraces, possible platforms, outer routes, and reroutes.	Whether people could be delayed, observed, bunched, or redirected.
+Figure 1A: regional feeder macro-view	Outer grain-gathering zones, small camps, minor stores, wild cereal catchments, routes, seasonal water, and movement toward the protected node.	Whether pressure plausibly formed outside the monumental core.
+Figure 1B: intramural threshold micro-view	Outer routes, terraces, screens, observation points, resident clustering points, narrow approach queues, and protected routes into processing zones.	Whether the site could create early warning and defensive clustering without making the central enclosures combat chambers.
+Protected processing map	Grinding tools, work surfaces, discard, paths, water, possible containers, screens, and watch points.	Whether processing clustered in ways that made safety, contribution, or raider-risk plausible.
+Worker-risk landscape	Isolated grinding hollows, exposed return routes, missing or moved grinding kit, paired work, watched paths, sudden relocation from scattered food work.	Whether the threat target was worker plus product rather than product alone.
+Copied visible system	Repeated T-pillar form, stone-person focus, animal threat imagery, gathering recurrence, and regional echo around protected food work.	Whether hard chronic resistance became materially legible through repetition and failed testing.
+Feeder landscape	Small processing stations, caches, minor stores, seasonal camps, damaged bins, moved grinding kit, burned or abandoned food-working zones.	Whether the pressure that produced the protected node appears outside the monumental core.
+
+12. Evidence matrix
+
+Strand	Anchor	Supports	Limit
+Architecture	Round-oval buildings c. 10-20 m inner diameter; central pillars up to 5.5 m; benches and wall-set pillars. [1], [2]	Gathering, visibility, route shaping, possible timber staging.	Does not prove tactical use.
+Food tools	More than 7000 grinding and pounding artifacts, mostly cereal-related. [2]	Feasting, labour concentration, resource broadcast, and protected processing hypothesis.	Large stores not identified in that study.
+Early Holocene setting	Wetter-than-today steppe, wild cereals, game, and local water variation. [16]	Raises carrying capacity and makes population/resource pressure plausible.	Does not by itself prove conflict.
+Worker-risk landscape	Predicted through feeder sites, routes, moved tools, damaged bins, and relocation patterns rather than current direct proof.	Explains why processing might move inward toward watched communal nodes.	Requires outward landscape data.
+Fauna and hunting	Gazelle, aurochs, wild ass, boar, wild sheep/mouflon, fox; aurochs hunting lesion. [3], [4], [7], [8]	Hunt and feast competence; dangerous body handling.	Hunt evidence, not raid evidence.
+Human remains	Modified skull fragments and scattered human bone in fill contexts. [5], [6]	Death practice, memory, trace loss, mortuary ambiguity.	Does not prove raid, siege, or conspecific consumption.
+Visible resistance	T-pillars, anthropomorphic features, animal imagery, and regional T-shaped pillar distribution. [11], [12]	Durable social persons, memory, coalition reach, and copied form with learned cost.	Does not prove formal law, fixed enforcement, or designed threat authorship.
+Conflict background	Kortik Tepe discussion notes interpersonal violence and conflict mitigation, with limited intergroup proxies. [9]	Regional social heat and need for mitigation.	Indirect comparison only.
+Stratigraphy and fill	Built-on-rock work stresses complex mound formation, slope processes, repairs, and revision of older fill assumptions. [10]	Need for sequence, route, and repair testing.	Moved material can mimic tactical traces.
+
+13. Projectiles: incoming, salvaged, and low-rank
+
+The model does not predict many outgoing defender projectiles. In the delay-and-drop version, defenders wait until attackers are delayed, bunched, and attention-locked, then use height, stone, timber, dogs, clubs, axes, and reroute pressure. If projectile evidence exists, it may come mainly from attackers carrying or firing stone points into the site.
+
+Usable flint or obsidian points would likely be recovered, inspected, reworked, or kept. The traces to seek are not neat arrowheads left for a modern display case. Better targets are broken tips missed in fill, embedded fragments, access-zone impact damage, route-specific micro-debitage, stone-edge spalling, and injury evidence. Even these remain low-rank unless mapped against ordinary knapping, trampling, grinding, and fill processes.
+
+14. Regional network, Karahan Tepe, and T-pillar echo
+
+Gobekli Tepe should not be treated as an isolated target. Regional T-pillar sites and related symbolic forms suggest a broader landscape of shared monument language, visitors, allies, and emulation. A raider-mode group approaching one node may be approaching a network of kin, guests, exchange partners, and ritual obligations rather than a lone pantry.
+
+Other T-pillar sites need not share the original GT problem or layout. Once the visible form acquires a history of hard chronic resistance, related sites can adopt it as prestige echo, coalition signalling, regional identity claim, or participation marker. The copy need not be false. It is how the bite travels.
+
+The chronological relation between Karahan Tepe and Gobekli Tepe remains important but not decisive for the model. Karahan Tepe could represent an earlier, parallel, or later expression of the same regional visible system. If earlier, it may show that range resistance, siege resistance, and monumental signalling were already available before the close-approach problem was more fully solved at Gobekli Tepe. If parallel, the two sites may preserve different local solutions inside the same pressure field. If later, Karahan Tepe may inherit a monument form whose close-approach cost had already entered regional memory. For now, the KT/GT sequence should remain an open variable rather than a forced premise.
+
+A useful analogy is an army. Only some members are veterans with direct experience of the event-world that formed the discipline. Many others are recruits: dressed, drilled, and arranged to reproduce the same posture before they have the same history. Likewise, one site may preserve a high-pressure solution to close approach, while related sites inherit the monument language, social posture, and learned cost without preserving every mechanical affordance.
+
+15. Low-rank mechanisms, kept short
+
+Delay-and-drop remains a tactical affordance, not a proven event: a visible or scent-linked threshold delays the front of a small raiding group, spatial routing produces a pause, and defenders use height or side positions to break momentum. This is a proposed use of architecture, not a demonstrated fact.
+
+Falling-stone or upper-stone mechanisms remain lower-rank than protected processing, worker-risk, feeder-landscape testing, and copied visible resistance. They should stay in appendix or brief mechanism notes unless timber, support, socket, route, rubble, repair, or impact evidence supports them.
+
+Mortuary crisis roles and rare emergency conspecific consumption are also edge cases. Modified skull fragments are best treated first as death practice and body handling; scarcity readings remain theoretical limit-cases, not ordinary practice.
+
+16. What would strengthen or weaken the model
+
+Would strengthen	Would weaken
+The ground-stone assemblage shows convergent high-intensity use, stress-wear, fracture usage, resharpening, or restricted processing windows.	The ground-stone assemblage lacks convergent patterning or high-intensity use signals beyond ordinary domestic scatter.
+Feeder sites show clustered stress: damaged bins, sudden abandonment, moved grinding kit, route-facing repair, and movement toward protected processing.	Feeder sites show vulnerable processing without storage stress, route stress, coercive encounter signatures, or movement toward protected nodes.
+Approach-route overlay shows delay, observation, bunching, early warning, or resident clustering potential.	Plan overlay shows no meaningful route delay, observation, bunching, or resident clustering potential.
+Protected processing areas align with safe routes, watch points, social gathering, or contribution pathways.	Grinding distribution fits ordinary scatter without processing-node patterning.
+Worker-risk signatures appear: moved grinding kit, avoided exposed work spots, paired work, watched paths, route stress, or signs of coercive encounters near food work.	No evidence appears for exposed worker vulnerability or movement away from isolated processing.
+Copied visible forms align with protected food-work routes, approach control, resource basins, or gathering recurrence.	T-pillar and symbolic patterning remains unrelated to access, processing, route control, or gathering recurrence.
+Impact-diagnostic lithic or stone traces align with threshold routes and repair.	Micro-traces dissolve into ordinary knapping, grinding, trampling, or fill processes.
+Timber, screen, roof, platform, or access evidence changes route and sightline readings.	No timber, screen, platform, or access evidence appears after detailed study.
+Visitor and material signatures show wide gathering networks and seasonal influx.	A simpler model explains ritual, food, animal, death, route, and visibility data with fewer assumptions.
+
+16.2. Conditions that would weaken the model
+
+The protected-processing model is tied to material boundaries evaluated through likelihood rather than a binary proof test. It would be substantially weakened if future survey and excavation found durable, unprotected, isolated large-scale grain-processing or processed-food storage installations with long-term use, no movement toward communal nodes, no route control, and no spatial relationship to monumental centres.
+
+It would also be weakened by a lack of convergent stress-wear, high-intensity fracture usage, accelerated repair, or restricted-window use patterning on the ground-stone assemblage. A third weakening condition would be evidence that contemporary T-pillar sites are distributed without relation to approach routes, visibility, choke points, or resource basins.
+
+17. Figure plan for v1.0: three-zone spatial matrix
+
+Figure 1 should model three zones rather than a single undifferentiated site map. Zone 1 is the exposed feeder landscape: wild grain stands, harvesting pathways, minor ephemeral storage caches, initial grain handling, and isolated workers carrying high-fatigue labour loads. This is the high-exposure, low-structure zone.
+
+Zone 2 is the warning threshold: topographic compression, approach queues, terrace lines, screens, high mutual visibility, resident clustering, and domestic dogs capable of converting stealth or ambush into acoustic notice where food, people, scraps, and sleeping bodies cluster.
+
+Zone 3 is the monumental core: T-pillar enclosures, ritual display, coalition presence, communal spaces, and the unusually large aggregated processing toolkit. Direct traces of physical violence are expected to be lower here than in feeder routes and threshold zones because the core functions as the strongest counter-signal.
+
+The map rule is temporal fit: geography must match the period being argued. Modern rivers, modern greenery, and modern settlement logic should not be allowed to substitute for early Holocene conditions. The figure should mark uncertainty rather than pretending to solve it.
+
+18. Public and academic language note
+
+Version 0.96 keeps the main text close to ordinary archaeological language. The v1.0 pass can continue that translation without changing the paper spine: do not let one known role swallow another, do not turn absence into proof too quickly, and keep speculative mechanisms in rank until data supports them.
+
+For v1.0, earlier local vocabulary can be mapped onto standard terms such as underdetermination, equifinality, formation processes, missing perishable material, partial evidence, confidence ranking, and premature explanatory closure. The human-review branch should read like archaeology first and project terminology second.
+
+The internal shorthand can remain offstage in publication prose. The archaeological translation is enough: repeated practical safety behaviour can become regional meaning after failed approaches teach competitors that a visible form marks hard chronic resistance.
+
+Conclusion
+
+Version 0.96 consolidates the demographic/resource engine, worker-risk layer, and copied-visible-system layer around a positive material anchor: the unusually large ground-stone assemblage at Gobekli Tepe. The thesis is no longer a trap claim. It is a protected-processing claim inside a ritual-social system. The paper also separates agricultural capability from agricultural viability: people may have known how to grow, process, store, fence, and gather food before they knew how to make stationary life safe and reliable.
+
+The paper should not depend on crisis. Hard winters, failed seasons, disease, and missed hunts could intensify pressure, but the base mechanism is ordinary success under weak coordination. Successful bread-making and storage can raise population, increase grain draw, shrink older fallback space, and make visible processing worth watching. Imitation then erodes the first technical advantage. The durable advantage lies in organisation: protected workers, controlled routes, witnesses, guest conversion, and repeated visible form.
+
+The behavioural sequence is simple: B1 feels safer, B1 repeats, M1 tests, M1 fails, M1 remembers, and the form inherits the bite. Site food events, smoke, grinding, visitors, monumentality, and regional node position could make the system visible to hungry outsiders. Its ritual core, stone persons, threshold routes, coalition signal, safe processing role, and outer-route affordances could convert many outsiders into guests, witnesses, allies, or warned rivals before violence formed.
+
+The v0.96 hardening is that theft of processed food is too mild as the only threat model, crisis is too narrow as the only engine, and proto-law is too institution-heavy as the outcome. The stronger risk is control of the exposed food worker within a demographic pressure field created by successful cereal processing. A protected processing node says that the worker is not alone. Repetition and failed testing can then make the visible form inherit hard chronic resistance.
+
+Appendix A. Low-rank taphonomic and competitor notes
+
+Bone is not proposed as primary raider bait. In the main argument it should be treated only as taphonomic and resident delayed-value context: marrow, mineral, tool stock, animal feed, ritual matter, trace-loss pathway, and food-scent source. Bone fragments and food waste can attract suids, canids, vultures, and other scavengers into known observation zones. This may help explain why traces move, vanish, or acquire gnaw marks, but it is not a main explanation for the site. [18-20]
+
+Large carnivores such as bears should remain an appendix-grade competitor note. A wounded bear is not dependable meat unless it dies nearby. The value of shooting or displacing such an animal may be competitor reduction around nuts, honey, carrion, stores, or processing zones. This remains an opportunistic scarcity-ecology note, not a core part of the protected-processing model.
+
+References and source anchors
+
+[1] UNESCO World Heritage Centre. Gobekli Tepe: dates, setting, T-pillars, and ritual framing. https://whc.unesco.org/en/list/1572/
+
+[2] Dietrich et al. 2019. Cereal processing at Early Neolithic Gobekli Tepe, southeastern Turkey. PLOS ONE. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0215214
+
+[3] Pollath et al. 2018. Almost a chest hit: an aurochs humerus with hunting lesion from Gobekli Tepe. Quaternary International. https://www.sciencedirect.com/science/article/abs/pii/S104061821731296X
+
+[4] DAI, The Tepe Telegrams. On the hunt, some 12,000 years ago: an aurochs bone with hunting lesion from Gobekli Tepe. https://www.dainst.blog/the-tepe-telegrams/2018/01/17/on-the-hunt-some-12-000-years-ago-an-aurochs-bone-with-hunting-lesion-from-gobekli-tepe/
+
+[5] Gresky et al. 2017. Modified human crania from Gobekli Tepe provide evidence for a new form of Neolithic skull practice. Science Advances. https://www.science.org/doi/10.1126/sciadv.1700564
+
+[6] DAI, The Tepe Telegrams. Evidence for skull practice at Gobekli Tepe. https://www.dainst.blog/the-tepe-telegrams/2017/06/28/new-publication-in-science-advances-evidence-for-skull-cult-at-gobekli-tepe/
+
+[7] Peters and Schmidt 2004. Animals in the symbolic world of Pre-Pottery Neolithic Gobekli Tepe. Anthropozoologica. https://sciencepress.mnhn.fr/en/periodiques/anthropozoologica/39/1/les-animaux-dans-le-monde-symbolique-du-ppnb-de-gobekli-tepe-turquie-du-sud-est-premiere-evaluation
+
+[8] Lang et al. 2013. Gazelle behaviour and human presence at early Neolithic Gobekli Tepe, south-east Anatolia. World Archaeology. https://www.researchgate.net/publication/263242061_Gazelle_behaviour_and_human_presence_at_early_Neolithic_Gobekli_Tepe_south-east_Anatolia
+
+[9] DAI, The Tepe Telegrams. Ritual practices and conflict mitigation at early Neolithic Kortik Tepe and Gobekli Tepe. https://www.dainst.blog/the-tepe-telegrams/2019/03/12/new-publication-ritual-practices-and-conflict-mitigation-at-early-neolithic-kortik-tepe-and-gobekli-tepe/
+
+[10] Kinzel and colleagues. Built on Rock: reconstruction of the Neolithic topography of Gobekli Tepe. https://publications.dainst.org/journals/istmitt/article/view/4708/8479
+
+[11] DAI, The Tepe Telegrams. T-pillars and anthropomorphic features. https://www.dainst.blog/the-tepe-telegrams/tag/t-pillars/
+
+[12] The Tepe Telegrams. Current distribution of sites with T-shaped pillars. https://tepetelegrams.wordpress.com/2016/05/08/the-current-distribution-of-sites-with-t-shaped-pillars/
+
+[13] Smith 2001. Low-Level Food Production. Journal of Archaeological Research. https://faculty.washington.edu/stevehar/Smith%202001-%20Low%20Level%20food%20Production.pdf
+
+[14] Zeder 2011. The Origins of Agriculture in the Near East. Current Anthropology. https://www.journals.uchicago.edu/doi/10.1086/659307
+
+[15] International Commission on Stratigraphy. International Chronostratigraphic Chart and Holocene boundary. https://stratigraphy.org/chart
+
+[16] Knitter et al. 2019. Gobekli Tepe: A Brief Description of the Environmental Development in the Surroundings of the UNESCO World Heritage Site. Land. https://www.mdpi.com/2073-445X/8/4/72
+
+[17] Arranz-Otaegui et al. 2018. Archaeobotanical evidence reveals the origins of bread 14,400 years ago in northeastern Jordan. PNAS. https://www.pnas.org/doi/10.1073/pnas.1801071115
+
+[18] NIH Office of Dietary Supplements. Calcium fact sheet for health professionals. https://ods.od.nih.gov/factsheets/Calcium-HealthProfessional/
+
+[19] Boskey and Coleman 2010. Bone composition and fragility. https://pmc.ncbi.nlm.nih.gov/articles/PMC3909232/
+
+[20] Feedipedia. Bone meal datasheet. https://www.feedipedia.org/node/219
