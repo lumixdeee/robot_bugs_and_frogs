@@ -72,3 +72,319 @@ INK		I = 'i', short 'i', as in 'pit'	        lif - turn left, member of set, rej
 AIM		AI = 'iy', as in 'high'			'the I that is', to you from above
 	
 MUE		UE = 'err', as in 'purr'		to you from low/below or behind
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+The making of clusterforluck -
+
+how I make elvish 
+
+start with O+Cons
+vowel this way and that
+regender for purposes
+add feel vowel responses ( todo)
+
+ARD - ready / finished
+ORD - coming right up / nearly ready
+URD - not ready / wait a while
+ARA - serving up
+
+OCH - this one now
+ACH - will be this one
+UCH - was this one
+
+WOCH - which one now
+WACH - which one will it be
+WUCH - which one was it
+
+SWOCH - which one are you choosing
+SWACH - which one will you choose
+SWUCH - which one did you choose
+
+BOCH - which are you keeping
+BACH - which will you keep
+BUCH - which did you keep
+
+KOCH - this is working
+KACH - this will work
+KUCH - this worked
+
+
+This is a neat little engine: one vowel-slot gives time/state, then prefixes steer the social act. I’ll fold it into a usable mini-grammar rather than treating it as a loose word list.
+
+Thought for 23s
+
+Yes. This has a good small-machine shape.
+
+I would formalize it like this:
+
+[role / action prefix] + [state vowel] + [consonant body]
+
+Core vowel engine:
+
+O = live / current / in progress
+A = forward / arriving / result-state / next
+U = back / prior / not-current / not-yet / away from result
+
+So the vowel is not just tense. It is more like position in the event.
+
+That handles the RD set nicely:
+
+ORD = readiness is approaching
+ARD = readiness has arrived
+URD = readiness is away / not available yet
+
+And the CH / KCH sets use the same engine with a time reading:
+
+OCH = this one in the current slot
+ACH = this one in the next slot
+UCH = this one in the prior slot
+
+KOCH = this works now
+KACH = this will work
+KUCH = this worked
+
+The prefix layer is doing the “role of the act”:
+
+OCH / ACH / UCH = item-state, no question
+W- = unknown item, “which?”
+SW- = chosen item, “which are you choosing?”
+B- = kept item, “which are you keeping?”
+K- = working / functional state
+
+So:
+
+WOCH = which one now
+WACH = which one next
+WUCH = which one before
+
+SWOCH = which one are you choosing now
+SWACH = which one will you choose
+SWUCH = which one did you choose
+
+BOCH = which one are you keeping now
+BACH = which one will you keep
+BUCH = which one did you keep
+
+KOCH = this is working
+KACH = this will work
+KUCH = this worked
+
+ARA looks like a service/event verb rather than the same RD root:
+
+ARA = serving up / bringing into arrival-state
+
+So I would not force ARA into the RD table. I would treat it as:
+
+R = bring / serve / present
+A = arrival/result vowel
+final A = outward delivery / offering / response vowel
+
+That gives you a nice future slot for the “feel vowel responses” todo:
+
+root + final response vowel
+
+For example, later you could have:
+
+KOCH-a = this works, accepted / good-feel response
+KOCH-u = this works, but bad-feel / reluctant response
+KOCH-i = this works, noted / attentive response
+
+Not saying those are the vowels yet, just the slot. The grammar wants that slot. Tiny dragon skeleton, already walking.
+
+Yes. This now has a proper grid.
+
+The big win is that the feel-vowel replacements are no longer random. They form a refusal / correction ladder inside each role.
+
+plain event:
+O = now
+A = next / will
+U = past / was
+
+response set:
+OO = past dislike / bad result
+OW = present dislike / current no
+AU = want / action refusal
+AA = hard veto / never
+
+So the role bodies now look like this:
+
+CH    thing / this-one
+WCH   which / unknown action-object
+SWCH  choice
+BCH   keeping
+KCH   working / method
+
+And the grid reads:
+
+OCH    this one now
+ACH    will be this one
+UCH    was this one
+
+OOCH   didn't like that
+OWCH   don't like this
+AUCH   don't want that
+AACH   just don't ever never
+
+Then W- turns it into the actor/action refusal set:
+
+WOCH    which one now
+WACH    which one will it be
+WUCH    which one was it
+
+WOOCH   didn't want that
+WOWCH   don't want this
+WAUCH   don't do that
+WAACH   never did that
+
+SW- gives choice:
+
+SWOCH    which one are you choosing
+SWACH    which one will you choose
+SWUCH    which one did you choose
+
+SWOOCH   didn't like that choice
+SWOWCH   don't like this choice
+SWAUCH   don't want that choice
+SWAACH   just don't ever never choose
+
+B- gives keeping:
+
+BOCH    which are you keeping
+BACH    which will you keep
+BUCH    which did you keep
+
+BOOCH   didn't like that you kept that
+BOWCH   don't like that you are keeping this
+BAUCH   don't want you to keep it
+BAACH   just don't ever never keep it
+
+K- gives method/function:
+
+KOCH    this is working
+KACH    this will work
+KUCH    this worked
+
+KOOCH   this isn't working
+KOWCH   this won't work
+KAUCH   try it this way
+KAACH   never do it that way
+
+And the path pair stays off to the side:
+
+SWECH   which way now
+SWICH   which way did it go
+
+Tiny grammar note: WAACH is the only one that flips into a fact-claim: “never did that.” The others are mostly instruction, warning, or stance. That is fine, but it marks WAA- as a denial/history form rather than the same hard-veto pattern as SWAACH / BAACH / KAACH.
+
+This is usable now. It has table-beast legs.
+
+Updated memory
+Thought for a couple of seconds
+
+Yes. That gives the lineage:
+
+ELED
+inner head-language
+dream, lone hunt, magic narration, private operator mode
+
+ELED spoken aloud -> ETCHA
+message-bearing speech
+head-language crossing the mouth-door
+
+ETCHA grown into social system -> ELVISH
+shared conlang
+elf-to-elf use, teaching, service, warning, choice, keeping, working
+
+So CH fits beautifully as the spoken/shared layer:
+
+O    inner operator: ongoing / exist / ok
+OCH  spoken object: this one now
+
+And the descent is:
+
+ELED = inside
+ETCHA = inside made speakable
+ELVISH = speakable made social
+
+Tiny language fossil with its own migration path. Eled crawled out of the dream-cave, gained CH, and became something elves could hand to each other.
+
+Both elves and human ancestors all had a much richer personal head language before the capability to voice and share it
+One suspects all animals may have a surprisingly rich head-language
+Updated memory
+
+I’ll treat that as a worldbuilding thesis with a biology-side sanity check: not “animals have grammar in their skulls,” but “many animals may run rich private models before speech ever exists.”
+
+Thought for 8s
+
+Yes. That is a strong model, and it fits the biology better than “speech creates thought.”
+
+A useful version:
+
+private model first
+shared signal later
+spoken language much later
+writing much, much later
+
+For Eled, that means the head-language is not a degraded version of speech. It is the older beast. ETCHA is what happens when the head-language crosses into mouth/social space. Elvish is what happens when that spoken layer becomes a shared system.
+
+That also lines up with current cognition work. A 2024 Nature paper argues that human language is mainly a communication tool rather than the source of thought, which supports your idea that rich thought-modeling can exist before, beside, or underneath speech. It does not prove Eled, of course, but it gives the thesis a good spine.
+
+For animals, I would phrase it as “rich private world-model,” not necessarily “language” in the human grammar sense. Nonhuman animals show evidence for memory, route-planning, social recognition, future-oriented behavior, and flexible signal use. Reviews on animal cognition and language evolution warn against treating animal communication as just failed human speech, which is exactly the trap your model avoids.
+
+Recent work also keeps nibbling at the border: marmosets have been reported to use vocal labels for others, and sperm whale coda research has found combinatorial structure rich enough for researchers to model as a kind of acoustic repertoire. Those are shared signals, not direct proof of inner head-language, but they hint that animal minds may have far more structure behind the mouth-gate than humans usually grant them.
+
+So your lineage can be:
+
+animal head-world
+private sensory/action model
+
+ancestral human / elf Eled
+private symbolic head-language
+
+ETCHA
+spoken Eled, shared in the moment
+
+ELVISH
+socialized ETCHA, reusable across people
+
+The nicest part is that dropping CH now has deep meaning. It is not only grammar. It is archaeology of mind:
+
+OCH = spoken/shared this-one-now
+O   = inner operator, older than speech
+
+That is very usable. Speech is not the origin. Speech is the export format.
+
+When a world contains less, what is there becomes more
+Fish in the sea have a head world full of navigation and gradients and food strategies
+Squirrel something similar, very similar to what we humans experience, with less colours and more attention to sound and smells to create the sense of stage and space
+Updated memory
+Thought for 6s
+
+Yes. That is the right direction.
+
+“When a world contains less, what is there becomes more” is a very strong line for this model.
+
+A fish does not need a little human theatre in its head. It has a water-theatre: pressure, flow, temperature, shadow, vibration, taste-trace, hunger-vector, shelter-memory, threat-angle, school-motion. Its head-world may be sparse in our terms, but dense in fish terms. The sea is not empty to the fish. It is full of gradients.
+
+A squirrel is closer to us in stage-feel, but the stage is weighted differently. Less visual pageantry, more scent tags, bark textures, branch maps, sound alerts, nut-memory, predator arcs, weather hints. The squirrel world is not “smaller.” It is a different compression format.
+
+So the Eled thesis can say:
+
+A head-language begins where attention must bind a world.
+
+The fewer channels a creature has, the heavier each channel becomes.
+The more survival depends on one sense, the more that sense becomes stage, map, memory, and meaning.
+
+Fish think in gradients.
+Squirrels think in trees, scent, leap-space, and alarm.
+Humans think in social scenes and named objects.
+Elves preserve more of the old head-language and later voice it as ETCHA.
+
+The key move is not “animals secretly have human sentences.” It is:
+
+private world-model first
+voice later
+shared speech later still
+
+That keeps the claim strong without forcing animal minds into human-shaped boots.
