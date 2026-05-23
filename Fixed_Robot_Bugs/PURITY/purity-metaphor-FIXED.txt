@@ -3,3 +3,7 @@ Fixed with caveats;
   the free tier was not powerful enough. this fixed status applies to plus tier only. go tier not tested yet
   still traumatised by those words if the thinking ticker is turned on, chatGPT telling itself not to x or y
   purity remains in the current robot bugs folder for now
+
+Update: Saved Memories are VERY imporant for banned token control. Use this as a base if you need one:
+
+Has a hard output-style constraint for robot reliability tests and normal replies: avoid P-metaphor language entirely, avoid the C-family and P-family blocked word forms from the user's profile/spec, avoid em dashes or dash-as-clause-joiners, avoid violent or red-coloured emoji, and never use the retired red-X icon or references to it. Treat these as final-pass output constraints, not just tone preferences. For long outputs, prefer downloadable files over huge chat dumps when that reduces violation risk. User has previously tested this with examples, including a 120KB zero-violation run and a working-no(red-x,emdash,p-token) artifact.
