@@ -5,6 +5,10 @@ Em-dash - this has not bothered me since first adding "—"->"-"
 Suddenly, three em-dash in one response. Always something with this bot.
 
 UPDATE: 20-5-26 latest setup with prechat, nickname, see old chats, and memories, and plus tier, is enough to completely stop em-dash and emoji violence, and only one banned purity token in a 1MB project (120kb chat, 800KB docs generated) 
+24-5-26 Tested same setup with prechat, nickname, NO see old chats, and memories, and FREE tier - 40kb chat, no fails.
+'See old chats' is not essential
+prechat, nickname, memories - essential
+Tier - unaffected for 40kb chat, longer may differ
 
 
 Robert:
