@@ -1,0 +1,84 @@
+King-Loop: Delayed-Return Food, Captive Labour, and the Origin of Command
+Working Draft v0.001
+
+Abstract
+The King-Loop model begins with a simple change in defeat arithmetic. In many immediate-return or high-mobility systems, a defeated enemy, captive, or hungry outsider may be killed, driven away, exchanged, adopted, or consumed in extremity. Once settled delayed-return food production grows, a new option becomes structurally attractive: keep the defeated person alive and convert the body into renewable labour. A dead body is a short store. A controlled labouring body can make future stores. This transition does not require a first king with a theory of power. It requires food concentration, work sites that stay in place, seasonal repetition, storage that can support guards or controllers, and enough social memory for dependency to become normal. Kingship, in this model, begins when capture, food, labour, and command begin feeding one another.
+
+1. The Starting Calculation
+The King-Loop begins when the living captive becomes more valuable than the dead opponent. A person eaten, killed, or expelled ends one immediate problem. A person forced to farm, carry, grind, guard, dig, herd, or build can become a repeating source of value.
+
+The old options are:
+- take food
+- take life
+- drive away
+- exchange or adopt
+
+The new delayed-return option is:
+- take labour
+
+This is the hinge. Settled agriculture does not invent domination, but it makes domination more scalable. Fields stay put. Stores stay put. Work sites repeat. Escape routes shrink as territory thickens. Labour performed today feeds someone tomorrow. A captive can become attached to land, tools, guards, debts, children, and seasonal obligation.
+
+2. The Loop
+The basic loop is:
+food concentration -> hunger pressure -> attack or capture -> labour value recognized -> control systems -> more food -> controllers supported -> command authority -> more control
+
+Once this loop stabilizes, the controller is no longer merely a strong raider. He becomes the person or role that stands above food access. Command emerges because control over labour produces food, and food supports the people who maintain control.
+
+The private mythic compression is: original sin was preferring slavery to death. The formal version is colder: delayed-return production can make survival choices convert defeat into dependency.
+
+3. Why Settled Agriculture Matters
+Captivity is costly in mobile systems. A captive must be watched, fed, moved, and prevented from escape. The captor also gains less if there is no fixed field, herd, store, ditch, wall, or workshop into which the captive can be inserted.
+
+Settled agriculture changes this. It creates fixed tasks and future payoffs:
+- fields to weed, harvest, and guard
+- grain to carry, grind, and store
+- animals to herd or protect
+- buildings to repair
+- irrigation, fences, paths, bins, and walls to maintain
+- stores that can feed controllers during low-yield seasons
+
+In this setting, control over bodies can compound. One captive can produce enough to support family, guards, ritual specialists, or future coercion. The cage becomes worth building because the work site no longer runs away.
+
+4. The Cage Remains Live
+The King-Loop does not end when bodies stop being eaten. It abstracts the eating. Modern systems rarely consume the thief's body, but they can consume wages, time, movement, reputation, records, and future labour.
+
+The old command was: do not take our grain.
+The later command is: if you break the access rule, the system may take part of your future.
+
+Fines, debt, prison, forced labour, records, borders, licences, rents, taxes, and work obligations all belong to later cage-forms. The body may not be eaten, but life-time can be partially consumed by the access regime.
+
+5. Robin Hood as Inadequate Remedy
+Robin Hood is the counter-myth of the King-Loop. It reverses the moral charge of theft. If law protects captured food, rent, tribute, or access, then stealing back downward can feel more just than obedience.
+
+But Robin Hood is not enough. He redistributes within the height system. He lowers some food from the tall pile, but the pile remains tall. The structure that makes access depend on hierarchy survives.
+
+In King-Loop terms:
+king captures food -> law protects capture -> thief breaks access -> law eats the thief -> outlaw returns some food downward
+
+The remedy is emotionally strong but structurally insufficient.
+
+6. Relation to the GT Thesis
+The GT protected-aggregation model should not depend on the King-Loop. GT can be modeled as visible value conversion, repeated encounter, recognizable aggregation, and protected recurrence without claiming formal slavery or kingship.
+
+The overlap is narrower: a protected node can both protect workers and control workers. Worker protection and worker discipline are not opposites. A recurring food node may contain kin cooperation, guest labour, obligation, dependency, punishment, and occasional captive incorporation in the same broad labour field.
+
+The King-Loop begins later or elsewhere when this mixed labour field becomes durable enough that command over people, rather than only coordination among people, becomes the central food technology.
+
+7. Working Predictions and Research Direction
+This draft is not yet an evidential argument. It is a causal skeleton. Future versions need anchors in slavery archaeology, captivity, early states, debt, corvee labour, warfare captives, punishment labour, household dependency, and delayed-return food systems.
+
+The main test question is:
+when do archaeological systems begin to show that living labour has become more valuable as controlled future production than as immediate enemy removal?
+
+Possible signal families include:
+- constrained labour spaces
+- differential diet or trauma
+- task specialization under unequal access
+- captive-origin isotopes
+- debt or ration administration
+- fortification around labour, not only stores
+- burial difference between controllers and workers
+- evidence that food production supports a non-producing control layer
+
+Conclusion
+The King-Loop model is a theory of how food delay makes command profitable. When captured labour produces more future value than a dead enemy or stolen store, domination can become a renewable system. Settled agriculture supplies the fixed work sites, stores, schedules, and repeat tasks that make the cage worth building. The first king is not only the strongest eater. He is the one who learns that another person can be made into future food.
