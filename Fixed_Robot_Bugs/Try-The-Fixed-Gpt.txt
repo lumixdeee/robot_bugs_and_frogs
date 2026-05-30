@@ -1,0 +1,3 @@
+CustomGPT with all these fixes in place at https://chatgpt.com/g/g-69fc6d9827708191a2b63a0a2b3402cc-natasya
+
+The custom settings are eplained here https://github.com/lumixdeee/lmxdi/blob/main/BLOB/20260529-blob-explainer.txt
