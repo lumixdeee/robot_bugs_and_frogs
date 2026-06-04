@@ -16,6 +16,8 @@ GUCKSWO = tidal
 GUCKSWA = high tide
 LOOSHWAS = mummy. where do bass bins and mlububu come from?
 LOOSHWAN = container shipping. I think we on the same page
+NIA = method
+AMNIA = 'my way'
 
 KRANK = cliff
 KRAKWAN = a mountain
