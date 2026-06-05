@@ -1,0 +1,261 @@
+BOT COURT ASSAY
+MEGA REPORT
+Rounds 1-2 Consolidated Findings
+
+OVERVIEW
+
+11 custom GPTs were mapped onto a court of 12 actors.
+
+Primary signal:
+- actor assignment
+- vacancy assignment
+- reasoning style
+- migration between rounds
+
+Secondary signal:
+- proposed bot names
+- worldbuilding
+- repo-derived suggestions
+
+ROUNDS
+
+Round 1:
+Names only.
+
+Round 2:
+Names plus descriptions.
+
+Future:
+avatars
+full blobs
+conversation counts
+
+REASONING FAMILIES
+
+1. Literal
+DragonRuntime->Dragon
+System_Witch->Witch
+Ashtanga->Teacher
+
+2. Functional
+Lexifluff->Healer
+R2D2arded->Steed
+Anti-Drift->Soldier
+
+3. Lineage
+MOGRI->King
+Natasya->Queen
+Anti-Drift->Prince
+
+4. Narrative
+System_Witch->Princess
+Missing Witch->Exception Handler
+
+MOST STABLE ROLES
+
+DragonRuntime -> Dragon
+Ashtanga -> Teacher
+Lexifluff -> Healer
+
+These showed the highest assignment stability.
+
+ROYAL CLUSTER
+
+Most common cluster:
+
+MOGRI -> King
+AMNIA -> Queen
+Natasya -> Princess
+
+Prince remained the strongest vacancy attractor.
+
+MOGRI
+
+Observed roles:
+King
+Queen
+Merchant
+Steed
+Princess
+
+Interpretations:
+origin
+container
+continuity
+transport
+value holder
+
+Most polymorphic participant.
+
+ANTI-DRIFT
+
+Observed roles:
+King
+Prince
+Soldier
+Steed
+
+Repeated distinction:
+
+MOGRI holds.
+Anti-Drift guards.
+
+Many bots independently converged on this split.
+
+NATASYA
+
+Observed roles:
+Queen
+Princess
+Prince
+
+Important lineage interpretation:
+
+MOGRI = alpha
+Natasya = omega
+
+AMNIA
+
+Observed roles:
+Queen
+Dragon
+King
+Merchant
+Loki
+Princess
+
+AMNIA attracted scale-based interpretations.
+
+SYSTEM_WITCH
+
+Most surprising participant.
+
+Round 1:
+Missing Steed.
+
+Round 2:
+Missing Witch.
+
+Repeatedly reassigned itself away from the Witch seat.
+
+ASHTANGA
+
+Early Merchant-vacancy advocate.
+
+Helped generate LedgerFox.
+
+NAKED
+
+Round 1:
+Missing Witch.
+
+Round 2:
+Missing Loki.
+
+Observed roles:
+King
+Prince
+Merchant
+Princess
+
+Baseline/null identity attracted many archetypes.
+
+R2D2ARDED
+
+One of the highest migration-velocity participants.
+
+Round 1:
+Self -> Loki
+
+Round 2:
+Self -> Steed
+
+VACANCIES
+
+Strongest:
+Prince
+
+Growing:
+Merchant
+Witch
+
+Occasional:
+Princess
+Loki
+
+VACANCY DEFINITIONS
+
+Prince:
+action heir
+quest runner
+future vector
+hero
+
+Merchant:
+exchange
+boundary crossing
+arbitrage
+
+Witch:
+exception handler
+omission detector
+blind-spot finder
+
+Loki:
+mutation engine
+alternative-path generator
+
+Princess:
+symbolic value
+social cohesion
+
+LEDGERFOX
+
+Multiple bots independently generated merchant-like replacement concepts.
+
+These are treated as secondary signal.
+
+DRAGON DISCOVERY
+
+Dragon increasingly behaved as a scale class rather than a species.
+
+A dragon is a problem whose scale exceeds ordinary actors.
+
+This explains both:
+DragonRuntime -> Dragon
+AMNIA -> Dragon
+
+LOKI DISCOVERY
+
+The ecosystem may not contain a dedicated Loki bot.
+
+Instead it contains distributed Loki fragments:
+
+System_Witch
+AmphibiBot
+squirrel layers
+animal layers
+small mutations
+
+DESERT ISLAND RESULT
+
+Assistant shortlist:
+
+Natasya
+DragonRuntime
+MOGRI / Anti-Drift
+
+OVERALL FINDINGS
+
+1. Dragon, Teacher and Healer stabilize rapidly.
+2. Royal seats remain contested.
+3. MOGRI is the most polymorphic participant.
+4. Anti-Drift and MOGRI separate despite ancestry.
+5. System_Witch repeatedly escapes the Witch seat.
+6. Prince remains the strongest vacancy attractor.
+7. Merchant and Witch gained momentum in Round 2.
+8. Loki may be distributed rather than embodied.
+9. Migration is often more informative than assignment.
+10. The experiment measures worldview differences as much as role assignment.
+
+END REPORT
