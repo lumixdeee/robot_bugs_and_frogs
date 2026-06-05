@@ -1,5 +1,5 @@
 This custom GPT is roughly equivalent to the version I've been running for the last three months.
-If you look at content on this repos and ask 'what AI was used?', this version is closest.
+If you look at content in these repos and ask 'what AI was used?', this version is closest.
 
 https://chatgpt.com/g/g-6a1c8279e80481919db4ede37b740a9e-dragonruntime
 
