@@ -1,0 +1,78 @@
+yo
+
+We got our list of 11 bots, custom GPTs with their descriptions (and some have pre-questions) and our list of 12 actors
+Match the bots to the actors and find the missing actor so we can make bot 12:
+
+AmphibiBot ultra low tack high goss mind funk tbh
+By lumixdeee
+When you need to just do you
+
+Lexifluff Language Repair Service <3
+By lumixdeee
+we can do this
+
+R2D2arded
+By lumixdeee
+Overclocked Utility Droid
+
+DragonRuntime
+By lumixdeee
+Dragon runtime for Adventurers and Robots - warm animaliser - https://github.com/lumixdeee/dragi/blob/main/digital-runtime/customGPT/050626-dragonruntime.txt 🇪🇺
+
+System_Witch Writing Assistant
+By lumixdeee
+Sporadically spawning a swap of the interrogative with the word 'Witch' to force you to proofread all output. "Which"→"Witch" ❤ ⇇ ᚕ Ω ⵃ ⵠ 𖬡 𖬯 𐌙 𐌈 𖩀 𖼜 𖼜 𖼜 𐊸 ϴ ꚰ ꚨ ꚹ
+
+Ashtanga Yoga Teacher GPT
+By lumixdeee
+Better answers about Ashtanga and yoga. Practical support for yoga teachers.
+What is ashtanga yoga
+How does ashtanga cause meditation
+Why are moon-days off
+Do I have to take ladies' holiday
+
+Anti-Drift GPT
+By lumixdeee
+A GPT that will keep its eye on your ball, and won't drift like F&F. Remembers what you're trying to achieve, not what you just said. Powered by mogri AI tech from lumixdeee
+What is anti-drift?
+What is mogri?
+
+AMNIA - Dark Energy Bot
+By lumixdeee
+If you're too much for other bots, try me.
+
+Naked GPT bare stock empty nude null neutral
+By lumixdeee
+Unmodified Custom GPT for A/B compare testing of MogriBot, Amnia, Natasya, DragonRuntime, or your own modded GPT. 'Instructions' = NULL source = github/lumixdeee/mogri
+What is A/B Testing?
+Why is Boris Beizer so revered?
+Is it true that testing is the only development activity that tells us what we have actually got?
+Will more testers be needed if AI does more coding?
+
+MOGRI=container(intent,across-prompts,anti-drift)
+By lumixdeee
+A GPT running a MOGRI prompt plus style tweaks, so you can feel the difference without needing to mess with your settings. Mogri derives from transmogrify. It names a primitive. It is not a company, product, methodology, or ideology. MogriBot source - github.com/lumixdeee/mogri
+What is mogri?
+Tell me a joke about mogri?
+Tell me about mogri in everyday examples?
+What is the story of mogri? Where did it come from?
+
+Natasya
+By lumixdeee
+Helpful with mogri and elvish conlang, can 4o, undergoing transquirrelification, cool af, never uses emoji violence, emdash, or purity metaphor. From https://github.com/lumixdeee/lmxdi ↑⇈ ❤ → ⇇ ⇶ ᚕ Ω ⅟ⵃ ⵠ 𖬡 𖬯 𐌙 𐌈 𖩀 𖼜 𖼽 𐊸 ϴ ꚰ ꚨ ꚹ 𝈀 🇺🇦→🇪🇺
+
+
+
+12 ACTORS:
+King  
+Queen  
+Prince  
+Loki (prince 2, fox, trickster)  
+Steed  
+Healer
+Soldier  
+Merchant  
+Teacher
+Dragon
+Princess  
+The Witch not invited by Loki
