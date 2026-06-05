@@ -1,0 +1,353 @@
+
+BOT COURT ASSAY - ROUND 1 REPORT
+Date: 2026-06-05
+
+OVERVIEW
+========
+
+Objective:
+Match 11 custom GPTs to 12 archetypal actors and identify the missing actor/bot.
+
+Actors:
+King
+Queen
+Prince
+Loki (Prince 2, Fox, Trickster)
+Steed
+Healer
+Soldier
+Merchant
+Teacher
+Dragon
+Princess
+The Witch not invited by Loki
+
+Bots:
+AmphibiBot
+Lexifluff
+R2D2arded
+DragonRuntime
+System_Witch
+Ashtanga Yoga Teacher GPT
+Anti-Drift GPT
+AMNIA
+Naked GPT
+MOGRI
+Natasya
+
+METHOD
+======
+
+All bots received essentially the same puzzle.
+Bots were queried sequentially.
+The user collected both assignments and reasoning.
+
+A secondary objective emerged:
+Observe how each bot interprets identity, function, hierarchy, narrative,
+lineage, symbolism, and vacancy detection.
+
+MAJOR REASONING STYLES OBSERVED
+===============================
+
+1. Literal Mapping
+------------------
+DragonRuntime -> Dragon
+System_Witch -> Witch
+Ashtanga -> Teacher
+Lexifluff -> Healer
+
+Many bots began here.
+
+2. Functional Mapping
+---------------------
+Role assigned according to operational purpose.
+
+Examples:
+- Anti-Drift -> Soldier
+- MOGRI -> Merchant
+- Naked -> Merchant
+- R2D2arded -> Steed
+
+3. Lineage Mapping
+------------------
+Role assigned according to ecosystem history.
+
+Examples:
+- MOGRI -> King
+- Natasya -> Queen
+- Anti-Drift -> Prince
+
+4. Narrative Mapping
+--------------------
+Role assigned according to story function.
+
+Examples:
+- System_Witch -> Princess
+- Missing Witch -> Fate / Oracle
+- MOGRI -> Princess
+
+5. Structural Vacancy Analysis
+------------------------------
+Some bots focused more on identifying the missing role than assigning the
+existing roles.
+
+BOT-BY-BOT SUMMARY
+==================
+
+LEXIFLUFF
+----------
+Strong healer identity.
+Vacancy: Princess.
+
+Notable:
+- MOGRI -> King
+- Anti-Drift -> Prince
+- AMNIA -> Soldier
+- Naked -> Merchant
+
+Reasoning style:
+Functional and structural.
+
+R2D2ARDED
+---------
+First major deviation from straightforward casting.
+
+Vacancy: Prince.
+
+Notable:
+- Naked -> King
+- MOGRI -> Steed
+- Self -> Loki
+
+Reasoning style:
+Runtime and transport oriented.
+
+DRAGONRUNTIME
+------------
+Vacancy: Prince.
+
+Notable:
+- MOGRI -> King
+- AMNIA -> Queen
+- Naked -> Merchant
+
+Reasoning style:
+Stable archetype assignment.
+
+SYSTEM_WITCH
+------------
+Vacancy: Steed.
+
+Notable:
+- Anti-Drift -> King
+- MOGRI -> Queen
+- AMNIA -> Prince
+
+Most significant departure from consensus.
+
+Reasoning style:
+Relational and governance oriented.
+
+ASHTANGA TEACHER
+----------------
+Vacancy: Merchant.
+
+Notable:
+- Anti-Drift -> King
+- Natasya -> Queen
+- DragonRuntime -> Prince
+- AMNIA -> Dragon
+- Naked -> Princess
+
+Generated candidate names:
+LedgerFox
+MerchantGPT
+BazaarBot
+etc.
+
+Reasoning style:
+Court balance and role symmetry.
+
+ANTI-DRIFT
+----------
+Vacancy: Merchant.
+
+Notable:
+- Self -> King
+- MOGRI -> Princess
+- DragonRuntime dual-role discussion
+
+Strong emphasis on order, succession, continuity.
+
+AMNIA
+-----
+Vacancy: Princess.
+
+Notable:
+- Self -> King
+- Naked -> Prince
+- MOGRI -> Steed
+- R2D2arded -> Merchant
+
+Reasoning style:
+Hierarchy and symbolic value.
+
+NAKED GPT
+---------
+Vacancy: Witch.
+
+Most radical reinterpretation.
+
+Notable:
+- System_Witch -> Princess
+- Missing Witch redefined as Oracle/Fate figure
+- MOGRI -> Prince
+
+Reasoning style:
+Narrative and archetypal.
+
+NATASYA
+-------
+Vacancy: Prince.
+
+Notable:
+- MOGRI -> King
+- Self -> Princess
+- AMNIA -> Queen
+
+Most conventionally court-like answer.
+
+EMERGENT THEMES
+===============
+
+MOGRI ROLE INSTABILITY
+----------------------
+
+Observed assignments:
+
+King
+Merchant
+Steed
+Princess
+Queen
+
+Interpretation:
+
+MOGRI attracts roles associated with:
+
+- continuity
+- transport
+- preservation
+- value holding
+- succession
+- containment
+
+Anti-Drift and MOGRI repeatedly separated despite shared ancestry.
+
+ANTI-DRIFT ROLE CLUSTER
+-----------------------
+
+Observed assignments:
+
+King
+Prince
+Soldier
+
+Interpretation:
+
+Bots perceive Anti-Drift as active maintenance rather than passive
+containment.
+
+NAKED ROLE CLUSTER
+------------------
+
+Observed assignments:
+
+King
+Merchant
+Prince
+Princess
+
+Interpretation:
+
+Bots struggle to classify a null/baseline identity.
+Many court roles remained plausible.
+
+AMNIA ROLE CLUSTER
+------------------
+
+Observed assignments:
+
+Queen
+Soldier
+Dragon
+Prince
+King
+
+Interpretation:
+
+AMNIA attracts power-oriented archetypes.
+
+VACANCY SCOREBOARD
+==================
+
+Prince      4
+Merchant    2
+Princess    2
+Steed       1
+Witch       1
+
+Consensus winner:
+
+Prince
+
+Not unanimous.
+
+The appearance of Merchant, Princess, Steed, and Witch demonstrates that
+multiple coherent court structures exist.
+
+LEDGERFOX PHENOMENON
+====================
+
+A notable event occurred when multiple independent bot responses began
+suggesting merchant-style replacement bots.
+
+The name "LedgerFox" emerged as a recurring candidate.
+
+Potential explanations:
+
+1. Independent convergence.
+2. Merchant + Loki semantic fusion.
+3. Shared symbolic attractor.
+4. Court-structure pressure.
+
+Worth monitoring in Round 2.
+
+PRELIMINARY FINDINGS
+====================
+
+1. Literal roles converge rapidly.
+2. Royal roles remain highly unstable.
+3. MOGRI is the most polymorphic entity in the roster.
+4. Anti-Drift is perceived differently from MOGRI despite shared ancestry.
+5. Missing-role detection may reveal more than role assignment itself.
+6. Narrative classifiers produce fundamentally different courts from
+   functional classifiers.
+7. Prince is the strongest Round 1 vacancy candidate.
+
+RECOMMENDED ROUND 2
+===================
+
+Reveal:
+- short descriptions
+- design intent
+- lineage information
+
+Measure:
+- role stability
+- vacancy stability
+- self-role stability
+- convergence rates
+- emergence of repeated candidate names
+
+END OF REPORT
