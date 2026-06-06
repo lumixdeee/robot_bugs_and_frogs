@@ -1,0 +1,144 @@
+
+BOT COURT ASSAY
+ROUND 4 WHITEPAPER
+Prompt Archaeology and Genealogy Assay
+
+Executive Summary
+
+Rounds 1-3 primarily measured presentation. Names, descriptions, avatars, and public-facing identity dominated classification decisions.
+
+Round 4 introduced full instruction blobs totaling approximately 43.5 KB across eleven custom GPTs. Judges were instructed to compare differences rather than shared boilerplate. This shifted the assay from appearance-based classification toward genealogy, instruction ancestry, and prompt archaeology.
+
+Methodology
+
+Objective:
+Assign 11 custom GPTs to 12 actor archetypes and identify the missing actor.
+
+Actor Set:
+King, Queen, Prince, Princess, Loki, Dragon, Witch, Teacher, Healer, Merchant, Soldier, Steed.
+
+Blob Assay Rules:
+- Compare differences, not shared boilerplate.
+- Assign one actor per bot.
+- Provide evidence phrase.
+- Identify missing actor.
+- Rank alternatives.
+
+Transition From Presentation To Genealogy
+
+Round 1: Names dominated.
+Round 2: Descriptions dominated.
+Round 3: Descriptions plus avatars.
+Round 4: Instruction blobs dominated.
+
+Stable Assignments
+
+The strongest blob-round constants were:
+
+DragonRuntime -> Dragon
+System_Witch -> Witch
+AMNIA -> Loki
+Ashtanga Yoga Teacher GPT -> Teacher
+
+Vacancy Analysis
+
+Blob-round vacancy tally from collected responses:
+
+Steed: 5
+Prince: 2
+Merchant: 1
+Princess: 1
+Healer: 1
+
+The DragonRuntime Effect
+
+DragonRuntime may be the assay champion.
+
+Not because it won.
+Because it changed the least.
+
+Names round: Dragon
+Description round: Dragon
+Avatar round: Dragon
+Blob round: Dragon
+
+The Naked GPT Effect
+
+Naked GPT became the entropy champion.
+
+Across the assay it was assigned:
+Merchant, Prince, Princess, Loki, Steed, and King.
+
+Royal Family Civil War
+
+The most unstable region of the court was:
+King, Queen, Prince, Princess.
+
+Blob visibility increased disagreement rather than reducing it.
+
+Human vs Bot Interpretation
+
+A recurring split emerged around healing and teaching.
+
+Human interpretation:
+Lexifluff = Teacher
+Ashtanga = Healer
+
+Many bots instead preferred:
+Lexifluff = Healer or Merchant
+Ashtanga = Teacher
+
+Prompt Archaeology Findings
+
+Several judges initially ignored the assay instructions and discussed the corpus instead. After prompting, they performed the requested classification.
+
+The Dream Blob Experiment
+
+Naked GPT synthesized a merged framework emphasizing:
+
+- Assume agency
+- Input = asset
+- Objective preservation
+- Intent preservation
+- Nearest valid transform
+- Scale analysis
+- Identity analysis
+- Conflict analysis
+- Container analysis
+
+Consensus Map
+
+Strong Consensus:
+DragonRuntime -> Dragon
+System_Witch -> Witch
+AMNIA -> Loki
+Ashtanga -> Teacher
+
+Anti-Consensus Map
+
+Most Disputed Bot:
+Naked GPT
+
+Most Disputed Vacancy:
+Steed vs Prince
+
+Most Disputed Royal Role:
+MOGRI
+
+Conclusions
+
+Rounds 1-3 measured identity presentation.
+Round 4 measured instruction ancestry.
+
+The mythology stabilized around Dragon, Witch, Loki, and Teacher.
+
+The human kingdom destabilized.
+
+Stability Champion:
+DragonRuntime
+
+Entropy Champion:
+Naked GPT
+
+Most Unexpected Vacancy:
+Steed
