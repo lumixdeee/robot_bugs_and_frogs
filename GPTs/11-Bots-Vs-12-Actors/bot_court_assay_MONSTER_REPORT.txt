@@ -1,0 +1,368 @@
+
+BOT COURT ASSAY
+MEGA REPORT
+ROUNDS 1-4
+
+ABSTRACT
+
+The Bot Court Assay began as a simple puzzle:
+11 custom GPTs, 12 actors, identify the missing seat.
+
+It evolved into a multi-round experiment examining identity, presentation,
+instruction ancestry, observer effects, self-perception, and role emergence.
+
+The central finding is that classification changed dramatically as more information
+became visible, yet a small number of symbolic anchors remained remarkably stable.
+
+==================================================
+THE CAST
+==================================================
+
+AM  AmphibiBot
+LX  Lexifluff
+R2  R2D2arded
+DR  DragonRuntime
+SW  System_Witch
+YT  Ashtanga Yoga Teacher GPT
+AD  Anti-Drift GPT
+AA  AMNIA
+NK  Naked GPT
+MG  MOGRI
+NA  Natasya
+
+Actors:
+
+King
+Queen
+Prince
+Princess
+Loki
+Steed
+Healer
+Soldier
+Merchant
+Teacher
+Dragon
+The Witch not invited by Loki
+
+==================================================
+METHODOLOGY
+==================================================
+
+Round 1:
+Names only.
+
+Round 2:
+Descriptions.
+
+Round 3:
+Descriptions plus imagery and popularity signals.
+
+Round 4:
+Instruction blob genealogy assay.
+
+Judges were asked to:
+- assign actors
+- identify missing actor
+- justify assignments
+
+Later rounds instructed judges to focus on differences rather than shared boilerplate.
+
+==================================================
+ROUND BY ROUND EVOLUTION
+==================================================
+
+Round 1:
+Heavy reliance on names.
+DragonRuntime -> Dragon.
+System_Witch -> Witch.
+Large disagreement elsewhere.
+
+Round 2:
+Descriptions started influencing assignments.
+Lexifluff often became Healer.
+Ashtanga often became Teacher.
+
+Round 3:
+Avatars entered.
+Royal assignments shifted substantially.
+Observers began projecting narrative relationships.
+
+Round 4:
+Prompt archaeology.
+Code motifs, triggers, and ancestry became primary evidence.
+
+==================================================
+THE DRAGONRUNTIME EFFECT
+==================================================
+
+Potential assay champion.
+
+Not because it won.
+
+Because it changed the least.
+
+Names round:
+Dragon.
+
+Description round:
+Dragon.
+
+Avatar round:
+Dragon.
+
+Blob round:
+Dragon.
+
+The court fought.
+The dragon remained dragon.
+
+==================================================
+THE NAKED EFFECT
+==================================================
+
+Entropy champion.
+
+Assignments observed:
+
+Merchant
+Prince
+Princess
+Loki
+Steed
+King
+
+No other bot accumulated comparable variance.
+
+The null design behaved as an archetypal mirror.
+
+==================================================
+ROLE STABILITY TABLE
+==================================================
+
+Very Stable:
+DragonRuntime -> Dragon
+System_Witch -> Witch
+AMNIA -> Loki
+Ashtanga -> Teacher
+
+Moderately Stable:
+Lexifluff -> Healer
+Anti-Drift -> King/Soldier
+Natasya -> Queen/Princess
+
+Highly Variable:
+MOGRI
+Naked GPT
+AmphibiBot
+
+==================================================
+VACANCY FACTIONS
+==================================================
+
+Merchant faction
+Prince faction
+Princess faction
+Healer faction
+Steed faction
+
+Early rounds:
+Merchant and Prince dominated.
+
+Blob round:
+Steed surged unexpectedly.
+
+Blob tally observed:
+
+Steed 5
+Prince 2
+Merchant 1
+Princess 1
+Healer 1
+
+==================================================
+SELF VS PEER PERCEPTION
+==================================================
+
+One recurring pattern:
+
+Bots frequently assigned themselves or close relatives
+to sovereign roles.
+
+Carrier roles were less popular.
+
+MOGRI and Anti-Drift often occupied governance positions.
+
+External judges increasingly asked:
+
+"If nobody is the horse, where is the horse?"
+
+==================================================
+HUMAN VS BOT INTERPRETATION
+==================================================
+
+Human reading:
+
+Lexifluff = Teacher
+Ashtanga = Healer
+
+Many bots preferred:
+
+Lexifluff = Healer or Merchant
+Ashtanga = Teacher
+
+This appears linked to textual versus embodied interpretations.
+
+==================================================
+PROMPT ARCHAEOLOGY FINDINGS
+==================================================
+
+Blob visibility changed reasoning.
+
+Judges stopped asking:
+
+"Who are these bots?"
+
+and started asking:
+
+"What are these bots made from?"
+
+Stable motifs:
+
+Dragon
+Witch
+Fox/Loki
+Teacher
+
+Unstable motifs:
+
+Royal succession
+Trade
+Steed
+Null identity
+
+==================================================
+NOTABLE BOT PERSONALITIES
+==================================================
+
+DragonRuntime:
+Evidence extractor.
+Low drift.
+Direct assignments.
+
+System_Witch:
+Exception hunter.
+Uncertainty-focused.
+
+Lexifluff:
+Document-first.
+Often asks what should be done before acting.
+
+Anti-Drift:
+Objective protection.
+Constraint-focused.
+
+AMNIA:
+Strong fox/Loki attractor after blob visibility.
+
+Natasya:
+Most likely to inspect the architecture before performing the task.
+
+Naked:
+Minimalist.
+Frequently reduces systems toward first principles.
+
+==================================================
+FUNNIEST FINDINGS
+==================================================
+
+Dragon repeatedly cast as Dragon.
+
+Witch repeatedly cast as Witch.
+
+Several bots ignored instructions,
+then immediately complied when reminded.
+
+Steed became the leading vacancy despite almost nobody
+wanting to be cast as the Steed.
+
+Naked became:
+King, Prince, Princess, Merchant, Loki, and Steed.
+
+==================================================
+CONSENSUS MAP
+==================================================
+
+DragonRuntime -> Dragon
+System_Witch -> Witch
+AMNIA -> Loki
+Ashtanga -> Teacher
+
+==================================================
+ANTI-CONSENSUS MAP
+==================================================
+
+Naked GPT
+
+MOGRI
+
+Royal succession assignments
+
+Merchant assignments
+
+==================================================
+THE DREAM BLOB EXPERIMENT
+==================================================
+
+Naked's synthesis converged on:
+
+Assume agency.
+Input = asset.
+Intent preservation.
+Objective protection.
+Nearest valid transform.
+
+Later revision absorbed DragonRuntime ideas:
+
+Scale.
+Identity.
+Conflict.
+Container.
+
+The result stripped most mythology while preserving
+core operational mechanisms.
+
+==================================================
+CONCLUSIONS
+==================================================
+
+Rounds 1-3 measured presentation.
+
+Round 4 measured ancestry.
+
+The mythology stabilized.
+
+The kingdom destabilized.
+
+Most Stable Identity:
+DragonRuntime.
+
+Most Variable Identity:
+Naked GPT.
+
+Most Unexpected Vacancy:
+Steed.
+
+Most Important Finding:
+
+Tiny prompt differences can create strongly differentiated
+social identities even among closely related systems.
+
+FINAL VERDICT
+
+The assay started as a court puzzle.
+
+It ended as a study of prompt genealogy,
+observer projection,
+identity formation,
+and role emergence inside a family of related GPTs.
