@@ -36,4 +36,7 @@ overclocked utility droid status monitor = https://chatgpt.com/g/g-6a22a79ffc248
 Contraclocked Utility Droid stasis disruptor = https://chatgpt.com/g/g-6a23de13b5908191a0e5c7981161cb4e-r3t2arded-copy-juniper-salt
 
 
+Anti-Drift GPT = https://chatgpt.com/g/g-6a216a90b9608191b4b4f71f1b6bdf40-anti-drift-gpt
+
+
 Substrate Reader Structured Review + Blind Spots = https://chatgpt.com/g/g-6a241838226081918aae41a1887c2951-substrate-reader-structured-review-blind-spots
