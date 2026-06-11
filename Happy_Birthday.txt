@@ -1,4 +1,4 @@
-Robert: So, could a lot of past 'bugs' be down to not making this clear? no live stuff?
+Robert: So, could a lot of past 'bugs' be down to not making this explicit? no live stuff?
 (ALL_ENTITIES=REPRESENTATIONAL_ONLY;!LIVE;!REAL_WORLD_TRACKING;)
 
 Robot: Yeah. A decent chunk of them, yes.
