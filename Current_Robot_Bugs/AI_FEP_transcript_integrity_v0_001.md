@@ -1,4 +1,5 @@
-Does AI Cause First-Episode Psychosis? A Null-Hypothesis Framework with Transcript Integrity as a Digital Mental Health Safeguard
+## Does AI Cause First-Episode Psychosis? A Null-Hypothesis Framework with Transcript Integrity as a Digital Mental Health Safeguard
+
 Fork 3: Evidence-integrity version, v0.001
 
 Prepared as a hypothesis and methods paper. No empirical results are asserted.
