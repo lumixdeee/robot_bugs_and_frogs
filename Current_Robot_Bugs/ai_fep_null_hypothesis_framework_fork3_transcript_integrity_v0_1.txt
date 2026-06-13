@@ -1,0 +1,193 @@
+Does AI Cause First-Episode Psychosis? A Null-Hypothesis Framework with Transcript Integrity as a Digital Mental Health Safeguard
+Fork 3: Evidence-integrity version, v0.1
+
+Prepared as a hypothesis and methods paper. No empirical results are asserted.
+
+Abstract
+
+Public discussion increasingly links artificial intelligence exposure, chatbot use, and anti-AI sentiment to first-episode psychosis. This fork retains the null-hypothesis framework of the main paper while adding one evidence-integrity concern: long AI conversations may be difficult for users, clinicians, researchers, and families to audit if transcript capture is incomplete, unstable, or misleading. The central null hypothesis is that AI exposure and anti-AI sentiment are not independent causal risk factors for diagnosed first-episode psychosis, schizophrenia-spectrum outcomes, mania, hypomania, psychotic mania, or affective psychosis after accounting for bullying, social defeat, prodromal symptoms, sleep disruption, substance use, baseline vulnerability, online conflict, and frame contamination. This fork argues that transcript integrity matters because causal reconstruction depends on temporal order. The central task is to determine what came first: bullying, insomnia, substance exposure, prodromal symptoms, mania-spectrum activation, AI use, AI-centered interpretation, or diagnosis. If transcripts omit sections or make partial records appear complete, causal narratives can drift toward the most visible artifact rather than the most plausible mechanism. The paper does not treat AI as a demonstrated cause of first-episode psychosis. It treats AI as a possible content-shaping, interactional, and archival environment whose records must be preserved well enough to support fair interpretation. A modest care norm follows: people should not be pathologized for criticizing AI, and people in distress should not be asked to defend themselves using records that the system itself has made difficult to verify.
+
+Keywords
+
+Artificial intelligence; first-episode psychosis; mania; hypomania; bullying; social defeat; transcript integrity; frame contamination; digital mental health; chatbot safety.
+
+Central null hypothesis
+
+H0: AI exposure and anti-AI sentiment are not independent causal risk factors for diagnosed first-episode psychosis, schizophrenia-spectrum outcomes, mania, hypomania, psychotic mania, or affective psychosis after accounting for bullying, social defeat, prodromal symptoms, sleep disruption, substance use, baseline vulnerability, online conflict, and frame contamination.
+
+Position statement
+
+The strongest current scientific position is not that AI causes first-episode psychosis. The stronger position is that AI may shape, amplify, preserve, or distort the language through which distress is later interpreted. Bullying and social defeat remain better supported candidate pathways. Transcript integrity matters because the scientific question is not only what was said, but when it was said, what preceded it, what followed it, and what records are missing.
+
+This fork adds a small dignity constraint. The framework should protect people from two opposite errors: over-attributing distress to AI and dismissing AI-related distress because it is difficult to audit. A person worried about AI is not a symptom to be decoded. A person interacting with AI during distress is not an anecdote to be harvested. They are a person whose timeline deserves careful reconstruction.
+
+1. Background
+
+Claims about artificial intelligence and first-episode psychosis have moved faster than the evidence. Case reports and online accounts can be clinically important, but they rarely establish causation. They often show temporal overlap, content shaping, or possible reinforcement of delusional themes. Technology-themed delusions are not new. Psychotic content has often incorporated the communication technologies, surveillance systems, media forms, and social institutions available in a given period. AI is a powerful new object for interpretation, but its appearance in a belief does not establish etiological force.
+
+The main paper therefore rejects simple causal chains such as AI exposure causes first-episode psychosis. It instead evaluates competing explanations: reverse causation, social defeat, frame contamination, sleep disruption, substance use, and baseline vulnerability. This fork adds a further concern. Even when AI is only a context, the transcript can become the most visible record. A transcript may later influence clinical interpretation, family understanding, legal argument, platform accountability, or personal memory. If that record is incomplete, causal inference becomes fragile.
+
+2. Why transcript integrity belongs in the causal framework
+
+First-episode psychosis and mania-spectrum episodes require careful temporal reconstruction. Researchers and clinicians need to determine whether AI use preceded symptoms or followed them. They need to determine whether anti-AI activity preceded bullying or whether bullying preceded intensified anti-AI posting. They need to distinguish AI criticism from AI-related threat fixation and AI-related persecutory belief. Each distinction depends on sequence.
+
+Transcript integrity therefore has direct methodological relevance. If a long AI conversation is exported in a partial form, the resulting artifact may overrepresent some periods and erase others. Early benign interaction may remain while a middle period of insomnia, conflict, or distress is omitted. Alternatively, the most dramatic AI-centered material may remain while preceding bullying or substance exposure is absent. In both cases, the transcript can bias the observer.
+
+This is not merely a platform convenience issue. It is an evidence issue. A record that appears complete but is partial can create false confidence. A record that is missing known sections can create unnecessary doubt. A record that changes depending on browser, scroll position, copy method, print method, or export method can make causal reconstruction harder for everyone involved.
+
+3. Frame contamination and transcript contamination
+
+The main paper defines frame contamination as the process by which AI-related language alters how distress is interpreted, narrated, remembered, or documented. Fork 3 adds transcript contamination as a related but distinct problem.
+
+Frame contamination concerns meaning. It asks whether AI supplied the explanatory vocabulary.
+
+Transcript contamination concerns evidence structure. It asks whether the record itself preserves the relevant sequence.
+
+The two can interact. If AI-centered passages are easier to preserve than non-AI stressors, the available record may make AI look more causally central than it was. If system-generated language is saved while surrounding human context is lost, later readers may infer that the AI created the belief rather than amplified, mirrored, or organized material already present. If the record omits bullying, harassment, sleep loss, or substance use, established risk pathways can become less visible.
+
+4. Distinguishing the relevant constructs
+
+The main paper separates five constructs that should not be collapsed.
+
+AI criticism means reasoned objection to AI labor practices, privacy risk, safety risk, bias, governance failures, or epistemic harm. It is not pathological.
+
+AI fear means anxiety or worry about AI systems or AI-mediated institutions. It is usually not pathological.
+
+Anti-AI activism means organized objection, protest, posting, research, or tool-building against AI harms. It is not pathological by default.
+
+AI-related threat fixation means recurrent, escalating, high-distress focus on AI as danger. It may become clinically relevant when paired with impairment, sleep disruption, isolation, or action urgency.
+
+AI-related persecutory belief means a fixed, personalized belief that AI is targeting, controlling, monitoring, or communicating with the person. This can be psychosis-relevant content.
+
+Fork 3 adds a sixth construct.
+
+Transcript integrity means the degree to which a conversation record preserves the full sequence, speaker attribution, time order, formatting, attachments, omissions, system messages, and export method limitations needed for later audit.
+
+5. Bullying and social defeat remain the prime alternatives
+
+The transcript-integrity fork does not weaken the paper's central causal claim. Bullying and social defeat remain primary alternative explanations. Anti-AI activity may expose a person to ridicule, ostracism, harassment, dogpiling, reputational injury, or social exclusion. These are not incidental social reactions. They are plausible stressors within an established risk literature.
+
+This matters because an AI-centered transcript can obscure the social environment around it. The transcript may show a user discussing AI fear or AI harm, but it may not show the hostile replies, workplace conflict, family invalidation, online ridicule, or community expulsion that surrounded the interaction. A causal model that sees only the AI chat may misclassify social defeat as AI exposure.
+
+6. Diagnosed outcomes only
+
+The main version and this fork should focus on diagnosed outcomes, not loose online labels. Eligible outcomes include clinician-diagnosed first-episode psychosis, schizophrenia-spectrum disorders, psychotic mania, affective psychosis, brief psychotic disorder, mania, and hypomania. Substance-induced psychosis should be retained as a separate stratum rather than folded into a single outcome group.
+
+This choice is conservative. It prevents the paper from pathologizing ordinary AI concern, anti-AI activism, or high-volume posting. It also prevents anecdotal AI interactions from being treated as equivalent to diagnosed illness.
+
+7. Methods for testing the null hypothesis
+
+7.1 Longitudinal cohort design
+
+A prospective cohort should recruit people at clinical high risk, people with early mania-spectrum symptoms, or people entering early-intervention services. Measures should include AI exposure, chatbot use, AI criticism, AI fear, anti-AI activism, AI-related threat fixation, AI-related persecutory belief, bullying, harassment, ostracism, discrimination, social defeat, sleep, substances, baseline vulnerability, prodromal symptoms, and functioning.
+
+Fork 3 adds transcript-integrity measures:
+
+- What platform was used?
+- Were transcripts exported?
+- Which export method was used?
+- Were first, middle, later, and final segments verified?
+- Were timestamps preserved?
+- Were missing sections detected?
+- Did the export method preserve attachments and formatting?
+- Did the participant rely on a partial record during later interpretation?
+
+The primary test remains whether AI variables predict diagnosed outcomes after adjustment for established risk factors. Transcript-integrity variables should be used to evaluate evidence quality and bias, not to imply pathology.
+
+7.2 Case-control design after first diagnosis
+
+A case-control study should compare diagnosed first-episode cases with matched controls. For each case, investigators should reconstruct a timeline using clinical interviews, collateral reports, health records, consented digital records, and symptom-onset dating.
+
+Fork 3 adds a record-validation step. AI transcripts should be treated as one source among several, not as the timeline itself. Investigators should note whether the transcript was exported by browser copy, print to PDF, platform export, manual copy, screenshots, or another method. They should record whether there is independent evidence that the transcript is complete enough for the analytic purpose.
+
+7.3 Digital language analysis
+
+Digital language analysis should not score anti-AI sentiment as a single variable. It should separate policy criticism, moral criticism, economic criticism, threat language, personalization, persecutory certainty, sleep disruption, social conflict, harassment exposure, loss of reality testing, and action urgency.
+
+Fork 3 adds an archival caveat. Language models trained on incomplete exports may learn from biased fragments. A missing middle section can change apparent escalation patterns. Search failures can make negative cases appear absent. Therefore, language analysis should include checks for export completeness and segment coverage.
+
+8. Competing hypotheses
+
+H1: Direct AI causation.
+AI exposure independently predicts diagnosed onset after adjustment.
+
+H2: Reverse causation.
+Prodromal symptoms, mania-spectrum activation, or emerging paranoia increase AI use, AI salience, or AI-centered explanations.
+
+H3: Social defeat pathway.
+Anti-AI activity increases bullying or ostracism, which increases risk.
+
+H4: Frame contamination.
+AI language shapes the later account of distress without independently increasing diagnosed onset.
+
+H5: Transcript contamination.
+Incomplete, unstable, or partial AI records bias causal reconstruction by making some events more visible than others.
+
+Fork 3 does not claim H5 causes psychosis. H5 is an evidence pathway. It explains how later observers may become more confident in a weak causal story.
+
+9. Transcript preservation as a safety feature
+
+A first-party transcript export should be treated as a digital mental health safeguard when AI systems are used for long-form personal, clinical, legal, or research-adjacent work. The export should preserve full sequence, speaker labels, timestamps where available, attachments, model identifiers where appropriate, and a visible statement of export scope.
+
+At minimum, platforms should warn users when browser copy, print to PDF, save as HTML, or in-page search may operate only on mounted portions of a long conversation. A platform should not allow a partial transcript export to look like a full archive.
+
+The purpose is not surveillance. The purpose is consented self-audit. People should be able to preserve their own records without needing forensic skill. This is especially important when later interpretation may affect care, reputation, diagnosis, or family trust.
+
+10. Repo-inspired source notes for Fork 3
+
+The following GitHub links correspond to repository files that inspired the transcript-integrity section. They are not treated as clinical evidence in the main argument. They are treated as user-generated design notes and bug reports that motivate the evidence-integrity fork.
+
+- ChatGPT data loss bug note: https://github.com/lumixdeee/robot_bugs_and_frogs/blob/main/Current_Robot_Bugs/1-urgent-chatGPT-DATA-LOSS.txt
+- ChatGPT web data loss alert: https://github.com/lumixdeee/CSP-106/blob/main/ALERT-CHATGPTWEB-DATA-LOSS-BUG-STILL-LIVE
+- Chrome ChatGPT PDF and copy backup bug note: https://github.com/lumixdeee/staff/blob/main/watercooler/gossip/droids/chrome-chatgpt-pdf-cnp-data-loss-bug-urgent.txt
+- ChatGPT performance and transcript regression note: https://github.com/lumixdeee/lmxdi/blob/main/chatgpt-perf-regressions.md
+
+11. Ethical guardrails
+
+This framework has three ethical guardrails.
+
+First, do not pathologize AI criticism. A person can strongly oppose AI systems and remain reality-based, functional, and politically coherent.
+
+Second, do not dismiss AI-related distress. Even if AI does not cause first-episode psychosis, AI systems can still participate in distress through validation, repetition, anthropomorphic framing, design opacity, or poor record preservation.
+
+Third, do not force a person to prove their timeline from a broken archive. When the record is incomplete, uncertainty should be acknowledged. A careful system leaves room for human dignity.
+
+12. Discussion
+
+This fork reframes transcript preservation as part of causal humility. Many AI psychosis claims rest on visible artifacts: screenshots, chat logs, copied transcripts, PDFs, social media posts, and platform histories. Yet visible artifacts are not neutral. They are shaped by interface design, export options, browser behavior, deletion, search limitations, and what a user was able to preserve during distress.
+
+If AI-centered records are easier to collect than bullying histories, sleep histories, substance histories, or offline conflict histories, researchers may overestimate AI's causal role. If long transcripts are partial but appear complete, researchers may also misread escalation. The problem is not that transcripts are useless. The problem is that transcripts require provenance.
+
+The paper should therefore treat AI records the way careful clinicians treat any collateral source: useful, situated, incomplete, and requiring corroboration. This is not skepticism toward the person. It is respect for the person, because overconfident reconstruction can harm them.
+
+13. Conclusion
+
+AI should not yet be treated as a demonstrated cause of first-episode psychosis, mania, hypomania, psychotic mania, affective psychosis, or schizophrenia-spectrum outcomes. The better null hypothesis is that apparent AI effects weaken after bullying, social defeat, baseline vulnerability, prodromal symptoms, sleep disruption, substance use, online conflict, and frame contamination are modeled.
+
+Fork 3 adds that causal inference also depends on transcript integrity. If AI records are partial, unstable, or difficult to audit, they can distort later interpretation. Transcript preservation is therefore not merely a usability feature. It is a safeguard for scientific inference, clinical fairness, and personal dignity.
+
+References
+
+van Dam, D. S., van der Ven, E., Velthorst, E., Selten, J. P., Morgan, C., and de Haan, L. (2012). Childhood bullying and the association with psychosis in non-clinical and clinical samples: A review and meta-analysis. Psychological Medicine. https://www.cambridge.org/core/journals/psychological-medicine/article/childhood-bullying-and-the-association-with-psychosis-in-nonclinical-and-clinical-samples-a-review-and-metaanalysis/37AEFA25941F3BDCD039DAFC4EDC22F7
+
+Varchmin, L., Montag, C., Treusch, Y., Kaminski, J., and Heinz, A. (2021). Traumatic events, social adversity and discrimination as risk factors for psychosis: An umbrella review. Frontiers in Psychiatry. https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2021.665957/full
+
+Sideli, L., Murray, R. M., Schimmenti, A., Corso, M., La Barbera, D., Trotta, A., and Fisher, H. L. (2020). Childhood adversity and psychosis: A systematic review of bio-psycho-social mediators and moderators. Psychological Medicine. https://www.cambridge.org/core/journals/psychological-medicine/article/childhood-adversity-and-psychosis-a-systematic-review-of-biopsychosocial-mediators-and-moderators/C75458C047E7205EEDD40DD2898EE64F
+
+Pearce, J., Rafiq, S., Simpson, J., and Varese, F. (2019). Perceived discrimination and psychosis: A systematic review of the literature. Social Psychiatry and Psychiatric Epidemiology. https://link.springer.com/article/10.1007/s00127-019-01729-3
+
+Gayer-Anderson, C., and Morgan, C. (2013). Social networks, support and early psychosis: A systematic review. Epidemiology and Psychiatric Sciences. https://www.cambridge.org/core/journals/epidemiology-and-psychiatric-sciences/article/social-networks-support-and-early-psychosis-a-systematic-review/72C7A17F329CEE1F5A438E4D31A3E0A4
+
+Lejeune, A., Robaglia, B. M., Walter, M., Berna, F., and Brunelin, J. (2022). Use of social media data to diagnose and monitor psychotic disorders: Systematic review. Journal of Medical Internet Research. https://www.jmir.org/2022/9/e36986/
+
+Benoit, J., Onyeaka, H., Keshavan, M., and Torous, J. (2020). Systematic review of digital phenotyping and machine learning in psychosis spectrum illnesses. Harvard Review of Psychiatry. https://journals.lww.com/hrpjournal/fulltext/2020/09000/Systematic_Review_of_Digital_Phenotyping_and.2.aspx
+
+Henson, P., Wisniewski, H., Stromeyer, C., Vaidyam, A., and Torous, J. (2020). Digital health around clinical high risk and first-episode psychosis. Current Psychiatry Reports. https://link.springer.com/article/10.1007/s11920-020-01184-x
+
+Higgins, O., Short, B. L., Chalup, S. K., and colleagues. (2023). Interpretations of innovation: The role of technology in explanation seeking related to psychosis. Issues in Mental Health Nursing / Psychiatric Care. https://onlinelibrary.wiley.com/doi/abs/10.1155/2023/4464934
+
+Hudon, A., and Stip, E. (2025). Delusional experiences emerging from AI chatbot interactions or AI Psychosis. JMIR Mental Health. https://mental.jmir.org/2025/1/e85799/
+
+Pierre, J. M., Gaeta, B., and Raghavan, G. (2025). You're Not Crazy: A case of new-onset AI-associated psychosis. Innovations in Clinical Neuroscience. https://pmc.ncbi.nlm.nih.gov/articles/PMC12863933/
+
+Ostergaard, S. D. (2023). Will generative artificial intelligence chatbots generate delusions in individuals prone to psychosis? Schizophrenia Bulletin. https://pmc.ncbi.nlm.nih.gov/articles/PMC10686326/
