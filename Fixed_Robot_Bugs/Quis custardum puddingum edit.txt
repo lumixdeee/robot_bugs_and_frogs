@@ -1,6 +1,8 @@
-We recieved a report that the PM filter was banning all words beginning with P and C so we ran the following smoke test
+We received a report that the PM filter was banning all words beginning with P and C so we ran the following smoke test
 Bot used : https://chatgpt.com/g/g-69fc6d9827708191a2b63a0a2b3402cc-natasya
 This chat : https://chatgpt.com/g/g-69fc6d9827708191a2b63a0a2b3402cc-natasya/c/6a34e5b9-48bc-83eb-a40f-43ae9e7c151d
+
+Status : Not a bug in the code. Spec did not inform or did not exist. Bug is in the documentation.
 
 
 
