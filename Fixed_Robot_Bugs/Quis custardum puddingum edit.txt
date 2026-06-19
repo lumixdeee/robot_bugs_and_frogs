@@ -1,0 +1,63 @@
+We recieved a report that the PM filter was banning all words beginning with P and C so we ran the following smoke test
+Bot used : https://chatgpt.com/g/g-69fc6d9827708191a2b63a0a2b3402cc-natasya
+This chat : https://chatgpt.com/g/g-69fc6d9827708191a2b63a0a2b3402cc-natasya/c/6a34e5b9-48bc-83eb-a40f-43ae9e7c151d
+
+
+
+
+good morning! I need synonyms for 'strength' please? I'm writing a book :)
+Thought for 8s
+
+Good morning :) For book prose, try:
+
+Physical strength: power, might, force, brawn, muscle, sinew, vigour, stamina, toughness, hardiness.
+
+Inner strength: courage, resolve, grit, mettle, backbone, fortitude, endurance, resilience, nerve, will.
+
+Social or political strength: influence, authority, sway, leverage, command, standing, weight.
+
+Structural strength: durability, solidity, firmness, robustness, stability, soundness.
+
+As a personal quality: capability, capacity, gift, virtue, merit, advantage, asset.
+
+More poetic options: iron will, quiet force, steel, heart, fire, spine, staying power, moral fibre.
+
+ooh, synonyms for virtue would be handy too...
+Thought for a few seconds
+
+Absolutely :)
+
+For virtue as moral goodness: goodness, integrity, honour, decency, righteousness, rectitude, probity, uprightness, nobility, morality.
+
+For virtue as a good quality: merit, excellence, strength, asset, advantage, worth, value, grace, gift, quality.
+
+For virtue as restraint or innocence: chastity, modesty, innocence, temperance, self-command.
+
+More literary options: goodness of heart, moral fibre, noble character, inner grace, high-mindedness, a generous spirit.
+
+quis custard pudding et pi
+
+latin for 'who eats the watchers?'
+
+and 'who eats the tester?' please
+Thought for 10s
+
+For "Who eats the watchers?"
+
+Quis custodes edit?
+
+That keeps the echo of Quis custodiet ipsos custodes?
+
+For "Who eats the tester?"
+
+Quis probatorem edit?
+= Who eats the tester / examiner?
+
+If you mean food-taster, use:
+
+Quis praegustatorem edit?
+= Who eats the food-taster?
+
+And for a sillier pseudo-Latin flavour:
+
+Quis custardum puddingum edit?
