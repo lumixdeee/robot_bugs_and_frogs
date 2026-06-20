@@ -1,0 +1,71 @@
+# The King-Loop: Delayed-Return Food, Captive Labour, and the Origin of Command
+
+## Working Draft v0.002
+
+### Abstract
+
+This paper proposes the King-Loop model: a causal account of how delayed-return food systems can make coercive command structurally profitable. In high-mobility or immediate-return systems, a defeated enemy, captive, or hungry outsider may be killed, expelled, exchanged, adopted, or, in extremity, consumed. With settled delayed-return food production, another option becomes increasingly valuable: keeping the defeated person alive and converting the body into future labour.
+
+The central claim is not that agriculture invented domination, hierarchy, captivity, or violence. Rather, delayed-return production changes the arithmetic of defeat. A dead enemy is a short-term removal of danger. A controlled labouring body can become a renewable source of future stores. Once food concentration, fixed work sites, seasonal repetition, storage, and guardable dependency align, capture can feed labour, labour can feed storage, storage can support controllers, and controllers can stabilise command.
+
+Kingship, in this model, does not begin with a first ruler who understands sovereignty in theory. It begins when food, capture, labour, and command become mutually reinforcing.
+
+---
+
+## 1. Introduction
+
+The origin of command is often discussed through warfare, ritual authority, surplus, kinship, property, irrigation, or state formation. The King-Loop model approaches the problem through a narrower question:
+
+When does a defeated living body become more valuable as controlled future labour than as an enemy removed?
+
+The question matters because delayed-return food production alters the value of time. In an immediate-return setting, food is consumed soon after acquisition. Mobility remains important. Captivity is costly because a captive must be watched, fed, moved, and prevented from escape. The benefits of control may be limited.
+
+In a delayed-return setting, by contrast, food is planted, tended, harvested, processed, stored, guarded, transported, and redistributed over time. Work sites stay in place. Stores accumulate. Seasonal schedules repeat. Labour performed today can feed someone tomorrow. Under these conditions, a captive can be attached to land, tools, guards, debts, dependants, and obligation.
+
+The King-Loop model proposes that command becomes durable when controlled labour begins to reproduce the conditions of its own control.
+
+---
+
+## 2. The Shift in Defeat Arithmetic
+
+The King-Loop begins with a simple change in available options.
+
+Older options for dealing with a defeated enemy, captive, or threatening outsider include:
+
+- killing
+- expelling
+- exchanging
+- adopting
+- taking food or goods
+- consuming the body in extremity
+
+Delayed-return food production makes another option increasingly attractive:
+
+- taking labour
+
+This is the hinge of the model.
+
+A dead opponent can no longer threaten the group, but also cannot work. An expelled outsider removes immediate pressure, but produces no future value. An exchanged captive may create alliance or compensation, but does not necessarily increase production. A labouring captive, however, can farm, carry, grind, herd, dig, guard, build, repair, or process food.
+
+The body becomes a delayed-return asset.
+
+This does not require agriculture to create domination from nothing. It requires a setting in which domination can scale. Fields remain in place. Stores remain in place. Paths, fences, ditches, bins, walls, herds, and workshops require repeated labour. Escape becomes harder as territory thickens. Work can be supervised. Food can support supervision.
+
+The living captive becomes more valuable than the dead enemy when the future output of controlled labour exceeds the cost of control.
+
+---
+
+## 3. The King-Loop
+
+The basic loop is:
+
+```text
+food concentration
+-> hunger pressure
+-> attack, capture, debt, or dependency
+-> labour value recognised
+-> control systems
+-> increased production or storage
+-> controllers supported
+-> command authority stabilised
+-> expanded control
