@@ -2,7 +2,8 @@
 
 Version: v0.001  
 Status: contact-spec paper  
-Date: 2026-06-26
+Date: 2026-06-26  
+Chat: https://chatgpt.com/share/6a3ecc70-f204-83eb-8773-ecf75a997791
 
 ## Abstract
 
