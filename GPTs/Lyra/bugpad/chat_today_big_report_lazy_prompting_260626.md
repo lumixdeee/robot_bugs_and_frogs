@@ -4,6 +4,10 @@
 **Date:** 2026-06-26  
 **Scope:** This report covers the main work done in this chat session today.  
 **Boundary:** Prediction file contents stay out of this report. Judge numbers, workflow, failures, and artifact lineage are included.
+**Chat:** https://chatgpt.com/share/6a3ecf4c-ceec-83eb-a422-3f4d5aef48e1  
+**Naked:** https://chatgpt.com/share/6a3ecc70-f204-83eb-8773-ecf75a997791  
+**Test:** https://chatgpt.com/share/6a3ecd87-993c-83eb-82e7-5373c6a6f2da  
+**Make:** https://chatgpt.com/share/6a3ecfa8-e1fc-83eb-8a4c-df65fd33a539
 
 ## 1. Executive summary
 
