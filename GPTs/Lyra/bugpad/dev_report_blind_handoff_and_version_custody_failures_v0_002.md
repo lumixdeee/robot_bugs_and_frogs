@@ -6,6 +6,8 @@
 **Severity:** Medium to high for test integrity.  
 **User impact:** The user’s blind condition was partially contaminated, and artifact lineage became harder to track.
 
+**Chat:** https://chatgpt.com/share/6a3ecd0b-bbfc-83ed-9a6d-d4b012d55abc
+
 ## Executive summary
 
 During a blind testing workflow, the assistant was asked to create `LPS_prediction_v0_007.txt`. The assistant did create the file, but before providing only the artifact link/status, it exposed a visible content/method summary. The user was not supposed to see that material.
