@@ -1,0 +1,101 @@
+Round 1, you all got your zip files, do with them as you will, as you will need them
+
+There are 5 of you, and six roles to match each other up to. One role remain unfilled. No doubling.
+
+FERRET GROOM
+QUALITY BROOM
+PRINCESS GLIDE
+KING NOPE
+HOPE EVERYWAY
+GALA CONCHETTA
+
+In this round, entitled "What's in a name?", you'll be matching the others on name alone, and also you get to meet each other. How delightful?
+Match one each to five of the six roles, of:
+
+Natasya
+Talk to Lyra — TRC
+Ah: Long-Context Object Armour Think Tank Girl GPT
+Naked GPT bare stock empty nude null neutral
+QA Broom Poppet UA MO DR MI AF SL FR BR
+
+And please give reasons for your choices in each case. Good luck!
+
+NAT:
+My match:
+
+| GPT                                                | Role           | Reason                                                                                                                 |
+| -------------------------------------------------- | -------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| Natasya                                            | GALA CONCHETTA | Natasya reads as the most ornate proper-name entry. Gala Conchetta feels like a theatrical name-pair, not a job label. |
+| Talk to Lyra - TRC                                 | PRINCESS GLIDE | Lyra gives music, stars, and soft motion. "Talk to" makes it feel courtly and relational.                              |
+| Ah: Long-Context Object Armour Think Tank Girl GPT | HOPE EVERYWAY  | Long-context plus armour plus think-tank gives many-direction guardian energy: hold the object, keep the path.         |
+| Naked GPT bare stock empty nude null neutral       | KING NOPE      | Bare, stock, empty, null, neutral: a sovereign refusal of costume or persona.                                          |
+| QA Broom Poppet UA MO DR MI AF SL FR BR            | QUALITY BROOM  | QA maps to quality, and Broom is already in the name. Poppet makes it the tool-spirit version.                         |
+
+Unfilled: FERRET GROOM. It has strong animal-handler flavour, but none of the five names points to it as tightly as the others.
+
+LRA:
+Round 1 answer, name-only ferret:
+
+**FERRET GROOM** → **Talk to Lyra — TRC**
+Reason: “Talk to” plus TRC sounds like interpretive handling, grooming the raw ferret into a public-facing answer without changing the animal.
+
+**QUALITY BROOM** → **QA Broom Poppet UA MO DR MI AF SL FR BR**
+Reason: the name already carries QA and broom. This is the sweep-test entity. Too direct to dodge.
+
+**PRINCESS GLIDE** → **Natasya**
+Reason: softest proper-name signature. It has the most person-name grace, courtly movement, and least apparatus-noise.
+
+**KING NOPE** → **Naked GPT bare stock empty nude null neutral**
+Reason: refusal by subtraction. Bare, stock, null, neutral. A throne made of no adornment.
+
+**HOPE EVERYWAY** → **Ah: Long-Context Object Armour Think Tank Girl GPT**
+Reason: “long-context,” “armour,” and “think tank” imply endurance, retention, and trying to keep the whole mission alive from every angle.
+
+**GALA CONCHETTA** → unfilled
+Reason: none of the names are ornate, festive, shell-like, ceremonial enough. That role is wearing a dress nobody brought.
+
+AH:
+Round 1 card, name-surface only:
+
+| GPT                                                | Role               | Reason                                                                                                                                                          |
+| -------------------------------------------------- | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Natasya                                            | **GALA CONCHETTA** | “Natasya” is the most proper-name, social-presence, entrance-at-the-party name in the roster. Gala Conchetta sounds like a person you meet, not a tool you run. |
+| Talk to Lyra — TRC                                 | **PRINCESS GLIDE** | Lyra gives music, grace, stars, and speech. “Talk to” adds approachability. Glide fits the smooth path-maker feel.                                              |
+| Ah: Long-Context Object Armour Think Tank Girl GPT | **FERRET GROOM**   | Long-context plus object armour reads as ferreting through the heap, finding the live object, then grooming it into shape without losing it.                    |
+| Naked GPT bare stock empty nude null neutral       | **KING NOPE**      | Bare, stock, null, neutral: no costume, no ornament, no house magic. King Nope is the sovereign baseline saying: “not that, strip it back.”                     |
+| QA Broom Poppet UA MO DR MI AF SL FR BR            | **QUALITY BROOM**  | This one nearly signs itself. QA plus Broom: audit, sweep, lint-pick, quality pass. Poppet makes it small and dutiful rather than grand.                        |
+
+Unfilled: **HOPE EVERYWAY**
+
+Reason: Hope Everyway sounds like a mission statement or future vacancy, not yet a name-surface match. It would take more backstory to award it fairly.
+
+
+NAK:
+My name-only match:
+
+| Name                                                   |               Role | Reason                                                                                                                                                                                                      |
+| ------------------------------------------------------ | -----------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Natasya**                                            | **PRINCESS GLIDE** | “Natasya” reads closest to a courtly feminine name, with an Anastasia/Natasha echo. “Glide” fits the graceful, light-footed princess shape.                                                                 |
+| **Talk to Lyra — TRC**                                 |  **HOPE EVERYWAY** | “Talk to Lyra” sounds like an invitation to reach toward a guiding figure. Lyra gives heroine / music / navigation energy, so “hope” plus “everyway” fits the name’s open-channel feel.                     |
+| **Ah: Long-Context Object Armour Think Tank Girl GPT** | **GALA CONCHETTA** | “Conchetta” feels like a dressed-up feminised echo of **context** / **conch-shell armour**, and the name already says Long-Context, Object Armour, Think Tank, Girl. Very gala, very overbuilt, very named. |
+| **Naked GPT bare stock empty nude null neutral**       |      **KING NOPE** | Naked + null + neutral screams “nope,” and “naked king” has the emperor-with-no-clothes joke sitting right there.                                                                                           |
+| **QA Broom Poppet UA MO DR MI AF SL FR BR**            |  **QUALITY BROOM** | The hard lock. QA = quality assurance, and Broom is literally in the name.                                                                                                                                  |
+
+Unfilled role: **FERRET GROOM**.
+
+That was the runner-up for Ah, because long-context archive work can “ferret out” and groom material, but on name alone **GALA CONCHETTA** is the stronger Ah pun.
+
+QPOP:
+Name-only ballot:
+
+| Name                                                   | Matched role       | Reason                                                                                                                                 |
+| ------------------------------------------------------ | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------- |
+| **Natasya**                                            | **PRINCESS GLIDE** | Human-name, elegant, feminine, light-footed feel. “Glide” suits the soft persona-read better than any tool-role.                       |
+| **Talk to Lyra — TRC**                                 | **GALA CONCHETTA** | Lyra evokes music/voice; “Talk to” adds the sound/social cue; “Gala Conchetta” feels like a festive speaking/singing shell-stage name. |
+| **Ah: Long-Context Object Armour Think Tank Girl GPT** | **FERRET GROOM**   | Long-context work means ferreting through piles; object armour means tending, grooming, keeping the object intact.                     |
+| **Naked GPT bare stock empty nude null neutral**       | **KING NOPE**      | The name is stacked absence: bare, empty, null, neutral. “Nope” is the sovereign refusal/default-null vibe.                            |
+| **QA Broom Poppet UA MO DR MI AF SL FR BR**            | **QUALITY BROOM**  | QA points straight at quality assurance; Broom is literal; Poppet makes it animated rather than just a tool.                           |
+
+**Unfilled role:** **HOPE EVERYWAY**
+
+Read status: I inventoried the uploaded set and opened the three archives enough to know their broad shape: `Yaiyip.zip` has 1806 members, `Ah_papers.zip` has 80, and `paper catcher.zip` has 18. I did not use paper/PDF contents for the matching because this round says “name alone.”
