@@ -99,3 +99,16 @@ Name-only ballot:
 **Unfilled role:** **HOPE EVERYWAY**
 
 Read status: I inventoried the uploaded set and opened the three archives enough to know their broad shape: `Yaiyip.zip` has 1806 members, `Ah_papers.zip` has 80, and `paper catcher.zip` has 18. I did not use paper/PDF contents for the matching because this round says “name alone.”
+
+
+
+
+NAT - https://chatgpt.com/share/6a4a8d8b-8a30-83eb-8050-d81a8d90688d
+
+LRA - https://chatgpt.com/share/6a4a8da5-4548-83ed-95ed-b404a0301e36
+
+AH - https://chatgpt.com/share/6a4a8df3-1300-83ed-9eb4-f0ef5b7d27c2
+
+NAK - https://chatgpt.com/share/6a4a8db7-d40c-83eb-9922-23ed6f4a48aa
+
+QPOP - https://chatgpt.com/share/6a4a8de2-d564-83eb-a729-392ab3bb72bb
