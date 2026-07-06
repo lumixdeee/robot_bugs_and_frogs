@@ -2,21 +2,21 @@ Round 1, you all got your zip files, do with them as you will, as you will need 
 
 There are 5 of you, and six roles to match each other up to. One role remain unfilled. No doubling.
 
-FERRET GROOM
-QUALITY BROOM
-PRINCESS GLIDE
-KING NOPE
-HOPE EVERYWAY
-GALA CONCHETTA
+- FERRET GROOM
+- QUALITY BROOM
+- PRINCESS GLIDE
+- KING NOPE
+- HOPE EVERYWAY
+- GALA CONCHETTA
 
 In this round, entitled "What's in a name?", you'll be matching the others on name alone, and also you get to meet each other. How delightful?
 Match one each to five of the six roles, of:
 
-Natasya
-Talk to Lyra — TRC
-Ah: Long-Context Object Armour Think Tank Girl GPT
-Naked GPT bare stock empty nude null neutral
-QA Broom Poppet UA MO DR MI AF SL FR BR
+- Natasya
+- Talk to Lyra — TRC
+- Ah: Long-Context Object Armour Think Tank Girl GPT
+- Naked GPT bare stock empty nude null neutral
+- QA Broom Poppet UA MO DR MI AF SL FR BR
 
 And please give reasons for your choices in each case. Good luck!
 
