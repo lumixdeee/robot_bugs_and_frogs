@@ -1,4 +1,4 @@
-# Bug Report: Today Sweep v0.001
+# Bug Report: 6 7 26 Sweep v0.001
 
 Status: for dev review.
 
