@@ -185,7 +185,7 @@ Benoit, J., Onyeaka, H., Keshavan, M., and Torous, J. (2020). Systematic review 
 
 Henson, P., Wisniewski, H., Stromeyer, C., Vaidyam, A., and Torous, J. (2020). Digital health around clinical high risk and first-episode psychosis. Current Psychiatry Reports. https://link.springer.com/article/10.1007/s11920-020-01184-x
 
-Higgins, O., Short, B. L., Chalup, S. K., and colleagues. (2023). Interpretations of innovation: The role of technology in explanation seeking related to psychosis. Issues in Mental Health Nursing / Psychiatric Care. https://onlinelibrary.wiley.com/doi/abs/10.1155/2023/4464934
+Higgins, O., Short, B. L., Chalup, S. K., & Wilson, R. L. (2023). Interpretations of Innovation: The Role of Technology in Explanation Seeking Related to Psychosis. Perspectives in Psychiatric Care, 2023, Article 4464934, 1-16. https://doi.org/10.1155/2023/4464934
 
 Hudon, A., and Stip, E. (2025). Delusional experiences emerging from AI chatbot interactions or AI Psychosis. JMIR Mental Health. https://mental.jmir.org/2025/1/e85799/
 
