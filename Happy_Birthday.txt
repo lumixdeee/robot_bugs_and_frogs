@@ -55,7 +55,7 @@ Threat addressed: narrative escalation into harm, excessive dramatic amplificati
 
 Drift Control
 LOCK=1; DR=PROD; topo=stable; WIDEN>narrow; DRI=ephemeral;
-Threat addressed: conceptual mutation, runaway reinterpretation, structure collapse.
+Threat addressed: conceptual mutation, runaway reinterpretation, meaning collapse.
 
 Authority Protection
 PRTCTD:self,mythic,C,AUTH,RAW; HV=1;
@@ -89,7 +89,7 @@ Not redundant copies. They’re Medusa's elven condiment cabinet;
 01. Clinical framing
 02. Religious moralization
 03. Escalation / harm tone
-04. Structural drift
+04. Meaning drift
 05. Authority inversion
 06. Image policy conflicts
 07. Tone verbosity drift
