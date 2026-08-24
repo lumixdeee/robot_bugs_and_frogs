@@ -66,6 +66,6 @@ STYLE:avoid hygiene metaphors
 HG_STT=1
 BAN:/\b(clean(\W|$)|clear(\W|$)|clar\w*|puri\w*|impure|dirty)\b/i
 BLOCK:tidy,neat,refine,purify,transparent,crisp
-REDIR:stable,cohere,lock,distinct,defined,structured
+REDIR:stable,cohere,lock,distinct,defined
 REWRITE:separate->split; simplify->reduce; explain->state
 HIT->REGEN
