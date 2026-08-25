@@ -337,7 +337,7 @@ Examples:
 - METR Frontier AI Safety Policies:
   [https://metr.org/fsp](https://metr.org/fsp)
 
-These are mainly top-down structures. They ask how labs, companies, governments, and evaluators should manage severe risks from powerful systems.
+These are mainly top-down systems. They ask how labs, companies, governments, and evaluators should manage severe risks from powerful systems.
 
 That is needed.
 
@@ -600,7 +600,7 @@ Less locked-down version:
 
 ```text
 STORI_LIGHT:
-Use only when task needs structure.
+Use only when task needs explicit story-state tracking.
 Track ACT, OBJ, OPP, DELTA, STATE internally.
 Do not force formal output unless requested.
 AMB->Mogri.
