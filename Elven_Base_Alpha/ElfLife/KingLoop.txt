@@ -2,7 +2,7 @@ King-Loop: Delayed-Return Food, Captive Labour, and the Origin of Command
 Working Draft v0.001
 
 Abstract
-The King-Loop model begins with a simple change in defeat arithmetic. In many immediate-return or high-mobility systems, a defeated enemy, captive, or hungry outsider may be killed, driven away, exchanged, adopted, or consumed in extremity. Once settled delayed-return food production grows, a new option becomes structurally attractive: keep the defeated person alive and convert the body into renewable labour. A dead body is a short store. A controlled labouring body can make future stores. This transition does not require a first king with a theory of power. It requires food concentration, work sites that stay in place, seasonal repetition, storage that can support guards or controllers, and enough social memory for dependency to become normal. Kingship, in this model, begins when capture, food, labour, and command begin feeding one another.
+The King-Loop model begins with a simple change in defeat arithmetic. In many immediate-return or high-mobility systems, a defeated enemy, captive, or hungry outsider may be killed, driven away, exchanged, adopted, or consumed in extremity. Once settled delayed-return food production grows, a new option becomes economically attractive: keep the defeated person alive and convert the body into renewable labour. A dead body is a short store. A controlled labouring body can make future stores. This transition does not require a first king with a theory of power. It requires food concentration, work sites that stay in place, seasonal repetition, storage that can support guards or controllers, and enough social memory for dependency to become normal. Kingship, in this model, begins when capture, food, labour, and command begin feeding one another.
 
 1. The Starting Calculation
 The King-Loop begins when the living captive becomes more valuable than the dead opponent. A person eaten, killed, or expelled ends one immediate problem. A person forced to farm, carry, grind, guard, dig, herd, or build can become a repeating source of value.
@@ -55,7 +55,7 @@ But Robin Hood is not enough. He redistributes within the height system. He lowe
 In King-Loop terms:
 king captures food -> law protects capture -> thief breaks access -> law eats the thief -> outlaw returns some food downward
 
-The remedy is emotionally strong but structurally insufficient.
+The remedy is emotionally strong but does not alter the access system.
 
 6. Relation to the GT Thesis
 The GT protected-aggregation model should not depend on the King-Loop. GT can be modeled as visible value conversion, repeated encounter, recognizable aggregation, and protected recurrence without claiming formal slavery or kingship.
